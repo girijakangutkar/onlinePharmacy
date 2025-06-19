@@ -1,7 +1,15 @@
 import React from "react";
+import Medicines from "./pages/Medicines";
+import Navbar from "./components/Navbar";
 
 const App = () => {
-  return <div>App</div>;
+  return (
+    <>
+      <Navbar/>
+      <h1>App</h1>
+      <Medicines/>
+    </>
+  );
 };
 
 export default App;
