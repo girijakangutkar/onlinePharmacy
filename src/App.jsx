@@ -8,9 +8,7 @@ import Navbar from "./components/NavBar";
 const App = () => {
   return (
     <>
-      <Navbar />
-      <h1>App</h1>
-      <Medicines />
+      <AllRoutes />
     </>
   );
 };
