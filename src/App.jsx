@@ -1,12 +1,19 @@
 import React from "react";
-import NavBar from "./components/NavBar";
+
+import Medicines from "./pages/Medicines";
+import Navbar from "./components/NavBar";
+
 
 const App = () => {
   return (
     <>
-    <NavBar />  
+
+      <Navbar/>
+      <h1>App</h1>
+      <Medicines/>
     </>
-  )
+  );
+
 };
 
 export default App;
