@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+body,
+html {
+  cursor: url("./assets/injection.png") auto;
+}
