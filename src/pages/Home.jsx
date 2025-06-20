@@ -139,7 +139,7 @@ const Home = () => {
           <div className="flex flex-col justify-center items-center align-center sm:flex-col md:flex-row lg:flex-row xl:flex-row 2xl:flex-row 3xl:flex-row gap-1 w-max p-0 mb-3 m-0-auto">
             <div
               className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
-              onClick={() => navigate("/medicines")}
+              onClick={() => navigate("/Medicinal")}
             >
               <img
                 // src="https://img.freepik.com/free-vector/illustration-thermometer_53876-43945.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
