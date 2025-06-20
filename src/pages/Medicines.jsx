@@ -1,8 +1,8 @@
-import React from "react";
+import React, { useState } from "react";
 
 const Medicines = () => {
-  const [searchTerm, setSearchTerm] = React.useState("");
-  const [displayedMedicines, setDisplayedMedicines] = React.useState([]);
+  const [searchTerm, setSearchTerm] = useState("");
+  const [displayedMedicines, setDisplayedMedicines] = useState([]);
 
   const medicines = [
     { id: 1, name: "Aspirin" },
