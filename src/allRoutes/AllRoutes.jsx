@@ -11,6 +11,7 @@ import HealthCare from "../subPages/HealthCare";
 import Diabetes from "../subPages/Diabetes";
 import Medicines from "../subPages/Medicines";
 import Aurved from "../subPages/Aurvedic";
+import BabyCare from "../subPages/BabyCare";
 
 const AllRoutes = () => {
   return (
@@ -26,6 +27,7 @@ const AllRoutes = () => {
         <Route path="/diabetes" element={<Diabetes />} />
         <Route path="/medicines" element={<Medicines />} />
         <Route path="/aurved" element={<Aurved />} />
+        <Route path="/babyCare" element={<BabyCare />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </div>

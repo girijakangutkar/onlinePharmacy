@@ -8,6 +8,7 @@ import {
 } from "react-icons/tb";
 import PrescriptionForm from "./PrescriptionForm";
 import { useNavigate } from "react-router-dom";
+import Advertise from "../subPages/Advertise";
 
 const Home = () => {
   const scrollRef = useRef(null);
@@ -16,7 +17,7 @@ const Home = () => {
 
   const scrollMed = (direction) => {
     if (scrollRef.current) {
-      const scrollAmount = direction === "left" ? -300 : 300;
+      const scrollAmount = direction === "left" ? -400 : 400;
       scrollRef.current.scrollBy({
         left: scrollAmount,
         behavior: "smooth",
@@ -43,14 +44,14 @@ const Home = () => {
         >
           <div className="flex flex-col gap-10 w-max p-2">
             <div className="flex flex-row justify-center font-bold text-xl w-full">
-              <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
+              {/* <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
                 <img
                   src="https://img.freepik.com/free-vector/isometric-gastroenterology-composition-with-view-medication-with-tubes-pills-illustration_1284-63536.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                   className="w-90 h-40 rounded-lg object-contain"
                   alt="Medicines"
                 />
                 <h2 className="text-center">Medicines</h2>
-              </div>
+              </div> */}
               <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
                 <img
                   src="https://img.freepik.com/free-vector/scientists-working-concept_52683-35725.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
@@ -138,6 +139,18 @@ const Home = () => {
           <div className="flex flex-col justify-center items-center align-center sm:flex-col md:flex-row lg:flex-row xl:flex-row 2xl:flex-row 3xl:flex-row gap-1 w-max p-0 mb-3 m-0-auto">
             <div
               className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
+              onClick={() => navigate("/medicines")}
+            >
+              <img
+                // src="https://img.freepik.com/free-vector/illustration-thermometer_53876-43945.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                src="https://img.freepik.com/free-vector/isometric-gastroenterology-composition-with-view-medication-with-tubes-pills-illustration_1284-63536.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                className="w-90 h-50 rounded-lg object-fill"
+                alt="Medicines"
+              />
+              <h2>Medicines</h2>
+            </div>
+            <div
+              className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
               onClick={() => navigate("/aurved")}
             >
               <img
@@ -169,18 +182,6 @@ const Home = () => {
                 alt="Diabetes"
               />
               <h2>Diabetes</h2>
-            </div>
-            <div
-              className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
-              onClick={() => navigate("/medicines")}
-            >
-              <img
-                // src="https://img.freepik.com/free-vector/illustration-thermometer_53876-43945.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
-                src="https://img.freepik.com/free-vector/isometric-gastroenterology-composition-with-view-medication-with-tubes-pills-illustration_1284-63536.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
-                className="w-90 h-50 rounded-lg object-fill"
-                alt="Medicines"
-              />
-              <h2>Medicines</h2>
             </div>
             <div
               className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
@@ -228,14 +229,17 @@ const Home = () => {
               />
               <h2>Bone care</h2>
             </div>
-            {/* <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            <div
+              className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
+              onClick={() => navigate("/babyCare")}
+            >
               <img
-                src="https://img.freepik.com/free-vector/overweight-man-eating-burger-tiny-people-giving-fast-food-overeating-addiction-binge-eating-disorder-compulsive-overeating-treatment-concept-pinkish-coral-bluevector-isolated-illustration_335657-1474.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                src="https://img.freepik.com/free-vector/pediatrician-concept-illustration_114360-8935.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
-                alt="Life style"
+                alt="Baby care"
               />
-              <h2>Life style</h2>
-            </div> */}
+              <h2>Baby care</h2>
+            </div>
           </div>
         </div>
 
@@ -298,6 +302,9 @@ const Home = () => {
           <PrescriptionForm handleUploadForm={handleUploadForm} />
         </>
       )}
+      {/* <div>
+        <Advertise />
+      </div> */}
     </div>
   );
 };

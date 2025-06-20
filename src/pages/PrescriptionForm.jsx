@@ -38,7 +38,7 @@ const PrescriptionForm = ({ handleUploadForm }) => {
   };
 
   return (
-    <div className=" w-[85%] m-2 mt-0 top-30 sm:top:25 md:top-25 md:w-[50%] lg:top-30 xl:top-40 2xl:top-60 3xl:top-60 bg-gray-100 p-10 rounded-lg shadow-lg z-1000 absolute">
+    <div className=" w-[85%] m-2 mt-0 top-30 sm:top:25 md:top-25 md:w-[50%] lg:top-30 xl:top-40 2xl:top-40 3xl:top-40 bg-gray-100 p-10 rounded-lg shadow-lg z-1000 absolute">
       <div className="absolute right-4 top-4">
         <button onClick={handleUploadForm}>
           <CgCloseO size={24} color={"red"} />

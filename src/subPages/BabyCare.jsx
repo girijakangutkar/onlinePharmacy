@@ -1,23 +1,23 @@
 import React, { useEffect, useState } from "react";
 import { RingLoader } from "react-spinners";
 
-const Aurvedic = () => {
-  const [aurved, setAurved] = useState([]);
+const BabyCare = () => {
+  const [babyCare, setBabyCare] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
-    fetchAurved();
+    fetchBabyCare();
   }, []);
 
-  const fetchAurved = async () => {
+  const fetchBabyCare = async () => {
     setIsLoading(true);
     try {
       const res = await fetch(
-        "https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?perPage=50&page=6&language=en"
+        "https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/78?perPage=50&page=3&language=en"
       );
       const info = await res.json();
       //   console.log(info?.data?.data);
-      setAurved(info?.data?.data);
+      setBabyCare(info?.data?.data);
     } catch (error) {
       console.log("something went wrong: ", error);
     } finally {
@@ -46,16 +46,16 @@ const Aurvedic = () => {
         <p>sorting algorithms</p>
       </div>
       <div className="w-4/5 overflow-auto max-h-[80vh] hide-scrollbar">
-        <h1 className="font-bold text-2xl m-5 mt-0">AURVEDIC</h1>
+        <h1 className="font-bold text-2xl m-5 mt-0">BABY CARE</h1>
 
         <div className="grid justify-center m-10-auto gap-5 grid-cols-4 self-center ">
-          {aurved.map((med) => (
+          {babyCare.map((med) => (
             <div
               key={med.master_menu_item_id}
               className="flex flex-col border border-[#ccc] p-2 rounded-lg shadow-lg overflow-auto items-center content-center align-center self-center justify-center"
             >
               <img
-                src={med.image.image_name}
+                src={med?.image?.image_name}
                 alt="aurved"
                 className="object-contain h-[100px] w-[100px]"
               />
@@ -81,4 +81,4 @@ const Aurvedic = () => {
   );
 };
 
-export default Aurvedic;
+export default BabyCare;
