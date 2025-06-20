@@ -1,0 +1,1255 @@
+{
+  "code": 200,
+  "msg": "Menu items fetched successfully",
+  "data": {
+    "current_page": 4,
+    "data": [
+      {
+        "master_menu_item_id": 658087,
+        "master_menu_id": 109,
+        "item_name": "Alamin M Forte Capsule- 10",
+        "item_name_thai": "अलामिन एम फोर्टे कैप्सूल- 10",
+        "status": "1",
+        "price": 179.1,
+        "mrp": 196,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 8.62,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658087,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17092222476862.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658095,
+        "master_menu_id": 109,
+        "item_name": "Vitagreat Tablet- 10",
+        "item_name_thai": "विटाग्रेट टैबलेट- 10",
+        "status": "1",
+        "price": 107.1,
+        "mrp": 119,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658095,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17092222477395.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658096,
+        "master_menu_id": 109,
+        "item_name": "Homochek Capsule- 10",
+        "item_name_thai": "होमोचेक कैप्सूल- 10",
+        "status": "1",
+        "price": 105.3,
+        "mrp": 117,
+        "quantity": 999,
+        "item_description": "10 Soft Gelatin Capsule in a strip",
+        "item_description_thai": "एक पट्टी में 10 सॉफ्ट जेलाटिन कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658096,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257146387.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658098,
+        "master_menu_id": 109,
+        "item_name": "Rubired Tablet- 10",
+        "item_name_thai": "रूबिरेड टैबलेट- 10",
+        "status": "1",
+        "price": 156.6,
+        "mrp": 174,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658098,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257321622.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658100,
+        "master_menu_id": 109,
+        "item_name": "Orofer Xt Drops- 15Ml",
+        "item_name_thai": "ओरोफ़र एक्सटी ड्रॉप्स- 15 मिली",
+        "status": "1",
+        "price": 112.14,
+        "mrp": 124.6,
+        "quantity": 999,
+        "item_description": "15ml Drop in a bottle",
+        "item_description_thai": "एक बोतल में 15ml ड्रॉप",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658100,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17229313698967.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658121,
+        "master_menu_id": 109,
+        "item_name": "Folvite 5Mg Tablet- 45",
+        "item_name_thai": "फोल्वाइट 5एमजी टैबलेट- 45",
+        "status": "1",
+        "price": 68.49,
+        "mrp": 76.1,
+        "quantity": 999,
+        "item_description": "Folvite 5mg Tablet is a folic acid supplement. It is used to treat a type of anemia where you have too few red blood cells because you have too little folic acid in your body. Folic acid is needed to produce the red blood cells that carry oxygen around your body.",
+        "item_description_thai": "फोलवाइट 5mg टैबलेट एक फोलिक एसिड सप्लीमेंट है. इसका उपयोग एक प्रकार के एनीमिया के इलाज के लिए किया जाता है जहां आपके शरीर में बहुत कम लाल रक्त कोशिकाएं होती हैं क्योंकि आपके शरीर में बहुत कम फोलिक एसिड होता है। आपके शरीर में ऑक्सीजन ले जाने वाली लाल रक्त कोशिकाओं का उत्पादन करने के लिए फोलिक एसिड की आवश्यकता होती है।",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658121,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17087550446716.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658130,
+        "master_menu_id": 109,
+        "item_name": "Folitas 5Mg Tablet- 30",
+        "item_name_thai": "फोलिटास 5एमजी टैबलेट- 30",
+        "status": "1",
+        "price": 45.67,
+        "mrp": 50.74,
+        "quantity": 999,
+        "item_description": "30 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 30 टैबलेट",
+        "discountPercentage": 9.99,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658130,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257094959.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658138,
+        "master_menu_id": 109,
+        "item_name": "Neurobion Plus Tablet- 10",
+        "item_name_thai": "न्यूरोबियन प्लस टैबलेट- 10",
+        "status": "1",
+        "price": 113.49,
+        "mrp": 126.1,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658138,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257216227.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658139,
+        "master_menu_id": 109,
+        "item_name": "Gemcal Mom Tablet- 30",
+        "item_name_thai": "जेमकल मॉम टैबलेट- 30",
+        "status": "1",
+        "price": 330.3,
+        "mrp": 367,
+        "quantity": 999,
+        "item_description": "30 Tablet in a bottle",
+        "item_description_thai": "एक बोतल में 30 टेबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658139,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_1709222248355.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658143,
+        "master_menu_id": 109,
+        "item_name": "Amco Powder- 200gm-Chocolate-",
+        "item_name_thai": "एम्को पाउडर- 200 ग्राम-चॉकलेट-",
+        "status": "1",
+        "price": 299.48,
+        "mrp": 332.75,
+        "quantity": 999,
+        "item_description": "200gm Powder in a box",
+        "item_description_thai": "एक डिब्बे में 200 ग्राम पाउडर",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658143,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230256937471.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658148,
+        "master_menu_id": 109,
+        "item_name": "Ostocalcium B12 Syrup- 200ml-Banana-",
+        "item_name_thai": "ओस्टोकैल्शियम बी12 सिरप- 200 मि.ली.-केला-",
+        "status": "1",
+        "price": 165.06,
+        "mrp": 183.4,
+        "quantity": 999,
+        "item_description": "200ml syrup in a bottle",
+        "item_description_thai": "एक बोतल में 200 मिलीलीटर सिरप",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658148,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257249496.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658150,
+        "master_menu_id": 109,
+        "item_name": "Coq 300Mg Health Supplement Softgels- 15",
+        "item_name_thai": "Coq 300Mg स्वास्थ्य अनुपूरक सॉफ़्टजैल- 15",
+        "status": "1",
+        "price": 1633.5,
+        "mrp": 1815,
+        "quantity": 999,
+        "item_description": "15 Soft Gelatin Capsule in a strip",
+        "item_description_thai": "एक पट्टी में 15 सॉफ्ट जेलाटिन कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658150,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257015640.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658151,
+        "master_menu_id": 109,
+        "item_name": "Nutrolin B Plus Cap",
+        "item_name_thai": "न्यूट्रोलिन बी प्लस कैप",
+        "status": "1",
+        "price": 54.99,
+        "mrp": 61.1,
+        "quantity": 999,
+        "item_description": "15 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658151,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257234402.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658156,
+        "master_menu_id": 109,
+        "item_name": "Threptin High-Calorie Protein Diskette- 275Gm-Vanilla-",
+        "item_name_thai": "थ्रेप्टिन हाई-कैलोरी प्रोटीन डिस्केट- 275 ग्राम-वेनिला-",
+        "status": "1",
+        "price": 436.5,
+        "mrp": 485,
+        "quantity": 999,
+        "item_description": "275gm Diskette in a Tin",
+        "item_description_thai": "एक टिन में 275 ग्राम डिस्केट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658156,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17218854463107.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658167,
+        "master_menu_id": 109,
+        "item_name": "Gemcal-D3 Capsule",
+        "item_name_thai": "जेमकल-डी3 कैप्सूल",
+        "status": "1",
+        "price": 170.1,
+        "mrp": 189,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658167,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17092222485882.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658168,
+        "master_menu_id": 109,
+        "item_name": "Riconia LP Tablet- 15",
+        "item_name_thai": "रिकोनिया एलपी टैबलेट- 15",
+        "status": "1",
+        "price": 79.2,
+        "mrp": 88,
+        "quantity": 999,
+        "item_description": "15 Tablet in a bottle",
+        "item_description_thai": "एक बोतल में 15 टेबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658168,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257314536.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658169,
+        "master_menu_id": 109,
+        "item_name": "Mitovit Tablet",
+        "item_name_thai": "मिटोविट टैबलेट",
+        "status": "1",
+        "price": 75.6,
+        "mrp": 84,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658169,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17092222499948.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658171,
+        "master_menu_id": 109,
+        "item_name": "Zincovit Drop- 15Ml",
+        "item_name_thai": "जिंकविट ड्रॉप- 15 मि.ली",
+        "status": "1",
+        "price": 54,
+        "mrp": 60,
+        "quantity": 999,
+        "item_description": "15ML DROP In A Bottle",
+        "item_description_thai": "एक बोतल में 15 एमएल ड्रॉप",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658171,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257417917.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658172,
+        "master_menu_id": 109,
+        "item_name": "Threptin High-Calorie Protein Diskette- 275gm-Chocolate-",
+        "item_name_thai": "थ्रेप्टिन हाई-कैलोरी प्रोटीन डिस्केट- 275 ग्राम-चॉकलेट-",
+        "status": "1",
+        "price": 441,
+        "mrp": 490,
+        "quantity": 999,
+        "item_description": "275gm Diskette in a Tin",
+        "item_description_thai": "एक टिन में 275 ग्राम डिस्केट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658172,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257356744.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658175,
+        "master_menu_id": 109,
+        "item_name": "Ezorb Forte Tablet- 15",
+        "item_name_thai": "एज़ोर्ब फोर्ट टैबलेट- 15",
+        "status": "1",
+        "price": 247.5,
+        "mrp": 275,
+        "quantity": 999,
+        "item_description": "15 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658175,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17180013568613.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658038,
+        "master_menu_id": 109,
+        "item_name": "Vitcofol Capsule- 30",
+        "item_name_thai": "विटकोफोल कैप्सूल- 30",
+        "status": "1",
+        "price": 98.01,
+        "mrp": 108.9,
+        "quantity": 999,
+        "item_description": "30 capsule In A Strip",
+        "item_description_thai": "एक पट्टी में 30 कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658038,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257397098.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658039,
+        "master_menu_id": 109,
+        "item_name": "Folinext Tablet- 30",
+        "item_name_thai": "फोलिनेक्स्ट टैबलेट- 30",
+        "status": "1",
+        "price": 88.2,
+        "mrp": 98,
+        "quantity": 999,
+        "item_description": "30 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 30 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658039,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257095442.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658042,
+        "master_menu_id": 109,
+        "item_name": "Feronia -XT Tablet- 10",
+        "item_name_thai": "फेरोनिया -एक्सटी टैबलेट- 10",
+        "status": "1",
+        "price": 154.4,
+        "mrp": 171.55,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658042,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17170552615355.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658046,
+        "master_menu_id": 109,
+        "item_name": "Uprise-D3 Syrup",
+        "item_name_thai": "अप्राइज़-डी3 सिरप",
+        "status": "1",
+        "price": 78.93,
+        "mrp": 87.7,
+        "quantity": 999,
+        "item_description": "30ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 30ml सिरप",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658046,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257387056.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658048,
+        "master_menu_id": 109,
+        "item_name": "Bevon -CD Capsule- 10",
+        "item_name_thai": "बेवॉन-सीडी कैप्सूल- 10",
+        "status": "1",
+        "price": 141.35,
+        "mrp": 157.05,
+        "quantity": 999,
+        "item_description": "10 Soft Gelatin Capsule in a strip",
+        "item_description_thai": "एक पट्टी में 10 सॉफ्ट जेलाटिन कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658048,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230256969838.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658050,
+        "master_menu_id": 109,
+        "item_name": "Cipcal 500 Tablet- 15",
+        "item_name_thai": "सिपकैल 500 टैबलेट- 15",
+        "status": "1",
+        "price": 85.64,
+        "mrp": 95.15,
+        "quantity": 999,
+        "item_description": "15 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 टैबलेट",
+        "discountPercentage": 9.99,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658050,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257004903.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 658052,
+        "master_menu_id": 109,
+        "item_name": "Remylin Tablet- 10",
+        "item_name_thai": "रेमाइलिन टैबलेट- 10",
+        "status": "1",
+        "price": 170.59,
+        "mrp": 189.54,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 658052,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257306961.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657878,
+        "master_menu_id": 109,
+        "item_name": "Meganeuron Capsule- 10",
+        "item_name_thai": "मेगन्यूरॉन कैप्सूल- 10",
+        "status": "1",
+        "price": 103.5,
+        "mrp": 115,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657878,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257198201.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657881,
+        "master_menu_id": 109,
+        "item_name": "B-Long Tablet- 30",
+        "item_name_thai": "बी-लॉन्ग टैबलेट- 30",
+        "status": "1",
+        "price": 163.22,
+        "mrp": 181.35,
+        "quantity": 999,
+        "item_description": "30 Tablet SR in a strip",
+        "item_description_thai": "एक स्ट्रिप में 30 टैबलेट एसआर",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657881,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230256978726.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657887,
+        "master_menu_id": 109,
+        "item_name": "Orofer Xt Tablet- 10",
+        "item_name_thai": "ओरोफ़र एक्सटी टैबलेट- 10",
+        "status": "1",
+        "price": 170.51,
+        "mrp": 189.45,
+        "quantity": 999,
+        "item_description": "Orofer XT Tablet is a health supplement that is primarily used to prevent and manage nutritional deficiency anaemia related to folic acid and iron deficiency. It can help increase red blood cells and folate levels in the body. It may also aid in oxygen transportation and haemoglobin formation for increased energy and metabolism.",
+        "item_description_thai": "ओरोफ़र एक्सटी टैबलेट एक स्वास्थ्य पूरक है जिसका उपयोग मुख्य रूप से फोलिक एसिड और आयरन की कमी से संबंधित पोषण संबंधी एनीमिया को रोकने और प्रबंधित करने के लिए किया जाता है। यह शरीर में लाल रक्त कोशिकाओं और फोलेट के स्तर को बढ़ाने में मदद कर सकता है। यह बढ़ी हुई ऊर्जा और चयापचय के लिए ऑक्सीजन परिवहन और हीमोग्लोबिन निर्माण में भी सहायता कर सकता है।",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657887,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17087528372476.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657890,
+        "master_menu_id": 109,
+        "item_name": "All 9 Tablet",
+        "item_name_thai": "ऑल 9 टैबलेट",
+        "status": "1",
+        "price": 233.13,
+        "mrp": 259.03,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657890,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230256933515.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657895,
+        "master_menu_id": 109,
+        "item_name": "Caleat -KD Plus Tablet- 10",
+        "item_name_thai": "कैलीट-केडी प्लस टैबलेट- 10",
+        "status": "1",
+        "price": 195.53,
+        "mrp": 217.25,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657895,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17092222458476.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657899,
+        "master_menu_id": 109,
+        "item_name": "Fresubin Powder- 400Gm-Vanilla-",
+        "item_name_thai": "फ्रेसुबिन पाउडर- 400 ग्राम-वेनिला-",
+        "status": "1",
+        "price": 589.5,
+        "mrp": 655,
+        "quantity": 999,
+        "item_description": "400gm Powder in a Tin",
+        "item_description_thai": "एक टिन में 400 ग्राम पाउडर",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657899,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17229432357827.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657900,
+        "master_menu_id": 109,
+        "item_name": "Softeron -Z Capsule- 15",
+        "item_name_thai": "सॉफ़्टेरॉन -ज़ेड कैप्सूल- 15",
+        "status": "1",
+        "price": 64.35,
+        "mrp": 71.5,
+        "quantity": 999,
+        "item_description": "15 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657900,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257336567.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657902,
+        "master_menu_id": 109,
+        "item_name": "Calcimax Forte+ Tablet- 30",
+        "item_name_thai": "कैल्सीमैक्स फोर्ट+ टैबलेट- 30",
+        "status": "1",
+        "price": 281.7,
+        "mrp": 313,
+        "quantity": 999,
+        "item_description": "30 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 30 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657902,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17092222451866.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657903,
+        "master_menu_id": 109,
+        "item_name": "Caleat -KD Tablet- 10",
+        "item_name_thai": "कैलीट-केडी टैबलेट- 10",
+        "status": "1",
+        "price": 156.15,
+        "mrp": 173.5,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657903,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230256995076.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657911,
+        "master_menu_id": 109,
+        "item_name": "New A To Z Gold Capsule 15",
+        "item_name_thai": "नया ए टू ज़ेड गोल्ड कैप्सूल 15",
+        "status": "1",
+        "price": 202.5,
+        "mrp": 225,
+        "quantity": 999,
+        "item_description": "15 Soft Gelatin Capsule in a strip",
+        "item_description_thai": "एक पट्टी में 15 सॉफ्ट जेलाटिन कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657911,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257215571.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657917,
+        "master_menu_id": 109,
+        "item_name": "Vitafol 5Mg Tablet",
+        "item_name_thai": "विटाफोल 5एमजी टैबलेट",
+        "status": "1",
+        "price": 46.31,
+        "mrp": 51.46,
+        "quantity": 999,
+        "item_description": "30 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 30 टैबलेट",
+        "discountPercentage": 10.01,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657917,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257384241.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657922,
+        "master_menu_id": 109,
+        "item_name": "Calcimax 500 Tablet- 30",
+        "item_name_thai": "कैल्सीमैक्स 500 टैबलेट- 30",
+        "status": "1",
+        "price": 364.5,
+        "mrp": 405,
+        "quantity": 999,
+        "item_description": "Calcimax 500 Tablet is indicated for managing osteopenia, osteoporosis, arthritis, and fractures. The tablet offers high-potency elemental calcium and essential co-factors for using bio-absorbed calcium in the bones. It is a dietary supplement that provides extra calcium to the body. It helps ensure an adequate intake of calcium which is vital for men and women of all ages. It is essential for growing children, during pregnancy and breast-feeding periods, during and after menopause and for older adults. The ingredients in this formulation help in the formation and maintenance of bones. It also helps to prevent the breakage of bones.",
+        "item_description_thai": "कैल्सीमैक्स 500 टैबलेट को ऑस्टियोपेनिया, ऑस्टियोपोरोसिस, गठिया और फ्रैक्चर के प्रबंधन के लिए संकेत दिया गया है। यह टैबलेट हड्डियों में जैव-अवशोषित कैल्शियम का उपयोग करने के लिए उच्च क्षमता वाले मौलिक कैल्शियम और आवश्यक सह-कारक प्रदान करता है। यह एक आहार अनुपूरक है जो शरीर को अतिरिक्त कैल्शियम प्रदान करता है। यह कैल्शियम का पर्याप्त सेवन सुनिश्चित करने में मदद करता है जो सभी उम्र के पुरुषों और महिलाओं के लिए महत्वपूर्ण है। यह बढ़ते बच्चों, गर्भावस्था और स्तनपान के दौरान, रजोनिवृत्ति के दौरान और बाद में और बड़े वयस्कों के लिए आवश्यक है। इस फॉर्मूलेशन में मौजूद तत्व हड्डियों के निर्माण और रखरखाव में मदद करते हैं। यह हड्डियों को टूटने से बचाने में भी मदद करता है।",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657922,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17087540137145.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657923,
+        "master_menu_id": 109,
+        "item_name": "Normoz Tablet- 10",
+        "item_name_thai": "नॉर्मोज़ टैबलेट- 10",
+        "status": "1",
+        "price": 274.5,
+        "mrp": 305,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657923,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257221470.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657924,
+        "master_menu_id": 109,
+        "item_name": "Softeron Capsule- 15",
+        "item_name_thai": "सॉफ़्टेरॉन कैप्सूल- 15",
+        "status": "1",
+        "price": 58.5,
+        "mrp": 65,
+        "quantity": 999,
+        "item_description": "15 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657924,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257335610.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657925,
+        "master_menu_id": 109,
+        "item_name": "Maxepa Soft Gelatin Capsule- 30",
+        "item_name_thai": "मैक्सेपा सॉफ्ट जेलाटिन कैप्सूल- 30",
+        "status": "1",
+        "price": 368.28,
+        "mrp": 409.2,
+        "quantity": 999,
+        "item_description": "30 Soft Gelatin Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 30 सॉफ्ट जेलाटिन कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657925,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257182344.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657931,
+        "master_menu_id": 109,
+        "item_name": "Cipcal Syrup- 150ml",
+        "item_name_thai": "सिप्कैल सिरप- 150 मि.ली",
+        "status": "1",
+        "price": 81.68,
+        "mrp": 90.75,
+        "quantity": 999,
+        "item_description": "150ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 150ml सिरप",
+        "discountPercentage": 9.99,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657931,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257017497.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657941,
+        "master_menu_id": 109,
+        "item_name": "Uprise D3 1K",
+        "item_name_thai": "अप्राइज़ डी3 1के",
+        "status": "1",
+        "price": 73.78,
+        "mrp": 81.98,
+        "quantity": 999,
+        "item_description": "15 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657941,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230257374234.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657943,
+        "master_menu_id": 109,
+        "item_name": "Calcimax 250 Tablet- 30",
+        "item_name_thai": "कैल्सीमैक्स 250 टैबलेट- 30",
+        "status": "1",
+        "price": 156.15,
+        "mrp": 173.5,
+        "quantity": 999,
+        "item_description": "30 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 30 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657943,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230256984812.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657945,
+        "master_menu_id": 109,
+        "item_name": "Becosules Syrup",
+        "item_name_thai": "बेकोसूल्स सिरप",
+        "status": "1",
+        "price": 36.45,
+        "mrp": 40.5,
+        "quantity": 999,
+        "item_description": "120ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 120ml सिरप",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657945,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17230256958200.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657950,
+        "master_menu_id": 109,
+        "item_name": "Nerverich Capsule",
+        "item_name_thai": "नेरवेरिच कैप्सूल",
+        "status": "1",
+        "price": 271.8,
+        "mrp": 302,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657950,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17149763087879.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657954,
+        "master_menu_id": 109,
+        "item_name": "Gemcal Gro Suspension",
+        "item_name_thai": "जेमकल ग्रो सस्पेंशन",
+        "status": "1",
+        "price": 171.9,
+        "mrp": 191,
+        "quantity": 999,
+        "item_description": "200ml Suspension in a bottle",
+        "item_description_thai": "एक बोतल में 200 मिलीलीटर सस्पेंशन",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657954,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17229354658309.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657958,
+        "master_menu_id": 109,
+        "item_name": "Shelcal Os Tablet- 15",
+        "item_name_thai": "शेल्कल ओएस टैबलेट- 15",
+        "status": "1",
+        "price": 279.9,
+        "mrp": 311,
+        "quantity": 999,
+        "item_description": "15 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657958,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17092222465813.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 657959,
+        "master_menu_id": 109,
+        "item_name": "Shelcal -Hd 12 Tablet- 15",
+        "item_name_thai": "शेल्कल -एचडी 12 टैबलेट- 15",
+        "status": "1",
+        "price": 168.84,
+        "mrp": 187.6,
+        "quantity": 999,
+        "item_description": "Shelcal -HD 12 Tablet is a dietary supplement formulated with calcium, vitamin B12 and vitamin D3 that promotes bone and joint health. It helps in muscle contraction, muscle building and flexibility of joints. It may help improve bone health and lower osteoporosis risk.",
+        "item_description_thai": "शेल्कल -एचडी 12 टैबलेट कैल्शियम, विटामिन बी12 और विटामिन डी3 से तैयार एक आहार पूरक है जो हड्डियों और जोड़ों के स्वास्थ्य को बढ़ावा देता है। यह मांसपेशियों के संकुचन, मांसपेशियों के निर्माण और जोड़ों के लचीलेपन में मदद करता है। यह हड्डियों के स्वास्थ्य को बेहतर बनाने और ऑस्टियोपोरोसिस के जोखिम को कम करने में मदद कर सकता है।",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 109,
+          "menu_name": "Vitamins & Supplements",
+          "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 657959,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17087545494817.webp"
+        }
+      }
+    ],
+    "first_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=1",
+    "from": 151,
+    "last_page": 147,
+    "last_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=147",
+    "links": [
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=3",
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=1",
+        "label": "1",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=2",
+        "label": "2",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=3",
+        "label": "3",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=4",
+        "label": "4",
+        "active": true
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=5",
+        "label": "5",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=6",
+        "label": "6",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=7",
+        "label": "7",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=8",
+        "label": "8",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=9",
+        "label": "9",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=10",
+        "label": "10",
+        "active": false
+      },
+      {
+        "url": null,
+        "label": "...",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=146",
+        "label": "146",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=147",
+        "label": "147",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=5",
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=5",
+    "path": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109",
+    "per_page": "50",
+    "prev_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/109?page=3",
+    "to": 200,
+    "total": 7348
+  },
+  "result": {
+    "id": 109,
+    "menu_name": "Vitamins & Supplements",
+    "menu_name_thai": "विटामिन और सप्लीमेंट्स",
+    "image": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_image/original/Menu_17211317434543.webp",
+    "meta_tag": "Buy Top Vitamins & Supplements Online in India",
+    "keywords": "OnlineMedicalStore",
+    "meta_description": "Get the best vitamins & supplements in India. Get quality health essentials delivered to your doorstep in 30 Minutes. Shop now and boost your wellness!"
+  }
+}

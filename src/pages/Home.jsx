@@ -7,10 +7,12 @@ import {
   TbCircleNumber3,
 } from "react-icons/tb";
 import PrescriptionForm from "./PrescriptionForm";
+import { useNavigate } from "react-router-dom";
 
 const Home = () => {
   const scrollRef = useRef(null);
   const [openForm, setOpenForm] = useState(false);
+  const navigate = useNavigate();
 
   const scrollMed = (direction) => {
     if (scrollRef.current) {
@@ -134,15 +136,22 @@ const Home = () => {
           }}
         >
           <div className="flex flex-col justify-center items-center align-center sm:flex-col md:flex-row lg:flex-row xl:flex-row 2xl:flex-row 3xl:flex-row gap-1 w-max p-0 mb-3 m-0-auto">
-            <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            <div
+              className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
+              onClick={() => navigate("/aurved")}
+            >
               <img
-                src="https://img.freepik.com/free-vector/patient-being-examined-by-doctor-clinic-illustrated_23-2148865134.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                // src="https://img.freepik.com/free-vector/patient-being-examined-by-doctor-clinic-illustrated_23-2148865134.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                src="https://img.freepik.com/free-vector/homeopathy-abstract-concept-illustration_335657-5036.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
-                alt="Full body checkup"
+                alt="Aurvedic"
               />
-              <h2>Full body checkup</h2>
+              <h2>Aurvedic</h2>
             </div>
-            <div className="flex flex-col font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            <div
+              className="flex flex-col font-bold text-xl min-w-[250px] w-[50%] mb-5"
+              onClick={() => navigate("/vitamines")}
+            >
               <img
                 src="https://img.freepik.com/free-vector/vitamins-concept-illustration_114360-26493.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
@@ -150,7 +159,10 @@ const Home = () => {
               />
               <h2>Vitamins</h2>
             </div>
-            <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            <div
+              className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
+              onClick={() => navigate("/diabetes")}
+            >
               <img
                 src="https://img.freepik.com/free-vector/isometric-diabetes-composition-with-text-human-character-with-thought-bubbles-life-situations-insulin-syringe-vector-illustration_1284-79633.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
@@ -158,30 +170,37 @@ const Home = () => {
               />
               <h2>Diabetes</h2>
             </div>
-            <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            <div
+              className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
+              onClick={() => navigate("/medicines")}
+            >
               <img
-                src="https://img.freepik.com/free-vector/illustration-thermometer_53876-43945.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                // src="https://img.freepik.com/free-vector/illustration-thermometer_53876-43945.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                src="https://img.freepik.com/free-vector/isometric-gastroenterology-composition-with-view-medication-with-tubes-pills-illustration_1284-63536.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
-                alt="Fever and Infection"
+                alt="Medicines"
               />
-              <h2>Fever and Infection</h2>
+              <h2>Medicines</h2>
             </div>
-            <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            <div
+              className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
+              onClick={() => navigate("/PersonalCare")}
+            >
               <img
                 src="https://img.freepik.com/free-vector/beauty-salon-services-professional-makeup-stylish-haircut-luxury-cosmetics-hairdresser-making-female-hairdo-client-enjoying-hairsalon-procedures-vector-isolated-concept-metaphor-illustration_335657-1332.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
-                alt="Hair and Skin care"
+                alt="Personal care"
               />
-              <h2>Hair and Skin care</h2>
+              <h2>Personal care</h2>
             </div>
-            <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            {/* <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
               <img
                 src="https://img.freepik.com/free-vector/gradien-thyroid-illustration_23-2149298248.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
                 alt="Thyroid"
               />
               <h2>Thyroid</h2>
-            </div>
+            </div> */}
             <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
               <img
                 src="https://img.freepik.com/free-vector/hand-drawn-patient-taking-medical-examination_23-2148843031.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
@@ -190,13 +209,16 @@ const Home = () => {
               />
               <h2>Woman care</h2>
             </div>
-            <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            <div
+              className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
+              onClick={() => navigate("/heathCare")}
+            >
               <img
                 src="https://img.freepik.com/free-vector/cardiologist-concept-illustration_114360-6847.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
-                alt="Heart"
+                alt="Health care"
               />
-              <h2>Heart</h2>
+              <h2>Health care</h2>
             </div>
             <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
               <img
@@ -206,14 +228,14 @@ const Home = () => {
               />
               <h2>Bone care</h2>
             </div>
-            <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            {/* <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
               <img
                 src="https://img.freepik.com/free-vector/overweight-man-eating-burger-tiny-people-giving-fast-food-overeating-addiction-binge-eating-disorder-compulsive-overeating-treatment-concept-pinkish-coral-bluevector-isolated-illustration_335657-1474.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
                 alt="Life style"
               />
               <h2>Life style</h2>
-            </div>
+            </div> */}
           </div>
         </div>
 
