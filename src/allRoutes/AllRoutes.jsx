@@ -11,6 +11,7 @@ import HealthCare from "../subPages/HealthCare";
 import Diabetes from "../subPages/Diabetes";
 import Medicines from "../subPages/Medicines";
 import Aurved from "../subPages/Aurvedic";
+import Contact from "../pages/Contact";
 
 const AllRoutes = () => {
   return (
@@ -18,7 +19,7 @@ const AllRoutes = () => {
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/contact" element={<Medicines />} />
+        <Route path="/contact" element={<Contact />} />
         <Route path="/about" element={<About />} />
         <Route path="/vitamines" element={<Vitamines />} />
         <Route path="/PersonalCare" element={<PersonalCare />} />
