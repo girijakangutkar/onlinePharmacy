@@ -1,5 +1,5 @@
 import React from "react";
-
+import NavBar from "../components/NavBar";
 const Medicines = () => {
   const [searchTerm, setSearchTerm] = React.useState("");
   const [displayedMedicines, setDisplayedMedicines] = React.useState([]);
