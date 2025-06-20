@@ -9,9 +9,9 @@ import NotFound from "../subPages/NotFound";
 import PersonalCare from "../subPages/PersonalCare";
 import HealthCare from "../subPages/HealthCare";
 import Diabetes from "../subPages/Diabetes";
-import Medicines from "../subPages/Medicines";
 import Aurved from "../subPages/Aurvedic";
 import Contact from "../pages/Contact";
+import Medicines from "../pages/Medicines";
 
 const AllRoutes = () => {
   return (

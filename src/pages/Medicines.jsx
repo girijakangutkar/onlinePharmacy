@@ -1,4 +1,3 @@
-import NavBar from "../components/NavBar";
 import React, { useState } from "react";
 
 const Medicines = () => {
@@ -13,12 +12,20 @@ const Medicines = () => {
     { id: 5, name: "Ciprofloxacin" },
   ];
 
-  const showMedicines = () => {
-    const filtered = medicines.filter((med) =>
-      med.name.toLowerCase().includes(searchTerm.toLowerCase())
+  async function showMedicines() {
+    // const filtered = medicines.filter((med) =>
+    //   med.name.toLowerCase().includes(searchTerm.toLowerCase())
+    // );
+    const response = await fetch(
+      "https://medicines-91fdc-default-rtdb.firebaseio.com/Medicines.json"
     );
+    const data = await response.json();
+    const filtered = Object.values(data).filter((med) => {
+      return med.description.toLowerCase().includes(searchTerm.toLowerCase());
+    });
+    console.log(data);
     setDisplayedMedicines(filtered);
-  };
+  }
 
   return (
     <div className="p-4 max-w-md mx-auto">
@@ -40,8 +47,13 @@ const Medicines = () => {
       <ul className="mt-4">
         {displayedMedicines.length > 0 ? (
           displayedMedicines.map((med) => (
-            <li key={med.id} className="p-2 bg-gray-100 rounded mb-2 shadow-sm">
-              {med.name}
+            <li
+              key={med.id || med.name}
+              className="p-2 bg-gray-100 rounded mb-2 shadow-sm"
+            >
+              <span className="font-semibold">{med.name || med.item_name}</span>
+              <br />
+              <span className="text-gray-700 text-sm">{med.description}</span>
             </li>
           ))
         ) : (
