@@ -7,6 +7,7 @@ import {
   TbCircleNumber3,
 } from "react-icons/tb";
 import PrescriptionForm from "./PrescriptionForm";
+import NavBar from "../components/NavBar";
 
 const Home = () => {
   const scrollRef = useRef(null);
