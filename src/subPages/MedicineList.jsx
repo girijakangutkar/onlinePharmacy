@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { RingLoader } from "react-spinners";
 
-const Medicines = () => {
+const MedicinesList = () => {
   const [medicines, setMedicines] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
 
@@ -81,4 +81,4 @@ const Medicines = () => {
   );
 };
 
-export default Medicines;
+export default MedicineList;
