@@ -1,0 +1,1078 @@
+{
+  "code": 200,
+  "msg": "Menu items fetched successfully",
+  "data": {
+    "current_page": 6,
+    "data": [
+      {
+        "master_menu_item_id": 473293,
+        "master_menu_id": 83,
+        "item_name": "Control D Alcohol Swab- 100",
+        "item_name_thai": "कंट्रोल डी अल्कोहल स्वाब- 100",
+        "status": "1",
+        "price": 349,
+        "mrp": 349,
+        "quantity": 999,
+        "item_description": "100 Swab in a box",
+        "item_description_thai": "एक बॉक्स में 100 स्वैब",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 473293,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635849087524.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 673600,
+        "master_menu_id": 83,
+        "item_name": "Glimberry M 2",
+        "item_name_thai": "ग्लिम्बरी एम 2",
+        "status": "0",
+        "price": 160,
+        "mrp": 160,
+        "quantity": 1999,
+        "item_description": "",
+        "item_description_thai": "",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 673586,
+        "master_menu_id": 83,
+        "item_name": "Tribet-2 Forte Tablet-10",
+        "item_name_thai": "ट्राइबेट-2 फोर्ट टैबलेट-10",
+        "status": "0",
+        "price": 107.34,
+        "mrp": 119.27,
+        "quantity": 999,
+        "item_description": "10 tablets in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 673577,
+        "master_menu_id": 83,
+        "item_name": "Sukrovil M",
+        "item_name_thai": "सुक्रोविल एम",
+        "status": "0",
+        "price": 130.5,
+        "mrp": 145,
+        "quantity": 999,
+        "item_description": "10 tablets in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 673576,
+        "master_menu_id": 83,
+        "item_name": "Vildanex M Tablet",
+        "item_name_thai": "विल्डानेक्स एम टैबलेट",
+        "status": "0",
+        "price": 130.43,
+        "mrp": 144.93,
+        "quantity": 999,
+        "item_description": "15 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473826,
+        "master_menu_id": 83,
+        "item_name": "Geofresh Natural Diabe-O-Nil Veg Capsule-60",
+        "item_name_thai": "जियोफ्रेश नेचुरल डायबे-ओ-निल वेज कैप्सूल-60",
+        "status": "1",
+        "price": 425,
+        "mrp": 425,
+        "quantity": 999,
+        "item_description": "one kit in a box",
+        "item_description_thai": "एक बॉक्स में एक किट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473827,
+        "master_menu_id": 83,
+        "item_name": "OneTouch Select Plus Test Strips 50s Pack + 2 * 25's OneTouch Delica plus lancets",
+        "item_name_thai": "वनटच सेलेक्ट प्लस टेस्ट स्ट्रिप्स 50s पैक + 2 * 25's वनटच डेलिका प्लस लैंसेट",
+        "status": "1",
+        "price": 1415,
+        "mrp": 1415,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473830,
+        "master_menu_id": 83,
+        "item_name": "OneTouch Select Plus Test Strips 100s Pack + 2 * 25's OneTouch Delica plus lancets",
+        "item_name_thai": "वनटच सेलेक्ट प्लस टेस्ट स्ट्रिप्स 100 पैक + 2 * 25 वनटच डेलिका प्लस लैंसेट",
+        "status": "1",
+        "price": 2510,
+        "mrp": 2510,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473835,
+        "master_menu_id": 83,
+        "item_name": "Goodcare Karela Capsule Pack of 2",
+        "item_name_thai": "गुडकेयर करेला कैप्सूल 2 का पैक",
+        "status": "1",
+        "price": 270,
+        "mrp": 270,
+        "quantity": 999,
+        "item_description": "1N Glucose monitor with 25 strips",
+        "item_description_thai": "25 स्ट्रिप्स के साथ 1एन ग्लूकोज मॉनिटर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473838,
+        "master_menu_id": 83,
+        "item_name": "Greenrev Zero Sugar Powder-100gm",
+        "item_name_thai": "ग्रीनरेव जीरो शुगर पाउडर-100 ग्राम",
+        "status": "1",
+        "price": 250,
+        "mrp": 250,
+        "quantity": 999,
+        "item_description": "50 glucose test strip in bottle",
+        "item_description_thai": "बोतल में 50 ग्लूकोज टेस्ट स्ट्रिप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473841,
+        "master_menu_id": 83,
+        "item_name": "Naturz Ayurveda Vijaysar Powder-5kg",
+        "item_name_thai": "नेचुरज़ आयुर्वेद विजयसार पाउडर-5 किग्रा",
+        "status": "1",
+        "price": 2790,
+        "mrp": 2790,
+        "quantity": 999,
+        "item_description": "1N glucometer in box",
+        "item_description_thai": "बॉक्स में 1एन ग्लूकोमीटर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473845,
+        "master_menu_id": 83,
+        "item_name": "Accu-Chek Guide Wireless Blood Glucose Monitoring System with 10 Test Strips Free- 1 + 1 more vail o",
+        "item_name_thai": "10 टेस्ट स्ट्रिप्स के साथ एक्यू-चेक गाइड वायरलेस ब्लड ग्लूकोज मॉनिटरिंग सिस्टम मुफ्त - 1 + 1 और वेल",
+        "status": "1",
+        "price": 2249,
+        "mrp": 2249,
+        "quantity": 999,
+        "item_description": "10 Test strip in a Box",
+        "item_description_thai": "एक बॉक्स में 10 टेस्ट स्ट्रिप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473854,
+        "master_menu_id": 83,
+        "item_name": "BeatO DNurse SP1 Blood Glucose Test Strip-2x50s",
+        "item_name_thai": "BeatO DNurse SP1 ब्लड ग्लूकोज़ टेस्ट स्ट्रिप-2x50s",
+        "status": "1",
+        "price": 1800,
+        "mrp": 1800,
+        "quantity": 999,
+        "item_description": "",
+        "item_description_thai": "",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473813,
+        "master_menu_id": 83,
+        "item_name": "Zemaica Healthcare Sugar Control Plus Capsules Diabetes Care-30",
+        "item_name_thai": "ज़ेमैका हेल्थकेयर शुगर कंट्रोल प्लस कैप्सूल डायबिटीज़ केयर-30",
+        "status": "1",
+        "price": 1299,
+        "mrp": 1299,
+        "quantity": 999,
+        "item_description": "one kit in a box",
+        "item_description_thai": "एक बॉक्स में एक किट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473815,
+        "master_menu_id": 83,
+        "item_name": "OneTouch Verio Test Strip Value pack - 1 pack of 100s + 4 packs of OneTouch Delica plus Lancet 25s",
+        "item_name_thai": "वनटच वेरियो टेस्ट स्ट्रिप वैल्यू पैक - 100एस का 1 पैक + वनटच डेलिका प्लस लैंसेट 25एस के 4 पैक",
+        "status": "1",
+        "price": 2730,
+        "mrp": 2730,
+        "quantity": 999,
+        "item_description": "30 Capsule in a box",
+        "item_description_thai": "एक डिब्बे में 30 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473818,
+        "master_menu_id": 83,
+        "item_name": "OneTouch Verio Strip Value Pack - 1 pack of 50 Test Strip + 2 Packs of OneTouch Delica Plus Lancet 2",
+        "item_name_thai": "वनटच वेरियो स्ट्रिप वैल्यू पैक - 50 टेस्ट स्ट्रिप का 1 पैक + वनटच डेलिका प्लस लैंसेट 2 के 2 पैक",
+        "status": "1",
+        "price": 1415,
+        "mrp": 1415,
+        "quantity": 999,
+        "item_description": "15ml Ointment in a tube",
+        "item_description_thai": "एक ट्यूब में 15 मिलीलीटर मलहम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473821,
+        "master_menu_id": 83,
+        "item_name": "OneTouch Verio Strip Value Pack - 1 pack of 100 Test Strip + 2 Packs of OneTouch Delica Plus Lancet",
+        "item_name_thai": "वनटच वेरियो स्ट्रिप वैल्यू पैक - 100 टेस्ट स्ट्रिप का 1 पैक + वनटच डेलिका प्लस लैंसेट के 2 पैक",
+        "status": "1",
+        "price": 2410,
+        "mrp": 2410,
+        "quantity": 999,
+        "item_description": "300 Pellets in a bottle",
+        "item_description_thai": "एक बोतल में 300 छर्रे",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473822,
+        "master_menu_id": 83,
+        "item_name": "Sugar Free Green Stevia Pellets-300",
+        "item_name_thai": "शुगर फ्री ग्रीन स्टीविया पेलेट्स-300",
+        "status": "1",
+        "price": 215,
+        "mrp": 215,
+        "quantity": 999,
+        "item_description": "one kit in a box",
+        "item_description_thai": "एक बॉक्स में एक किट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473824,
+        "master_menu_id": 83,
+        "item_name": "OneTouch Select Plus Test Strips 100s Pack + 4 *25s OneTouch Delica plus lancets",
+        "item_name_thai": "वनटच सेलेक्ट प्लस टेस्ट स्ट्रिप्स 100s पैक + 4 *25s वनटच डेलिका प्लस लैंसेट",
+        "status": "1",
+        "price": 2830,
+        "mrp": 2830,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473668,
+        "master_menu_id": 83,
+        "item_name": "Nutrizo's Combo Pack of Sugar Fighter Stevia Powder 250gm, 100 Tablets and Liquid Sweetener 10ml",
+        "item_name_thai": "Nutrizo का शुगर फाइटर स्टीविया पाउडर 250 ग्राम, 100 टैबलेट और लिक्विड स्वीटनर 10ml का कॉम्बो पैक",
+        "status": "1",
+        "price": 930,
+        "mrp": 930,
+        "quantity": 999,
+        "item_description": "3 Pack in a combo pack",
+        "item_description_thai": "3 कॉम्बो पैक में पैक करें",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473671,
+        "master_menu_id": 83,
+        "item_name": "Nutrizo's Combo Pack of Sugar Fighter Stevia 20 Sachets and Powder 100gm",
+        "item_name_thai": "Nutrizo का शुगर फाइटर स्टीविया 20 सैशे और पाउडर 100 ग्राम का कॉम्बो पैक",
+        "status": "1",
+        "price": 375,
+        "mrp": 375,
+        "quantity": 999,
+        "item_description": "2 Pack in a combo pack",
+        "item_description_thai": "2 कॉम्बो पैक में पैक करें",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473673,
+        "master_menu_id": 83,
+        "item_name": "Dr Brinsley Repose Diabetic Sandal- 1",
+        "item_name_thai": "डॉ. ब्रिंसले रिपोज़ डायबिटिक सैंडल- 1",
+        "status": "1",
+        "price": 2749,
+        "mrp": 2749,
+        "quantity": 999,
+        "item_description": "1 Pair of Sandals in a box",
+        "item_description_thai": "एक बॉक्स में 1 जोड़ी सैंडल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473674,
+        "master_menu_id": 83,
+        "item_name": "Nutrizo's Sugar Fighter Stevia Sachet (075gm Each)-20",
+        "item_name_thai": "न्यूट्रिज़ो शुगर फाइटर स्टीविया सैशे (075 ग्राम प्रत्येक)-20",
+        "status": "1",
+        "price": 100,
+        "mrp": 100,
+        "quantity": 999,
+        "item_description": "20 Sachet in a box",
+        "item_description_thai": "एक डिब्बे में 20 पाउच",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473675,
+        "master_menu_id": 83,
+        "item_name": "Dianova Capsule-10",
+        "item_name_thai": "डायनोवा कैप्सूल-10",
+        "status": "1",
+        "price": 190,
+        "mrp": 190,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473676,
+        "master_menu_id": 83,
+        "item_name": "Nutrizo's Combo Pack of Sugar Fighter Stevia Powder 100gm, 100 Tablets and Liquid Sweetener 10ml",
+        "item_name_thai": "Nutrizo का शुगर फाइटर स्टीविया पाउडर 100 ग्राम, 100 टैबलेट और लिक्विड स्वीटनर 10ml का कॉम्बो पैक",
+        "status": "1",
+        "price": 625,
+        "mrp": 625,
+        "quantity": 999,
+        "item_description": "3 Pack in a combo pack",
+        "item_description_thai": "3 कॉम्बो पैक में पैक करें",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473677,
+        "master_menu_id": 83,
+        "item_name": "Himalaya Wellness Diabetes Care Combo Pack of Amalaki, Karela & Meshashringi (60 Tablets Each)",
+        "item_name_thai": "हिमालय वेलनेस डायबिटीज केयर अमलाकी, करेला और मेषश्रृंगी का कॉम्बो पैक (प्रत्येक 60 टैबलेट)",
+        "status": "1",
+        "price": 440,
+        "mrp": 440,
+        "quantity": 999,
+        "item_description": "1 Kit in a packet",
+        "item_description_thai": "एक पैकेट में 1 किट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473678,
+        "master_menu_id": 83,
+        "item_name": "Nutrizo's Combo Pack of Sugar Fighter Stevia 40 Sachets, Powder 100gm and Liquid Sweetner 10ml",
+        "item_name_thai": "Nutrizo का शुगर फाइटर स्टीविया 40 सैशे, पाउडर 100 ग्राम और लिक्विड स्वीटनर 10ml का कॉम्बो पैक",
+        "status": "1",
+        "price": 655,
+        "mrp": 655,
+        "quantity": 999,
+        "item_description": "3 Pack in a combo pack",
+        "item_description_thai": "3 कॉम्बो पैक में पैक करें",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473679,
+        "master_menu_id": 83,
+        "item_name": "Dr Brinsley Meraki Diabetic Sandal- 1",
+        "item_name_thai": "डॉ. ब्रिंसले मेराकी डायबिटिक सैंडल- 1",
+        "status": "1",
+        "price": 2749,
+        "mrp": 2749,
+        "quantity": 999,
+        "item_description": "1 Pair of Sandals in a box",
+        "item_description_thai": "एक बॉक्स में 1 जोड़ी सैंडल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473683,
+        "master_menu_id": 83,
+        "item_name": "MahaVed Diaba Quit Capsule-100",
+        "item_name_thai": "महावेद डायबा क्विट कैप्सूल-100",
+        "status": "1",
+        "price": 660,
+        "mrp": 660,
+        "quantity": 999,
+        "item_description": "100 Capsule in a box",
+        "item_description_thai": "एक डिब्बे में 100 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473688,
+        "master_menu_id": 83,
+        "item_name": "MahaVed MVH Diabex Powder-100gm",
+        "item_name_thai": "महावेद एमवीएच डायबेक्स पाउडर-100 ग्राम",
+        "status": "1",
+        "price": 275,
+        "mrp": 275,
+        "quantity": 999,
+        "item_description": "100gm Powder in a packet",
+        "item_description_thai": "एक पैकेट में 100 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473692,
+        "master_menu_id": 83,
+        "item_name": "Zindagi Pack Combo Pack of Stevia 100 Tablet & Stevia Dry Leaves 100gm",
+        "item_name_thai": "जिंदागी पैक स्टीविया 100 टैबलेट और स्टीविया सूखी पत्तियां 100 ग्राम का कॉम्बो पैक",
+        "status": "1",
+        "price": 455,
+        "mrp": 455,
+        "quantity": 999,
+        "item_description": "2 Pack in a combo pack",
+        "item_description_thai": "2 कॉम्बो पैक में पैक करें",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473698,
+        "master_menu_id": 83,
+        "item_name": "Limitra Gymnema Sylvestre 500mg Capsule-60",
+        "item_name_thai": "लिमित्रा जिम्नेमा सिल्वेस्ट्रे 500एमजी कैप्सूल-60",
+        "status": "1",
+        "price": 999,
+        "mrp": 999,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473704,
+        "master_menu_id": 83,
+        "item_name": "Limitra Diabactiv 500mg Capsule-60",
+        "item_name_thai": "लिमित्रा डायबैक्टीव 500एमजी कैप्सूल-60",
+        "status": "1",
+        "price": 999,
+        "mrp": 999,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473706,
+        "master_menu_id": 83,
+        "item_name": "TrueHb Combo Pack of Hemoglobin Meter, 50 Test Strips and 50 Lancets",
+        "item_name_thai": "हीमोग्लोबिन मीटर, 50 टेस्ट स्ट्रिप्स और 50 लैंसेट का TrueHb कॉम्बो पैक",
+        "status": "1",
+        "price": 9700,
+        "mrp": 9700,
+        "quantity": 999,
+        "item_description": "1 Combo Pack in a box",
+        "item_description_thai": "एक बॉक्स में 1 कॉम्बो पैक",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473715,
+        "master_menu_id": 83,
+        "item_name": "Dominion Care Combo Pack of Accu Paduka Accupressure Massage Slipper & 02 Dr Morpen BP Monitor",
+        "item_name_thai": "डोमिनियन केयर एक्यू पादुका एक्यूप्रेशर मसाज स्लिपर और 02 डॉ मॉर्पेन बीपी मॉनिटर का कॉम्बो पैक",
+        "status": "1",
+        "price": 4799,
+        "mrp": 4799,
+        "quantity": 999,
+        "item_description": "2 Unit in a combo pack",
+        "item_description_thai": "कॉम्बो पैक में 2 यूनिट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473728,
+        "master_menu_id": 83,
+        "item_name": "Oziva Superfood Greens & Herbs for Diabetes and Prediabetes-250gm",
+        "item_name_thai": "मधुमेह और प्रीडायबिटीज के लिए ओजिवा सुपरफूड साग और जड़ी-बूटियाँ-250 ग्राम",
+        "status": "1",
+        "price": 999,
+        "mrp": 999,
+        "quantity": 999,
+        "item_description": "250gm Powder in a jar",
+        "item_description_thai": "एक जार में 250 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473734,
+        "master_menu_id": 83,
+        "item_name": "Le Delicio Black Garlic-500gm-Single Clove",
+        "item_name_thai": "ले डेलिसिओ काला लहसुन-500 ग्राम-एकल लौंग",
+        "status": "1",
+        "price": 2600,
+        "mrp": 2600,
+        "quantity": 999,
+        "item_description": "500gm Pack in a jar",
+        "item_description_thai": "एक जार में 500 ग्राम पैक करें",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473741,
+        "master_menu_id": 83,
+        "item_name": "Nature & Nurture Dibecare Capsule-10",
+        "item_name_thai": "नेचर एंड नर्चर डिबेकेयर कैप्सूल-10",
+        "status": "1",
+        "price": 90,
+        "mrp": 90,
+        "quantity": 999,
+        "item_description": "10 Capsule in a packet",
+        "item_description_thai": "एक पैकेट में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473744,
+        "master_menu_id": 83,
+        "item_name": "Nature & Nurture Dibecare Capsule Pack Of 3",
+        "item_name_thai": "प्रकृति एवं नर्चर डिबेकेयर कैप्सूल 3 का पैक",
+        "status": "1",
+        "price": 270,
+        "mrp": 270,
+        "quantity": 999,
+        "item_description": "10 Capsule in a packet",
+        "item_description_thai": "एक पैकेट में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473746,
+        "master_menu_id": 83,
+        "item_name": "Nature's Velvet Fenugreek Pure Extract 500mg Capsule-60",
+        "item_name_thai": "प्रकृति का मखमली मेथी शुद्ध अर्क 500 मिलीग्राम कैप्सूल-60",
+        "status": "1",
+        "price": 800,
+        "mrp": 800,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473747,
+        "master_menu_id": 83,
+        "item_name": "JJW Mart Saptrangi-500gm",
+        "item_name_thai": "जेजेडब्ल्यू मार्ट सप्तरांगी-500 ग्राम",
+        "status": "1",
+        "price": 810,
+        "mrp": 810,
+        "quantity": 999,
+        "item_description": "500gm Pack in a packet",
+        "item_description_thai": "एक पैकेट में 500 ग्राम पैक",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473748,
+        "master_menu_id": 83,
+        "item_name": "Nature's Velvet Gymnema Sylvestre Pure Extract 500mg Capsule-60",
+        "item_name_thai": "नेचर वेलवेट जिम्नेमा सिल्वेस्ट्रे प्योर एक्सट्रैक्ट 500 मिलीग्राम कैप्सूल-60",
+        "status": "1",
+        "price": 1000,
+        "mrp": 1000,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473751,
+        "master_menu_id": 83,
+        "item_name": "Naturmed'S Karela Powder-200Gm",
+        "item_name_thai": "नेचरमेड्स करेला पाउडर-200 ग्राम",
+        "status": "1",
+        "price": 150,
+        "mrp": 150,
+        "quantity": 999,
+        "item_description": "200gm Powder in a jar",
+        "item_description_thai": "एक जार में 200 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473752,
+        "master_menu_id": 83,
+        "item_name": "JJW Mart Anantamul-1000gm",
+        "item_name_thai": "जेजेडब्ल्यू मार्ट अनंतमूल-1000 ग्राम",
+        "status": "1",
+        "price": 960,
+        "mrp": 960,
+        "quantity": 999,
+        "item_description": "1000gm Pack in a packet",
+        "item_description_thai": "एक पैकेट में 1000 ग्राम पैक",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473754,
+        "master_menu_id": 83,
+        "item_name": "Avg Mahayog Diabetes Care Plus-1000ml",
+        "item_name_thai": "औसत महायोग डायबिटीज केयर प्लस-1000 मि.ली",
+        "status": "1",
+        "price": 398,
+        "mrp": 398,
+        "quantity": 999,
+        "item_description": "1000ml Liquid in a bottle",
+        "item_description_thai": "एक बोतल में 1000 मिलीलीटर तरल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473756,
+        "master_menu_id": 83,
+        "item_name": "JJW Mart Anantamul-500gm",
+        "item_name_thai": "जेजेडब्ल्यू मार्ट अनंतमूल-500 ग्राम",
+        "status": "1",
+        "price": 595,
+        "mrp": 595,
+        "quantity": 999,
+        "item_description": "500gm Pack in a packet",
+        "item_description_thai": "एक पैकेट में 500 ग्राम पैक",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473760,
+        "master_menu_id": 83,
+        "item_name": "JJW Mart Anantamul-250gm",
+        "item_name_thai": "जेजेडब्ल्यू मार्ट अनंतमूल-250 ग्राम",
+        "status": "1",
+        "price": 375,
+        "mrp": 375,
+        "quantity": 999,
+        "item_description": "250gm Pack in a packet",
+        "item_description_thai": "एक पैकेट में 250 ग्राम पैक",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473763,
+        "master_menu_id": 83,
+        "item_name": "JJW Mart Bael-1000gm",
+        "item_name_thai": "जेजेडब्ल्यू मार्ट बेल-1000 ग्राम",
+        "status": "1",
+        "price": 790,
+        "mrp": 790,
+        "quantity": 999,
+        "item_description": "1000gm Pack in a packet",
+        "item_description_thai": "एक पैकेट में 1000 ग्राम पैक",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473765,
+        "master_menu_id": 83,
+        "item_name": "JJW Mart Bael-500gm",
+        "item_name_thai": "जेजेडब्ल्यू मार्ट बेल-500 ग्राम",
+        "status": "1",
+        "price": 560,
+        "mrp": 560,
+        "quantity": 999,
+        "item_description": "500gm Pack in a packet",
+        "item_description_thai": "एक पैकेट में 500 ग्राम पैक",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      },
+      {
+        "master_menu_item_id": 473768,
+        "master_menu_id": 83,
+        "item_name": "JJW Mart Bael-250gm",
+        "item_name_thai": "जेजेडब्ल्यू मार्ट बेल-250 ग्राम",
+        "status": "1",
+        "price": 385,
+        "mrp": 385,
+        "quantity": 999,
+        "item_description": "250gm Pack in a packet",
+        "item_description_thai": "एक पैकेट में 250 ग्राम पैक",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 83,
+          "menu_name": "Diabetic Care",
+          "menu_name_thai": "मधुमेह देखभाल",
+          "custom_quote": 0
+        },
+        "image": null
+      }
+    ],
+    "first_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=1",
+    "from": 251,
+    "last_page": 7,
+    "last_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=7",
+    "links": [
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=5",
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=1",
+        "label": "1",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=2",
+        "label": "2",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=3",
+        "label": "3",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=4",
+        "label": "4",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=5",
+        "label": "5",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=6",
+        "label": "6",
+        "active": true
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=7",
+        "label": "7",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=7",
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=7",
+    "path": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83",
+    "per_page": "50",
+    "prev_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?page=5",
+    "to": 300,
+    "total": 347
+  },
+  "result": {
+    "id": 83,
+    "menu_name": "Diabetic Care",
+    "menu_name_thai": "मधुमेह देखभाल",
+    "image": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_image/original/Menu_17211316926828.webp",
+    "meta_tag": "Buy Quality Diabetes Care Products Online in India",
+    "keywords": "DiabetesCareProductsOnline",
+    "meta_description": "Buy diabetes care products online in India today! Get the best prices and fast delivery. Don’t wait – order today!"
+  }
+}

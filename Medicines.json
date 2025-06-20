@@ -1,0 +1,1255 @@
+{
+  "code": 200,
+  "msg": "Menu items fetched successfully",
+  "data": {
+    "current_page": 6,
+    "data": [
+      {
+        "master_menu_item_id": 669457,
+        "master_menu_id": 102,
+        "item_name": "Alex lozenges 10 s",
+        "item_name_thai": "एलेक्स लोजेंजेस 10 एस",
+        "status": "0",
+        "price": 108.9,
+        "mrp": 121,
+        "quantity": 999,
+        "item_description": "10 lozenges in a strip",
+        "item_description_thai": "एक पट्टी में 10 लोजेंज",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669457,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17189747367771.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669456,
+        "master_menu_id": 102,
+        "item_name": "Caldimaan d3 softgel capsules",
+        "item_name_thai": "कैल्डिमान डी3 सॉफ्टजेल कैप्सूल",
+        "status": "0",
+        "price": 112.5,
+        "mrp": 125,
+        "quantity": 999,
+        "item_description": "1 x 4 softgel capsules",
+        "item_description_thai": "1 x 4 सॉफ़्टजैल कैप्सूल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669456,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17189742833537.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669452,
+        "master_menu_id": 102,
+        "item_name": "Folibild 2.5mg Tablet",
+        "item_name_thai": "फोलिबिल्ड 2.5mg टैबलेट",
+        "status": "0",
+        "price": 179.55,
+        "mrp": 199.5,
+        "quantity": 999,
+        "item_description": "10 tablets in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669452,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17189741088922.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669444,
+        "master_menu_id": 102,
+        "item_name": "Complete-TD Gold Tablet",
+        "item_name_thai": "कंप्लीट-टीडी गोल्ड टैबलेट",
+        "status": "0",
+        "price": 167.4,
+        "mrp": 186,
+        "quantity": 999,
+        "item_description": "10 tablets in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669444,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17189739459493.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669439,
+        "master_menu_id": 102,
+        "item_name": "Calcijoint XT Tablet",
+        "item_name_thai": "कैल्सीजॉइंट एक्सटी टैबलेट",
+        "status": "0",
+        "price": 99,
+        "mrp": 110,
+        "quantity": 999,
+        "item_description": "1 strip of 15 tab",
+        "item_description_thai": "15 टैब की 1 पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669439,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17212133629034.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669437,
+        "master_menu_id": 102,
+        "item_name": "Dapaease V Tablet SR",
+        "item_name_thai": "डैपेएस वी टैबलेट एसआर",
+        "status": "0",
+        "price": 187.11,
+        "mrp": 207.9,
+        "quantity": 999,
+        "item_description": "10 tablet sr in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10 टैबलेट एसआर",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669437,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17204360527443.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669436,
+        "master_menu_id": 102,
+        "item_name": "Stamlo-T Tablet",
+        "item_name_thai": "स्टैमलो-टी टैबलेट",
+        "status": "0",
+        "price": 186.75,
+        "mrp": 207.5,
+        "quantity": 999,
+        "item_description": "10.0 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10.0 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669436,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746138779.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669435,
+        "master_menu_id": 102,
+        "item_name": "Lobula 0.5 Tablet",
+        "item_name_thai": "लोब्यूला 0.5 टैबलेट",
+        "status": "0",
+        "price": 97.2,
+        "mrp": 108,
+        "quantity": 999,
+        "item_description": "10.0 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10.0 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669435,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_1718619682600.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669434,
+        "master_menu_id": 102,
+        "item_name": "Sitara-D 100/10 Tablet",
+        "item_name_thai": "सितारा-डी 100/10 टैबलेट",
+        "status": "0",
+        "price": 178.2,
+        "mrp": 198,
+        "quantity": 999,
+        "item_description": "10.0 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10.0 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669434,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17178309836196.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669432,
+        "master_menu_id": 102,
+        "item_name": "Gliptagreat D 5mg/100mg Tablet SR",
+        "item_name_thai": "ग्लिप्टाग्रेट डी 5mg/100mg टैबलेट एसआर",
+        "status": "0",
+        "price": 158.4,
+        "mrp": 176,
+        "quantity": 999,
+        "item_description": "1 strip of 10 tablet",
+        "item_description_thai": "10 टैबलेट की 1 पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669432,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17204356528497.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669423,
+        "master_menu_id": 102,
+        "item_name": "CARBIZMORE 10 tab",
+        "item_name_thai": "कार्बिज़मोर 10 टैब",
+        "status": "0",
+        "price": 361.8,
+        "mrp": 402,
+        "quantity": 999,
+        "item_description": "1 bottle of 100 tab",
+        "item_description_thai": "100 टैब की 1 बोतल",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669423,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17164435438011.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669421,
+        "master_menu_id": 102,
+        "item_name": "pronol 40 tab",
+        "item_name_thai": "प्रोनोल 40 टैब",
+        "status": "0",
+        "price": 48.24,
+        "mrp": 53.6,
+        "quantity": 999,
+        "item_description": "1 strip of 15 tab",
+        "item_description_thai": "15 टैब की 1 पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669421,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17176673383885.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669412,
+        "master_menu_id": 102,
+        "item_name": "Gabantin GRS 300 Tablet ER",
+        "item_name_thai": "गैबेन्टिन जीआरएस 300 टैबलेट ईआर",
+        "status": "0",
+        "price": 216,
+        "mrp": 240,
+        "quantity": 999,
+        "item_description": "10 tablet er in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10 टैबलेट एर",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669412,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17186194405370.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669411,
+        "master_menu_id": 102,
+        "item_name": "Palmysenz Capsule",
+        "item_name_thai": "पाल्मिसेन्ज़ कैप्सूल",
+        "status": "0",
+        "price": 314.1,
+        "mrp": 349,
+        "quantity": 999,
+        "item_description": "1 Strip of 10 capsules",
+        "item_description_thai": "10 कैप्सूल की 1 पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669411,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746099568.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669409,
+        "master_menu_id": 102,
+        "item_name": "Glimisave MV 1 Tablet SR",
+        "item_name_thai": "ग्लिमिसेव एमवी 1 टैबलेट एसआर",
+        "status": "0",
+        "price": 220.79,
+        "mrp": 245.32,
+        "quantity": 999,
+        "item_description": "15 tablet sr in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 15 टैबलेट एसआर",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669409,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746019514.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669402,
+        "master_menu_id": 102,
+        "item_name": "Encelin D 5 Tablet SR",
+        "item_name_thai": "एन्सेलिन डी 5 टैबलेट एसआर",
+        "status": "0",
+        "price": 143.1,
+        "mrp": 159,
+        "quantity": 999,
+        "item_description": "10 tablets in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669402,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17190351292663.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669398,
+        "master_menu_id": 102,
+        "item_name": "Itromed-sb 130 tab",
+        "item_name_thai": "इट्रोमेड-एसबी 130 टैब",
+        "status": "0",
+        "price": 225,
+        "mrp": 250,
+        "quantity": 999,
+        "item_description": "1 strip of 10 capsules",
+        "item_description_thai": "10 कैप्सूल की 1 पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669398,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17178306187141.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669396,
+        "master_menu_id": 102,
+        "item_name": "Total tablet",
+        "item_name_thai": "कुल टेबलेट",
+        "status": "0",
+        "price": 117,
+        "mrp": 130,
+        "quantity": 999,
+        "item_description": "1 strip of 10 tablet",
+        "item_description_thai": "10 टैबलेट की 1 पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669396,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17186192585192.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669395,
+        "master_menu_id": 102,
+        "item_name": "Foracort 400 Synchrobreathe Inhaler",
+        "item_name_thai": "फोराकॉर्ट 400 सिन्क्रोब्रीथ इनहेलर",
+        "status": "0",
+        "price": 543.11,
+        "mrp": 603.45,
+        "quantity": 999,
+        "item_description": "120.0 MDI in 1 bottle",
+        "item_description_thai": "1 बोतल में 120.0 एमडीआई",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669395,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17162066162754.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669389,
+        "master_menu_id": 102,
+        "item_name": "Sitalembic M 1000mg Tablet",
+        "item_name_thai": "सिटालेम्बिक एम 1000एमजी टैबलेट",
+        "status": "0",
+        "price": 155.93,
+        "mrp": 173.25,
+        "quantity": 999,
+        "item_description": "10 tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टेबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669389,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_1719488737213.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669388,
+        "master_menu_id": 102,
+        "item_name": "Perampa 2mg Tablet",
+        "item_name_thai": "पेरैम्पा 2एमजी टैबलेट",
+        "status": "0",
+        "price": 88.2,
+        "mrp": 98,
+        "quantity": 999,
+        "item_description": "10.0 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10.0 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669388,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_172043535765.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669387,
+        "master_menu_id": 102,
+        "item_name": "Voxitin 10 Tablet",
+        "item_name_thai": "वोक्सिटिन 10 टैबलेट",
+        "status": "0",
+        "price": 158.4,
+        "mrp": 176,
+        "quantity": 999,
+        "item_description": "10.0 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10.0 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669387,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746109606.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669386,
+        "master_menu_id": 102,
+        "item_name": "Cnsert 100mg Tablet",
+        "item_name_thai": "सीएनएसईआरटी 100mg टैबलेट",
+        "status": "0",
+        "price": 121.5,
+        "mrp": 135,
+        "quantity": 999,
+        "item_description": "10.0 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10.0 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669386,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746078496.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669382,
+        "master_menu_id": 102,
+        "item_name": "BETEALA 20 Tablet",
+        "item_name_thai": "बेटाएला 20 टैबलेट",
+        "status": "0",
+        "price": 48.6,
+        "mrp": 54,
+        "quantity": 999,
+        "item_description": "1 strip of 10 tab",
+        "item_description_thai": "10 टैब की 1 पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669382,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746051439.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669376,
+        "master_menu_id": 102,
+        "item_name": "Amrocad 30 gm cream",
+        "item_name_thai": "एम्रोकैड 30 ग्राम क्रीम",
+        "status": "0",
+        "price": 320.4,
+        "mrp": 356,
+        "quantity": 999,
+        "item_description": "1 tube of 30 gm cream",
+        "item_description_thai": "30 ग्राम क्रीम की 1 ट्यूब",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669376,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746031151.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669371,
+        "master_menu_id": 102,
+        "item_name": "Uprise-D3 60K Capsule- 12",
+        "item_name_thai": "अप्राइज़-डी3 60K कैप्सूल- 12",
+        "status": "0",
+        "price": 372.31,
+        "mrp": 413.68,
+        "quantity": 999,
+        "item_description": "Strip Of 8 Capsules",
+        "item_description_thai": "8 कैप्सूल की पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669371,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_1713962048590.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669368,
+        "master_menu_id": 102,
+        "item_name": "Torpanel 4 Tablet",
+        "item_name_thai": "टोर्पानेल 4 टैबलेट",
+        "status": "0",
+        "price": 147.38,
+        "mrp": 163.75,
+        "quantity": 999,
+        "item_description": "",
+        "item_description_thai": "",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669368,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746086206.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669367,
+        "master_menu_id": 102,
+        "item_name": "Britam 100 Tablet",
+        "item_name_thai": "ब्रिटैम 100 टैबलेट",
+        "status": "0",
+        "price": 288,
+        "mrp": 320,
+        "quantity": 999,
+        "item_description": "",
+        "item_description_thai": "",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669367,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746059512.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669353,
+        "master_menu_id": 102,
+        "item_name": "Glutahigh Powder Lemon-15gm",
+        "item_name_thai": "ग्लूटाहाई पाउडर नींबू-15 ग्राम",
+        "status": "0",
+        "price": 171.9,
+        "mrp": 191,
+        "quantity": 999,
+        "item_description": "10 sachet in a box",
+        "item_description_thai": "एक डिब्बे में 10 पाउच",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669353,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200745994738.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669352,
+        "master_menu_id": 102,
+        "item_name": "eliquis 5 tab -10",
+        "item_name_thai": "एलिकिस 5 टैब -10",
+        "status": "0",
+        "price": 488.7,
+        "mrp": 543,
+        "quantity": 999,
+        "item_description": "10 tab",
+        "item_description_thai": "10 टैब",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669352,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200745962602.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669350,
+        "master_menu_id": 102,
+        "item_name": "Juslina D 5/10 Tablet",
+        "item_name_thai": "जस्लीना डी 5/10 टैबलेट",
+        "status": "0",
+        "price": 116.91,
+        "mrp": 129.9,
+        "quantity": 999,
+        "item_description": "10 tablets in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669350,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17181072328330.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669349,
+        "master_menu_id": 102,
+        "item_name": "Difizma Cap",
+        "item_name_thai": "डिफ़िज़मा कैप",
+        "status": "0",
+        "price": 283.5,
+        "mrp": 315,
+        "quantity": 999,
+        "item_description": "",
+        "item_description_thai": "",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669349,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746096018.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669347,
+        "master_menu_id": 102,
+        "item_name": "Everfresh Tears Eye Drops 10ml",
+        "item_name_thai": "एवरफ्रेश टीयर्स आई ड्रॉप्स 10 मि.ली",
+        "status": "0",
+        "price": 123.88,
+        "mrp": 137.64,
+        "quantity": 999,
+        "item_description": "",
+        "item_description_thai": "",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669347,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17212133598392.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669345,
+        "master_menu_id": 102,
+        "item_name": "Naprosyn 250+ Tablet",
+        "item_name_thai": "नैप्रोसीन 250+ टैबलेट",
+        "status": "0",
+        "price": 94.66,
+        "mrp": 105.18,
+        "quantity": 999,
+        "item_description": "15 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669345,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_1721552617562.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669344,
+        "master_menu_id": 102,
+        "item_name": "Pioz-V Tablet",
+        "item_name_thai": "पियोज़-वी टैबलेट",
+        "status": "0",
+        "price": 202.5,
+        "mrp": 225,
+        "quantity": 999,
+        "item_description": "15 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 15 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669344,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_1718973220848.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669342,
+        "master_menu_id": 102,
+        "item_name": "Rosuhenz 10mg Tablet",
+        "item_name_thai": "रोसुहेन्ज़ 10एमजी टैबलेट",
+        "status": "0",
+        "price": 126,
+        "mrp": 140,
+        "quantity": 999,
+        "item_description": "10 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669342,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17204351824123.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669330,
+        "master_menu_id": 102,
+        "item_name": "Micronac PF Eye Drop",
+        "item_name_thai": "माइक्रोनैक पीएफ आई ड्रॉप",
+        "status": "0",
+        "price": 168.3,
+        "mrp": 187,
+        "quantity": 999,
+        "item_description": "",
+        "item_description_thai": "",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669330,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17210300913093.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669319,
+        "master_menu_id": 102,
+        "item_name": "Alex LS Expectorant",
+        "item_name_thai": "एलेक्स एलएस एक्सपेक्टोरेंट",
+        "status": "0",
+        "price": 116.1,
+        "mrp": 129,
+        "quantity": 999,
+        "item_description": "100 ml in 1 bottle",
+        "item_description_thai": "1 बोतल में 100 मि.ली",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669319,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_1721799312706.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669316,
+        "master_menu_id": 102,
+        "item_name": "Voglimet-GM 2 Tablet SR",
+        "item_name_thai": "वोग्लीमेट-जीएम 2 टैबलेट एसआर",
+        "status": "0",
+        "price": 135,
+        "mrp": 150,
+        "quantity": 999,
+        "item_description": "",
+        "item_description_thai": "",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669316,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17127449766056.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669309,
+        "master_menu_id": 102,
+        "item_name": "Temsunol D Tab",
+        "item_name_thai": "टेम्सुनोल डी टैब",
+        "status": "0",
+        "price": 209.25,
+        "mrp": 232.5,
+        "quantity": 999,
+        "item_description": "10 tablets in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669309,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17189730108409.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669306,
+        "master_menu_id": 102,
+        "item_name": "Raprasol 20 Tab",
+        "item_name_thai": "राप्रासोल 20 टैब",
+        "status": "0",
+        "price": 55.8,
+        "mrp": 62,
+        "quantity": 999,
+        "item_description": "",
+        "item_description_thai": "",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669306,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746109602.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669304,
+        "master_menu_id": 102,
+        "item_name": "CALCIBEL Tablet 15's",
+        "item_name_thai": "कैल्सिबेल टैबलेट 15's",
+        "status": "0",
+        "price": 144,
+        "mrp": 160,
+        "quantity": 999,
+        "item_description": "15 Tablets in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669304,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200745888216.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669298,
+        "master_menu_id": 102,
+        "item_name": "Gliptagreat DM 500 Tablet 10's",
+        "item_name_thai": "ग्लिप्टाग्रेट डीएम 500 टैबलेट 10's",
+        "status": "0",
+        "price": 160.2,
+        "mrp": 178,
+        "quantity": 999,
+        "item_description": "10 Tablet in 1 Strip",
+        "item_description_thai": "1 स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669298,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746029748.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669292,
+        "master_menu_id": 102,
+        "item_name": "XSULIN R 40iu Injection 10ml",
+        "item_name_thai": "XSULIN R 40iu इंजेक्शन 10 मि.ली",
+        "status": "0",
+        "price": 160.46,
+        "mrp": 178.29,
+        "quantity": 999,
+        "item_description": "1 x 10 ml",
+        "item_description_thai": "1 x 10 मि.ली",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669292,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17178298505688.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669291,
+        "master_menu_id": 102,
+        "item_name": "Gabadon-ntp tab",
+        "item_name_thai": "गैबडॉन-एनटीपी टैब",
+        "status": "0",
+        "price": 214.65,
+        "mrp": 238.5,
+        "quantity": 999,
+        "item_description": "1 strip of 10 tab",
+        "item_description_thai": "10 टैब की 1 पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669291,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17162852809860.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669290,
+        "master_menu_id": 102,
+        "item_name": "Flaveheal MR 35 tab",
+        "item_name_thai": "फ्लेवहील एमआर 35 टैब",
+        "status": "0",
+        "price": 117,
+        "mrp": 130,
+        "quantity": 999,
+        "item_description": "10 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669290,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17162056225099.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669289,
+        "master_menu_id": 102,
+        "item_name": "Atormore gold 10 tab",
+        "item_name_thai": "अटोरमोर गोल्ड 10 टैब",
+        "status": "0",
+        "price": 57.46,
+        "mrp": 63.84,
+        "quantity": 999,
+        "item_description": "15 capsules in a strip",
+        "item_description_thai": "एक पट्टी में 15 कैप्सूल",
+        "discountPercentage": 9.99,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669289,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17186185422375.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669288,
+        "master_menu_id": 102,
+        "item_name": "Clindinol-TM tab",
+        "item_name_thai": "क्लिंडिनोल-टीएम टैब",
+        "status": "0",
+        "price": 93.87,
+        "mrp": 104.3,
+        "quantity": 999,
+        "item_description": "1 strip of 10 tab",
+        "item_description_thai": "10 टैब की 1 पट्टी",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669288,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_1717667123815.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669286,
+        "master_menu_id": 102,
+        "item_name": "Repvog 0.3/1 Tablet",
+        "item_name_thai": "रेपवोग 0.3/1 टैबलेट",
+        "status": "0",
+        "price": 157.5,
+        "mrp": 175,
+        "quantity": 999,
+        "item_description": "10 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669286,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_1718972045199.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 669285,
+        "master_menu_id": 102,
+        "item_name": "Gliptagreat D 10mg/100mg Tablet",
+        "item_name_thai": "ग्लिप्टाग्रेट डी 10mg/100mg टैबलेट",
+        "status": "0",
+        "price": 168.3,
+        "mrp": 187,
+        "quantity": 999,
+        "item_description": "10 tablets in 1 strip",
+        "item_description_thai": "1 स्ट्रिप में 10 गोलियाँ",
+        "discountPercentage": 10,
+        "menu": {
+          "id": 102,
+          "menu_name": "Medicine",
+          "menu_name_thai": "दवाइयाँ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 669285,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17200746024305.webp"
+        }
+      }
+    ],
+    "first_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=1",
+    "from": 251,
+    "last_page": 911,
+    "last_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=911",
+    "links": [
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=5",
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=1",
+        "label": "1",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=2",
+        "label": "2",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=3",
+        "label": "3",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=4",
+        "label": "4",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=5",
+        "label": "5",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=6",
+        "label": "6",
+        "active": true
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=7",
+        "label": "7",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=8",
+        "label": "8",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=9",
+        "label": "9",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=10",
+        "label": "10",
+        "active": false
+      },
+      {
+        "url": null,
+        "label": "...",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=910",
+        "label": "910",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=911",
+        "label": "911",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=7",
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=7",
+    "path": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102",
+    "per_page": "50",
+    "prev_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?page=5",
+    "to": 300,
+    "total": 45516
+  },
+  "result": {
+    "id": 102,
+    "menu_name": "Medicine",
+    "menu_name_thai": "दवाइयाँ",
+    "image": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_image/original/Menu_17211317163232.webp",
+    "meta_tag": "30 Minutes Medicine Delivery - Order Now!",
+    "keywords": "IndiaEPharmacy",
+    "meta_description": "Get 30 Minutes Medicine Delivery! Quick, reliable, and efficient. Order now and have your medicine delivered to your doorstep in just 30 minutes."
+  }
+}

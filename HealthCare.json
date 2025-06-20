@@ -1,0 +1,1255 @@
+{
+  "code": 200,
+  "msg": "Menu items fetched successfully",
+  "data": {
+    "current_page": 5,
+    "data": [
+      {
+        "master_menu_item_id": 664348,
+        "master_menu_id": 110,
+        "item_name": "Toplap Gel- 10gm",
+        "item_name_thai": "टॉपलैप जेल- 10 ग्राम",
+        "status": "1",
+        "price": 254.35,
+        "mrp": 254.35,
+        "quantity": 999,
+        "item_description": "10gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 10 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664348,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105989926.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664349,
+        "master_menu_id": 110,
+        "item_name": "Volini Activ Gel- 5gm",
+        "item_name_thai": "वोलिनी एक्टिव जेल- 5 ग्राम",
+        "status": "1",
+        "price": 10,
+        "mrp": 10,
+        "quantity": 999,
+        "item_description": "5gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 5 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664349,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105951201.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664355,
+        "master_menu_id": 110,
+        "item_name": "Lactodex -Nmw 1 Powder",
+        "item_name_thai": "लैक्टोडेक्स -Nmw 1 पाउडर",
+        "status": "1",
+        "price": 540,
+        "mrp": 540,
+        "quantity": 999,
+        "item_description": "500gm Powder in a box",
+        "item_description_thai": "एक डिब्बे में 500 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664355,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106206409.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664369,
+        "master_menu_id": 110,
+        "item_name": "Prakritik P-Fex Syrup-100ml",
+        "item_name_thai": "प्राकृतिक पी-फेक्स सिरप-100 मि.ली",
+        "status": "1",
+        "price": 110,
+        "mrp": 110,
+        "quantity": 999,
+        "item_description": "100ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 100ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664369,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106063543.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664370,
+        "master_menu_id": 110,
+        "item_name": "Tears Naturale Forte Ophthalmic Solution- 10Ml",
+        "item_name_thai": "टीयर्स नेचुरल फोर्टे ऑप्थेलमिक सॉल्यूशन- 10 मि.ली",
+        "status": "1",
+        "price": 281,
+        "mrp": 281,
+        "quantity": 999,
+        "item_description": "10ml Ophthalmic Solution in a packet",
+        "item_description_thai": "एक पैकेट में 10 मिलीलीटर नेत्र संबंधी घोल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664370,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105987260.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664381,
+        "master_menu_id": 110,
+        "item_name": "Softovac-Sf Bowel Regulator Powder-250Gm-Sugar Free",
+        "item_name_thai": "सॉफ्टोवैक-एसएफ बाउल रेगुलेटर पाउडर-250 ग्राम-शुगर फ्री",
+        "status": "1",
+        "price": 460,
+        "mrp": 460,
+        "quantity": 999,
+        "item_description": "250gm Powder in a jar",
+        "item_description_thai": "एक जार में 250 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664381,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_1712583615863.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664382,
+        "master_menu_id": 110,
+        "item_name": "Liveril Suspension- 200ml",
+        "item_name_thai": "लिवरिल सस्पेंशन- 200 मि.ली",
+        "status": "1",
+        "price": 354,
+        "mrp": 354,
+        "quantity": 999,
+        "item_description": "200ml Oral Suspension in a bottle",
+        "item_description_thai": "एक बोतल में 200 मिलीलीटर ओरल सस्पेंशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664382,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17125836124436.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664387,
+        "master_menu_id": 110,
+        "item_name": "Eco Tears Gel- 10Ml",
+        "item_name_thai": "इको टीयर्स जेल- 10 मि.ली",
+        "status": "1",
+        "price": 176.21,
+        "mrp": 176.21,
+        "quantity": 999,
+        "item_description": "10ml Eye Drop in a bottle",
+        "item_description_thai": "एक बोतल में 10 मिलीलीटर आई ड्रॉप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664387,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106346000.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664391,
+        "master_menu_id": 110,
+        "item_name": "Potrate 10 Tablet ER- 10",
+        "item_name_thai": "पोट्रेट 10 टैबलेट ईआर- 10",
+        "status": "1",
+        "price": 75.5,
+        "mrp": 75.5,
+        "quantity": 999,
+        "item_description": "10 Tablet ER in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट ईआर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664391,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106068731.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664392,
+        "master_menu_id": 110,
+        "item_name": "Mugli Ghutti 555-180ml",
+        "item_name_thai": "मुगली घुट्टी 555-180 मि.ली",
+        "status": "1",
+        "price": 98,
+        "mrp": 98,
+        "quantity": 999,
+        "item_description": "180ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 180ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664392,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106159839.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664401,
+        "master_menu_id": 110,
+        "item_name": "Astanova Astakof Cough Syrup-100ml",
+        "item_name_thai": "एस्टानोवा एस्टाकोफ कफ सिरप-100 मि.ली",
+        "status": "1",
+        "price": 80,
+        "mrp": 80,
+        "quantity": 999,
+        "item_description": "100ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 100ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664401,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106477622.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664405,
+        "master_menu_id": 110,
+        "item_name": "Systaflam Gel- 25Gm",
+        "item_name_thai": "सिस्टाफ्लैम जेल- 25 ग्राम",
+        "status": "1",
+        "price": 76,
+        "mrp": 76,
+        "quantity": 999,
+        "item_description": "25gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 25 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664405,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105991083.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664407,
+        "master_menu_id": 110,
+        "item_name": "Colonise Forte Capsule- 10",
+        "item_name_thai": "कोलोनाइज फोर्ट कैप्सूल- 10",
+        "status": "1",
+        "price": 243.7,
+        "mrp": 243.7,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664407,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106443861.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664411,
+        "master_menu_id": 110,
+        "item_name": "Brufen Active Ointment-30gm",
+        "item_name_thai": "ब्रूफेन एक्टिव ऑइंटमेंट-30 ग्राम",
+        "status": "1",
+        "price": 85,
+        "mrp": 85,
+        "quantity": 999,
+        "item_description": "30gm Ointment in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम मलहम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664411,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106427628.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664415,
+        "master_menu_id": 110,
+        "item_name": "Peglec Powder- 1375Gm",
+        "item_name_thai": "पेग्लेक पाउडर- 1375 ग्राम",
+        "status": "1",
+        "price": 459,
+        "mrp": 459,
+        "quantity": 999,
+        "item_description": "137.15gm Powder in a box",
+        "item_description_thai": "एक डिब्बे में 137.15 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664415,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106078614.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664433,
+        "master_menu_id": 110,
+        "item_name": "Placentrex Gel",
+        "item_name_thai": "प्लेसेंट्रेक्स जेल",
+        "status": "1",
+        "price": 153.61,
+        "mrp": 153.61,
+        "quantity": 999,
+        "item_description": "20gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 20 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664433,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106072819.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664073,
+        "master_menu_id": 110,
+        "item_name": "Vizylac Rich Capsule- 10",
+        "item_name_thai": "विज़िलैक रिच कैप्सूल- 10",
+        "status": "1",
+        "price": 183.85,
+        "mrp": 183.85,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664073,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17125836107650.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664078,
+        "master_menu_id": 110,
+        "item_name": "Moov NECK & SHOULDER Gel- 30gm",
+        "item_name_thai": "मूव नेक और शोल्डर जेल- 30 ग्राम",
+        "status": "1",
+        "price": 75.52,
+        "mrp": 75.52,
+        "quantity": 999,
+        "item_description": "30gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664078,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106161058.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664079,
+        "master_menu_id": 110,
+        "item_name": "Volini Spray- 60Gm",
+        "item_name_thai": "वोलिनी स्प्रे- 60 ग्राम",
+        "status": "1",
+        "price": 208,
+        "mrp": 208,
+        "quantity": 999,
+        "item_description": "60gm Spray in a bottle",
+        "item_description_thai": "एक बोतल में 60 ग्राम स्प्रे",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664079,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105945035.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664080,
+        "master_menu_id": 110,
+        "item_name": "Depiwhite Eye Contour Gel- 15ml",
+        "item_name_thai": "डेपिव्हाइट आई कंटूर जेल- 15 मि.ली",
+        "status": "1",
+        "price": 746,
+        "mrp": 746,
+        "quantity": 999,
+        "item_description": "15ml Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 15ml जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664080,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106419987.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664081,
+        "master_menu_id": 110,
+        "item_name": "Systaflam Gel- 50Gm",
+        "item_name_thai": "सिस्टाफ्लैम जेल- 50 ग्राम",
+        "status": "1",
+        "price": 140,
+        "mrp": 140,
+        "quantity": 999,
+        "item_description": "50gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 50 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664081,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17125836101601.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664086,
+        "master_menu_id": 110,
+        "item_name": "Entroflora Capsule Dr- 10",
+        "item_name_thai": "एन्ट्रोफ्लोरा कैप्सूल डॉ- 10",
+        "status": "1",
+        "price": 223,
+        "mrp": 223,
+        "quantity": 999,
+        "item_description": "10 Capsule DR in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल डीआर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664086,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106361067.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664095,
+        "master_menu_id": 110,
+        "item_name": "White Fields Ointment",
+        "item_name_thai": "व्हाइट फील्ड्स मरहम",
+        "status": "1",
+        "price": 25,
+        "mrp": 25,
+        "quantity": 999,
+        "item_description": "20gm Ointment in a tube",
+        "item_description_thai": "एक ट्यूब में 20 ग्राम मलहम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664095,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105926974.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664098,
+        "master_menu_id": 110,
+        "item_name": "Zandu Oil Ortho Vedic Knee & Joint Pain-120ml",
+        "item_name_thai": "झंडू ऑयल ऑर्थो वैदिक घुटने और जोड़ों का दर्द-120 मि.ली",
+        "status": "1",
+        "price": 295,
+        "mrp": 295,
+        "quantity": 999,
+        "item_description": "120ml Oil in a bottle",
+        "item_description_thai": "एक बोतल में 120 मिलीलीटर तेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664098,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_1723810591705.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664099,
+        "master_menu_id": 110,
+        "item_name": "Pre Pro HS Capsule- 10",
+        "item_name_thai": "प्री प्रो एचएस कैप्सूल- 10",
+        "status": "1",
+        "price": 219,
+        "mrp": 219,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664099,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106059314.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664105,
+        "master_menu_id": 110,
+        "item_name": "Livoluk Oral Solution- 450ml",
+        "item_name_thai": "लिवोलुक ओरल सॉल्यूशन- 450 मि.ली",
+        "status": "1",
+        "price": 517.7,
+        "mrp": 517.7,
+        "quantity": 999,
+        "item_description": "450ml Oral Solution in a bottle",
+        "item_description_thai": "एक बोतल में 450 मिलीलीटर ओरल सॉल्यूशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664105,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106199720.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664107,
+        "master_menu_id": 110,
+        "item_name": "Magsim Mps Syrup",
+        "item_name_thai": "मैगसिम एमपीएस सिरप",
+        "status": "1",
+        "price": 58.13,
+        "mrp": 58.13,
+        "quantity": 999,
+        "item_description": "170ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 170ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664107,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106174827.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664138,
+        "master_menu_id": 110,
+        "item_name": "Gerbisa 5mg Tablet- 10",
+        "item_name_thai": "गेर्बिसा 5एमजी टैबलेट- 10",
+        "status": "1",
+        "price": 12.99,
+        "mrp": 12.99,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664138,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106277326.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664143,
+        "master_menu_id": 110,
+        "item_name": "DFO Spray",
+        "item_name_thai": "डीएफओ स्प्रे",
+        "status": "1",
+        "price": 183.67,
+        "mrp": 183.67,
+        "quantity": 999,
+        "item_description": "55gm Spray in a bottle",
+        "item_description_thai": "एक बोतल में 55 ग्राम स्प्रे",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664143,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106413631.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664145,
+        "master_menu_id": 110,
+        "item_name": "Dulcoflex 5Mg Tablet- 40",
+        "item_name_thai": "डुलकोफ्लेक्स 5एमजी टैबलेट- 40",
+        "status": "1",
+        "price": 43.33,
+        "mrp": 43.33,
+        "quantity": 999,
+        "item_description": "40 Tablet in a bottle",
+        "item_description_thai": "एक बोतल में 40 टेबलेट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664145,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17164587735774.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664149,
+        "master_menu_id": 110,
+        "item_name": "Acular LS Ophthalmic Solution- 5ml",
+        "item_name_thai": "एकुलर एलएस ऑप्थेलमिक सॉल्यूशन- 5 मि.ली",
+        "status": "1",
+        "price": 128.69,
+        "mrp": 128.69,
+        "quantity": 999,
+        "item_description": "5ml Ophthalmic Solution in a packet",
+        "item_description_thai": "एक पैकेट में 5 मिली ऑप्थेल्मिक सॉल्यूशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664149,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106489825.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664158,
+        "master_menu_id": 110,
+        "item_name": "Duphalac Enema Solution- 300ml",
+        "item_name_thai": "डुफलैक एनीमा सॉल्यूशन- 300 मि.ली",
+        "status": "1",
+        "price": 387.45,
+        "mrp": 387.45,
+        "quantity": 999,
+        "item_description": "300ml Oral Solution in a bottle",
+        "item_description_thai": "एक बोतल में 300 मिलीलीटर ओरल सॉल्यूशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664158,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17125836125745.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664169,
+        "master_menu_id": 110,
+        "item_name": "Lipoherb Capsule-60",
+        "item_name_thai": "लिपोहर्ब कैप्सूल-60",
+        "status": "1",
+        "price": 360,
+        "mrp": 360,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664169,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106191680.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664170,
+        "master_menu_id": 110,
+        "item_name": "Renu Fresh Solution- 120ml",
+        "item_name_thai": "रेनू फ्रेश सॉल्यूशन- 120 मि.ली",
+        "status": "1",
+        "price": 270,
+        "mrp": 270,
+        "quantity": 999,
+        "item_description": "120ml Solution in a bottle",
+        "item_description_thai": "एक बोतल में 120 मि.ली. घोल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664170,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106031303.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664171,
+        "master_menu_id": 110,
+        "item_name": "Enzoflam Gel- 30gm",
+        "item_name_thai": "एनज़ोफ्लैम जेल- 30 ग्राम",
+        "status": "1",
+        "price": 138,
+        "mrp": 138,
+        "quantity": 999,
+        "item_description": "30gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664171,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17125836123615.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664178,
+        "master_menu_id": 110,
+        "item_name": "Jusgo Gel",
+        "item_name_thai": "जूसगो जेल",
+        "status": "1",
+        "price": 128.25,
+        "mrp": 128.25,
+        "quantity": 999,
+        "item_description": "30gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664178,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106215415.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664187,
+        "master_menu_id": 110,
+        "item_name": "Volini Spray",
+        "item_name_thai": "वोलिनी स्प्रे",
+        "status": "1",
+        "price": 320,
+        "mrp": 320,
+        "quantity": 999,
+        "item_description": "100gm Spray in a bottle",
+        "item_description_thai": "एक बोतल में 100 ग्राम स्प्रे",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664187,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17125836114025.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664195,
+        "master_menu_id": 110,
+        "item_name": "Volini Pain Relief Gel- 50gm",
+        "item_name_thai": "वोलिनी दर्द निवारक जेल- 50 ग्राम",
+        "status": "1",
+        "price": 190,
+        "mrp": 190,
+        "quantity": 999,
+        "item_description": "50gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 50 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664195,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105947473.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664196,
+        "master_menu_id": 110,
+        "item_name": "Collaflex Joint Health Supplement Granules- 102Gm",
+        "item_name_thai": "कोलाफ्लेक्स संयुक्त स्वास्थ्य अनुपूरक ग्रैन्यूल- 102 ग्राम",
+        "status": "1",
+        "price": 127,
+        "mrp": 127,
+        "quantity": 999,
+        "item_description": "10.2gm Granules in a sachet",
+        "item_description_thai": "एक थैली में 10.2 ग्राम दाने",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664196,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17125836111765.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664198,
+        "master_menu_id": 110,
+        "item_name": "Volini Spray- 40Gm",
+        "item_name_thai": "वोलिनी स्प्रे- 40 ग्राम",
+        "status": "1",
+        "price": 149,
+        "mrp": 149,
+        "quantity": 999,
+        "item_description": "40gm Spray in a bottle",
+        "item_description_thai": "एक बोतल में 40 ग्राम स्प्रे",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664198,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105946749.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664199,
+        "master_menu_id": 110,
+        "item_name": "Tolagin Gel- 30Gm",
+        "item_name_thai": "टोलगिन जेल- 30 ग्राम",
+        "status": "1",
+        "price": 157,
+        "mrp": 157,
+        "quantity": 999,
+        "item_description": "30gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664199,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105986446.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664200,
+        "master_menu_id": 110,
+        "item_name": "Vicks Inhaler Super Saver Pack (05Ml Each)-2",
+        "item_name_thai": "विक्स इनहेलर सुपर सेवर पैक (05 मिली प्रत्येक)-2",
+        "status": "1",
+        "price": 112,
+        "mrp": 112,
+        "quantity": 999,
+        "item_description": "2 Inhaler in a packet",
+        "item_description_thai": "एक पैकेट में 2 इन्हेलर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664200,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105965108.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664204,
+        "master_menu_id": 110,
+        "item_name": "K Mac Oral Solution- 450ml-Sugar Free",
+        "item_name_thai": "के मैक ओरल सॉल्यूशन- 450 मिली-शुगर फ्री",
+        "status": "1",
+        "price": 252,
+        "mrp": 252,
+        "quantity": 999,
+        "item_description": "450ml Oral Solution in a bottle",
+        "item_description_thai": "एक बोतल में 450 मिलीलीटर ओरल सॉल्यूशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664204,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106211300.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664209,
+        "master_menu_id": 110,
+        "item_name": "Livoluk Oral Solution- 200ml",
+        "item_name_thai": "लिवोलुक ओरल सॉल्यूशन- 200 मि.ली",
+        "status": "1",
+        "price": 230.05,
+        "mrp": 230.05,
+        "quantity": 999,
+        "item_description": "200ml Oral Solution in a bottle",
+        "item_description_thai": "एक बोतल में 200 मिलीलीटर ओरल सॉल्यूशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664209,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106191379.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664214,
+        "master_menu_id": 110,
+        "item_name": "Bestozyme Syrup- 200ml",
+        "item_name_thai": "बेस्टोजाइम सिरप- 200 मि.ली",
+        "status": "1",
+        "price": 108.55,
+        "mrp": 108.55,
+        "quantity": 999,
+        "item_description": "200ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 200ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664214,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106484023.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664221,
+        "master_menu_id": 110,
+        "item_name": "Econorm Sachet- 765Mg",
+        "item_name_thai": "इकोनोर्म सैशे- 765एमजी",
+        "status": "1",
+        "price": 62.7,
+        "mrp": 62.7,
+        "quantity": 999,
+        "item_description": "765mg Sachet in a packet",
+        "item_description_thai": "एक पैकेट में 765एमजी सैशे",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664221,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17125836126812.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664226,
+        "master_menu_id": 110,
+        "item_name": "Ochek Capsule",
+        "item_name_thai": "ओचेक कैप्सूल",
+        "status": "1",
+        "price": 159,
+        "mrp": 159,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664226,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106103326.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664238,
+        "master_menu_id": 110,
+        "item_name": "Recharje Plus Capsule- 10",
+        "item_name_thai": "रिचार्ज प्लस कैप्सूल- 10",
+        "status": "1",
+        "price": 116.95,
+        "mrp": 116.95,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664238,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238106046423.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664239,
+        "master_menu_id": 110,
+        "item_name": "Vizylac Dry Syrup",
+        "item_name_thai": "विज़िलैक ड्राई सिरप",
+        "status": "1",
+        "price": 55.6,
+        "mrp": 55.6,
+        "quantity": 999,
+        "item_description": "60ml Dry Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 60ml ड्राई सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664239,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17238105957979.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 664242,
+        "master_menu_id": 110,
+        "item_name": "Cipladine Ointment- 20Gm",
+        "item_name_thai": "सिप्लाडाइन मरहम- 20 ग्राम",
+        "status": "1",
+        "price": 53.84,
+        "mrp": 53.84,
+        "quantity": 999,
+        "item_description": "20gm Ointment in a tube",
+        "item_description_thai": "एक ट्यूब में 20 ग्राम मलहम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 110,
+          "menu_name": "Healthcare products",
+          "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 664242,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17125836124172.webp"
+        }
+      }
+    ],
+    "first_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=1",
+    "from": 201,
+    "last_page": 59,
+    "last_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=59",
+    "links": [
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=4",
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=1",
+        "label": "1",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=2",
+        "label": "2",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=3",
+        "label": "3",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=4",
+        "label": "4",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=5",
+        "label": "5",
+        "active": true
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=6",
+        "label": "6",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=7",
+        "label": "7",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=8",
+        "label": "8",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=9",
+        "label": "9",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=10",
+        "label": "10",
+        "active": false
+      },
+      {
+        "url": null,
+        "label": "...",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=58",
+        "label": "58",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=59",
+        "label": "59",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=6",
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=6",
+    "path": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110",
+    "per_page": "50",
+    "prev_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/110?page=4",
+    "to": 250,
+    "total": 2905
+  },
+  "result": {
+    "id": 110,
+    "menu_name": "Healthcare products",
+    "menu_name_thai": "स्वास्थ्य देखभाल उत्पाद",
+    "image": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_image/original/Menu_17211317641425.webp",
+    "meta_tag": "Your One-Stop Shop for Health Care Products Online!",
+    "keywords": "OnlineHealthCareStore",
+    "meta_description": "India's best online pharmacy with a wide range of Prescription and OTC medicines. Save on essential health care products online."
+  }
+}

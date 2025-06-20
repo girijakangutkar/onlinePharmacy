@@ -1,0 +1,1255 @@
+{
+  "code": 200,
+  "msg": "Menu items fetched successfully",
+  "data": {
+    "current_page": 6,
+    "data": [
+      {
+        "master_menu_item_id": 454270,
+        "master_menu_id": 80,
+        "item_name": "Himalaya Koflet Lozenges-10",
+        "item_name_thai": "हिमालय कोफ़लेट लोज़ेंजेस-10",
+        "status": "1",
+        "price": 20,
+        "mrp": 20,
+        "quantity": 999,
+        "item_description": "10 Lozenges in a packet",
+        "item_description_thai": "एक पैकेट में 10 लोजेंज",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454270,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887862316.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454271,
+        "master_menu_id": 80,
+        "item_name": "Zindagi Stevia Powder (Buy 7 Get 3 Free - 50 gm Each)-1",
+        "item_name_thai": "जिंदगी स्टीविया पाउडर (7 खरीदें 3 मुफ्त पाएं - 50 ग्राम प्रत्येक)-1",
+        "status": "1",
+        "price": 1500,
+        "mrp": 1500,
+        "quantity": 999,
+        "item_description": "1 Kit in a packet",
+        "item_description_thai": "एक पैकेट में 1 किट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454271,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887863810.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454272,
+        "master_menu_id": 80,
+        "item_name": "Vedic Upchar Premium Herbal Tea Pack of 5",
+        "item_name_thai": "वैदिक उपचार प्रीमियम हर्बल चाय 5 का पैक",
+        "status": "1",
+        "price": 3500,
+        "mrp": 3500,
+        "quantity": 999,
+        "item_description": "120gm Powder in a jar",
+        "item_description_thai": "एक जार में 120 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454272,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635883754752.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454274,
+        "master_menu_id": 80,
+        "item_name": "Vedic Upchar Premium Herbal Tea Pack of 6",
+        "item_name_thai": "वैदिक उपचार प्रीमियम हर्बल चाय 6 का पैक",
+        "status": "1",
+        "price": 4200,
+        "mrp": 4200,
+        "quantity": 999,
+        "item_description": "120gm Powder in a jar",
+        "item_description_thai": "एक जार में 120 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454274,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635883751838.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454275,
+        "master_menu_id": 80,
+        "item_name": "Zindagi Stevia Sachets (Buy 12 Get 3 Free - 50 Sachets in Each Pack)-1",
+        "item_name_thai": "जिंदगी स्टीविया सैशे (12 खरीदें 3 मुफ्त पाएं - प्रत्येक पैक में 50 सैशे)-1",
+        "status": "1",
+        "price": 2250,
+        "mrp": 2250,
+        "quantity": 999,
+        "item_description": "1 Kit in a packet",
+        "item_description_thai": "एक पैकेट में 1 किट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454275,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887868149.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454277,
+        "master_menu_id": 80,
+        "item_name": "Vedic Upchar Urja Rasayan Capsule-60",
+        "item_name_thai": "वैदिक उपचार ऊर्जा रसायन कैप्सूल-60",
+        "status": "1",
+        "price": 1590,
+        "mrp": 1590,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454277,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635883758933.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454279,
+        "master_menu_id": 80,
+        "item_name": "Charak Spasma Syrup-200ml",
+        "item_name_thai": "चरक स्पास्मा सिरप-200 मि.ली",
+        "status": "1",
+        "price": 115,
+        "mrp": 115,
+        "quantity": 999,
+        "item_description": "200ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 200ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454279,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887876752.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454282,
+        "master_menu_id": 80,
+        "item_name": "Charge Up Capsule-15",
+        "item_name_thai": "चार्ज अप कैप्सूल-15",
+        "status": "1",
+        "price": 289.3,
+        "mrp": 289.3,
+        "quantity": 999,
+        "item_description": "15 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 15 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454282,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887877974.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454284,
+        "master_menu_id": 80,
+        "item_name": "Curenext Oral Gel-50Gm",
+        "item_name_thai": "क्योरनेक्स्ट ओरल जेल-50 ग्राम",
+        "status": "1",
+        "price": 119.5,
+        "mrp": 119.5,
+        "quantity": 999,
+        "item_description": "50gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 50 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454284,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887873762.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454285,
+        "master_menu_id": 80,
+        "item_name": "Himalaya Reosto Tablet-60",
+        "item_name_thai": "हिमालय रिओस्टो टैबलेट-60",
+        "status": "1",
+        "price": 300,
+        "mrp": 300,
+        "quantity": 999,
+        "item_description": "60 Tablet in a packet",
+        "item_description_thai": "एक पैकेट में 60 टेबलेट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454285,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887872922.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454288,
+        "master_menu_id": 80,
+        "item_name": "Solumiks Honicof Syrup-100ml",
+        "item_name_thai": "सोलुमिक्स होनिकॉफ़ सिरप-100 मि.ली",
+        "status": "1",
+        "price": 90,
+        "mrp": 90,
+        "quantity": 999,
+        "item_description": "100ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 100ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454288,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887873919.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454291,
+        "master_menu_id": 80,
+        "item_name": "Whoopin Syrup-100ml",
+        "item_name_thai": "हूपिन सिरप-100 मि.ली",
+        "status": "1",
+        "price": 45,
+        "mrp": 45,
+        "quantity": 999,
+        "item_description": "100ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 100ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454291,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887874778.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454293,
+        "master_menu_id": 80,
+        "item_name": "Y Spur Capsule-30",
+        "item_name_thai": "वाई स्पर कैप्सूल-30",
+        "status": "1",
+        "price": 825,
+        "mrp": 825,
+        "quantity": 999,
+        "item_description": "30 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 30 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454293,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887876287.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454294,
+        "master_menu_id": 80,
+        "item_name": "Virilex Tablet-20",
+        "item_name_thai": "विरिलेक्स टैबलेट-20",
+        "status": "1",
+        "price": 634.7,
+        "mrp": 634.7,
+        "quantity": 999,
+        "item_description": "20 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 20 टैबलेट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454294,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887872013.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454295,
+        "master_menu_id": 80,
+        "item_name": "ABHAYAMRITA-1",
+        "item_name_thai": "अभयामृत-1",
+        "status": "1",
+        "price": 225,
+        "mrp": 225,
+        "quantity": 999,
+        "item_description": "450ml syrup In A Bottle",
+        "item_description_thai": "एक बोतल में 450 मिलीलीटर सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454295,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17224283603449.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454296,
+        "master_menu_id": 80,
+        "item_name": "Venus Ayurveda Energy Sutra Forte Capsule-60",
+        "item_name_thai": "वीनस आयुर्वेद एनर्जी सूत्र फोर्टे कैप्सूल-60",
+        "status": "1",
+        "price": 1200,
+        "mrp": 1200,
+        "quantity": 999,
+        "item_description": "60 Capsule in a bottle",
+        "item_description_thai": "एक बोतल में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454296,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887871834.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454299,
+        "master_menu_id": 80,
+        "item_name": "Venus Ayurveda Energy Sutra Forte Kit-1",
+        "item_name_thai": "वीनस आयुर्वेद एनर्जी सूत्र फोर्ट किट-1",
+        "status": "1",
+        "price": 4999,
+        "mrp": 4999,
+        "quantity": 999,
+        "item_description": "1 Kit in a box",
+        "item_description_thai": "एक बॉक्स में 1 किट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454299,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887878438.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454300,
+        "master_menu_id": 80,
+        "item_name": "AMU Dawakhana Dimagheen-400gm",
+        "item_name_thai": "एएमयू दवाखाना दिमाघीन-400 ग्राम",
+        "status": "1",
+        "price": 174,
+        "mrp": 174,
+        "quantity": 999,
+        "item_description": "400 GM In A Jar",
+        "item_description_thai": "एक जार में 400 ग्राम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454300,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17253570278951.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454301,
+        "master_menu_id": 80,
+        "item_name": "Himalaya Bonnisan Liquid-100ml",
+        "item_name_thai": "हिमालय बोनिसन लिक्विड-100 मि.ली",
+        "status": "1",
+        "price": 55,
+        "mrp": 55,
+        "quantity": 999,
+        "item_description": "100ml Liquid in a bottle",
+        "item_description_thai": "एक बोतल में 100 मिलीलीटर तरल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454301,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887876739.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454302,
+        "master_menu_id": 80,
+        "item_name": "Venus Ayurveda Energy Sutra Forte Oil",
+        "item_name_thai": "वीनस आयुर्वेद एनर्जी सूत्र फोर्टे ऑयल",
+        "status": "1",
+        "price": 900,
+        "mrp": 900,
+        "quantity": 999,
+        "item_description": "15ml Oil in a bottle",
+        "item_description_thai": "एक बोतल में 15 मि.ली. तेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454302,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887888020.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454304,
+        "master_menu_id": 80,
+        "item_name": "Winacid Syrup-200ml",
+        "item_name_thai": "विनासिड सिरप-200 मि.ली",
+        "status": "1",
+        "price": 31.25,
+        "mrp": 31.25,
+        "quantity": 999,
+        "item_description": "200ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 200ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454304,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887883322.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454305,
+        "master_menu_id": 80,
+        "item_name": "Venus Ayurveda Energy Sutra Forte Oil-30Ml",
+        "item_name_thai": "वीनस आयुर्वेद एनर्जी सूत्र फोर्ट ऑयल-30 मि.ली",
+        "status": "1",
+        "price": 1750,
+        "mrp": 1750,
+        "quantity": 999,
+        "item_description": "30ml Oil in a bottle",
+        "item_description_thai": "एक बोतल में 30 मिलीलीटर तेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454305,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887881803.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454306,
+        "master_menu_id": 80,
+        "item_name": "ARJUNARISTHA-455ML",
+        "item_name_thai": "अर्जुनरिष्ठा-455एमएल",
+        "status": "1",
+        "price": 195,
+        "mrp": 195,
+        "quantity": 999,
+        "item_description": "455 ml In A Bottle",
+        "item_description_thai": "एक बोतल में 455 मि.ली",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454306,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17095527354084.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454310,
+        "master_menu_id": 80,
+        "item_name": "Herbodil Syrup-100ml",
+        "item_name_thai": "हर्बोडिल सिरप-100 मि.ली",
+        "status": "1",
+        "price": 50,
+        "mrp": 50,
+        "quantity": 999,
+        "item_description": "100ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 100ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454310,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887887174.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454312,
+        "master_menu_id": 80,
+        "item_name": "DASHAMULARISHTA-455ML",
+        "item_name_thai": "दशमूलारिष्ट-455एमएल",
+        "status": "1",
+        "price": 160,
+        "mrp": 160,
+        "quantity": 999,
+        "item_description": "455 ml In A Bottle",
+        "item_description_thai": "एक बोतल में 455 मि.ली",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454312,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17253570279658.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454313,
+        "master_menu_id": 80,
+        "item_name": "HIMALAYA BONNISAN-120ml",
+        "item_name_thai": "हिमालय बोनिसन-120 मि.ली",
+        "status": "1",
+        "price": 40,
+        "mrp": 40,
+        "quantity": 999,
+        "item_description": "120ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 120ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454313,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887852505.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454314,
+        "master_menu_id": 80,
+        "item_name": "Venus Ayurveda Herbspure Forte Syrup",
+        "item_name_thai": "वीनस आयुर्वेद हर्ब्सप्योर फोर्टे सिरप",
+        "status": "1",
+        "price": 124,
+        "mrp": 124,
+        "quantity": 999,
+        "item_description": "200ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 200ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454314,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887852810.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454315,
+        "master_menu_id": 80,
+        "item_name": "Flying Tiger Balm-15Gms",
+        "item_name_thai": "फ्लाइंग टाइगर बाम-15 ग्राम",
+        "status": "1",
+        "price": 80,
+        "mrp": 80,
+        "quantity": 999,
+        "item_description": "15 gm In A Bottle",
+        "item_description_thai": "एक बोतल में 15 ग्राम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454315,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17224283602561.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454316,
+        "master_menu_id": 80,
+        "item_name": "Bio-Oil-60Ml",
+        "item_name_thai": "बायो-ऑयल-60 मि.ली",
+        "status": "1",
+        "price": 450,
+        "mrp": 450,
+        "quantity": 999,
+        "item_description": "60ml Oil in a bottle",
+        "item_description_thai": "एक बोतल में 60 मिलीलीटर तेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454316,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887857263.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454317,
+        "master_menu_id": 80,
+        "item_name": "Venus Ayurveda Liv Charge Forte Syrup",
+        "item_name_thai": "वीनस आयुर्वेद लिव चार्ज फोर्टे सिरप",
+        "status": "1",
+        "price": 145,
+        "mrp": 145,
+        "quantity": 999,
+        "item_description": "200ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 200ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454317,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887855275.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454318,
+        "master_menu_id": 80,
+        "item_name": "Picnovit Tablet-10",
+        "item_name_thai": "पिकनोविट टैबलेट-10",
+        "status": "1",
+        "price": 208.5,
+        "mrp": 208.5,
+        "quantity": 999,
+        "item_description": "10 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 टैबलेट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454318,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887856908.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454322,
+        "master_menu_id": 80,
+        "item_name": "Himalaya Liv52 Syrup-100ml",
+        "item_name_thai": "हिमालय लिव52 सिरप-100 मि.ली",
+        "status": "1",
+        "price": 120,
+        "mrp": 120,
+        "quantity": 999,
+        "item_description": "Himalaya Liv.52 Syrup is a herbal syrup with chicory and the caper bush that helps protect the liver from damage and enhances overall liver health. It has potent hepatoprotective properties, improves appetite and enhances digestive health.",
+        "item_description_thai": "हिमालय लिव.52 सिरप चिकोरी और केपर बुश के साथ एक हर्बल सिरप है जो लीवर को क्षति से बचाने में मदद करता है और समग्र लीवर स्वास्थ्य को बढ़ाता है। इसमें शक्तिशाली हेपेटोप्रोटेक्टिव गुण हैं, भूख में सुधार होता है और पाचन स्वास्थ्य में सुधार होता है।",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454322,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_1663588786459.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454323,
+        "master_menu_id": 80,
+        "item_name": "Vigomax Capsule-10",
+        "item_name_thai": "विगोमैक्स कैप्सूल-10",
+        "status": "1",
+        "price": 140,
+        "mrp": 140,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454323,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17224283602428.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454325,
+        "master_menu_id": 80,
+        "item_name": "Vivadona Capsule-20",
+        "item_name_thai": "विवाडोना कैप्सूल-20",
+        "status": "1",
+        "price": 180,
+        "mrp": 180,
+        "quantity": 999,
+        "item_description": "20 Capsule in a strip",
+        "item_description_thai": "एक पट्टी में 20 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454325,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887863270.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454328,
+        "master_menu_id": 80,
+        "item_name": "Withamlajit Capsule-60",
+        "item_name_thai": "विथमलाजीत कैप्सूल-60",
+        "status": "1",
+        "price": 356,
+        "mrp": 356,
+        "quantity": 999,
+        "item_description": "60 Capsule in a packet",
+        "item_description_thai": "एक पैकेट में 60 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454328,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887868777.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454329,
+        "master_menu_id": 80,
+        "item_name": "Obenyl Nutra Tablet-30",
+        "item_name_thai": "ओबेनिल न्यूट्रा टैबलेट-30",
+        "status": "1",
+        "price": 401,
+        "mrp": 401,
+        "quantity": 999,
+        "item_description": "30 Tablet in a strip",
+        "item_description_thai": "एक स्ट्रिप में 30 टैबलेट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454329,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_1663588786923.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454330,
+        "master_menu_id": 80,
+        "item_name": "Erandel Oil -100 ml",
+        "item_name_thai": "एरंडेल ऑयल -100 मिली",
+        "status": "1",
+        "price": 65,
+        "mrp": 65,
+        "quantity": 999,
+        "item_description": "100 ml In A Bottle",
+        "item_description_thai": "एक बोतल में 100 ml",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454330,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17253570279088.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454331,
+        "master_menu_id": 80,
+        "item_name": "Charak Cognium Syrup-200ml",
+        "item_name_thai": "चरक कॉग्नियम सिरप-200 मि.ली",
+        "status": "1",
+        "price": 138,
+        "mrp": 138,
+        "quantity": 999,
+        "item_description": "200ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 200ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454331,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887862968.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454332,
+        "master_menu_id": 80,
+        "item_name": "Vervit Liv Syrup-200ml",
+        "item_name_thai": "वर्विट लिव सिरप-200 मि.ली",
+        "status": "1",
+        "price": 150,
+        "mrp": 150,
+        "quantity": 999,
+        "item_description": "200ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 200ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454332,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887869074.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454334,
+        "master_menu_id": 80,
+        "item_name": "Gonadil Capsule-10",
+        "item_name_thai": "गोनाडिल कैप्सूल-10",
+        "status": "1",
+        "price": 250,
+        "mrp": 250,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454334,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887863627.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454336,
+        "master_menu_id": 80,
+        "item_name": "Clove oil 5ml",
+        "item_name_thai": "लौंग का तेल 5 मि.ली",
+        "status": "1",
+        "price": 50,
+        "mrp": 50,
+        "quantity": 999,
+        "item_description": "5 ml In A Bottle",
+        "item_description_thai": "एक बोतल में 5 मिली",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454336,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17224283607518.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454337,
+        "master_menu_id": 80,
+        "item_name": "Aimil Amycordial Syrup-450ml",
+        "item_name_thai": "ऐमिल एमीकोर्डियल सिरप-450 मि.ली",
+        "status": "1",
+        "price": 215,
+        "mrp": 215,
+        "quantity": 999,
+        "item_description": "450ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 450ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454337,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887864846.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454340,
+        "master_menu_id": 80,
+        "item_name": "Himalaya Wellness Pure Herbs Brahmi Mind Wellness Tablet-60",
+        "item_name_thai": "हिमालय वेलनेस प्योर हर्ब्स ब्राह्मी माइंड वेलनेस टैबलेट-60",
+        "status": "1",
+        "price": 165,
+        "mrp": 165,
+        "quantity": 999,
+        "item_description": "60 Tablet in a bottle",
+        "item_description_thai": "एक बोतल में 60 टेबलेट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454340,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887861454.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454341,
+        "master_menu_id": 80,
+        "item_name": "Manix Capsule-10",
+        "item_name_thai": "मैनिक्स कैप्सूल-10",
+        "status": "1",
+        "price": 188,
+        "mrp": 188,
+        "quantity": 999,
+        "item_description": "10 Capsule in a strip",
+        "item_description_thai": "एक स्ट्रिप में 10 कैप्सूल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454341,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887864578.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454344,
+        "master_menu_id": 80,
+        "item_name": "Vicco Narayani Cream-30gm",
+        "item_name_thai": "विक्को नारायणी क्रीम-30 ग्राम",
+        "status": "1",
+        "price": 99,
+        "mrp": 99,
+        "quantity": 999,
+        "item_description": "30gm Cream in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454344,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887862886.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454346,
+        "master_menu_id": 80,
+        "item_name": "Himalaya Liv52 Syrup-200Ml",
+        "item_name_thai": "हिमालय लिव52 सिरप-200एमएल",
+        "status": "1",
+        "price": 195,
+        "mrp": 195,
+        "quantity": 999,
+        "item_description": "200ml Syrup in a bottle",
+        "item_description_thai": "एक बोतल में 200ml सिरप",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454346,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887868042.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454347,
+        "master_menu_id": 80,
+        "item_name": "Vicco Vajradanti Ayurvedic Powder-200gm",
+        "item_name_thai": "विक्को वज्रदंती आयुर्वेदिक पाउडर-200 ग्राम",
+        "status": "1",
+        "price": 155,
+        "mrp": 155,
+        "quantity": 999,
+        "item_description": "200gm Powder in a bottle",
+        "item_description_thai": "एक बोतल में 200 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454347,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887871761.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454349,
+        "master_menu_id": 80,
+        "item_name": "Himalaya Liv 52 Ds Tablet-60",
+        "item_name_thai": "हिमालय लिव 52 डीएस टैबलेट-60",
+        "status": "1",
+        "price": 230,
+        "mrp": 230,
+        "quantity": 999,
+        "item_description": "60 tablets in a bottle",
+        "item_description_thai": "एक बोतल में 60 गोलियाँ",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454349,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887874588.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454350,
+        "master_menu_id": 80,
+        "item_name": "Vicco Vajradanti Ayurvedic Powder-50gm",
+        "item_name_thai": "विक्को वज्रदंती आयुर्वेदिक पाउडर-50 ग्राम",
+        "status": "1",
+        "price": 56,
+        "mrp": 56,
+        "quantity": 999,
+        "item_description": "50gm Powder in a bottle",
+        "item_description_thai": "एक बोतल में 50 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454350,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887872547.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 454352,
+        "master_menu_id": 80,
+        "item_name": "Himalaya Koflet-H Lozenges-6-Orange-",
+        "item_name_thai": "हिमालय कोफलेट-एच लॉज़ेंजेस-6-ऑरेंज-",
+        "status": "1",
+        "price": 30,
+        "mrp": 30,
+        "quantity": 999,
+        "item_description": "6 Lozenges in a strip",
+        "item_description_thai": "एक पट्टी में 6 लोजेंज",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 80,
+          "menu_name": "Ayurvedic Products",
+          "menu_name_thai": "आयुर्वेदिक उत्पाद",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 454352,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_16635887873171.webp"
+        }
+      }
+    ],
+    "first_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=1",
+    "from": 251,
+    "last_page": 387,
+    "last_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=387",
+    "links": [
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=5",
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=1",
+        "label": "1",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=2",
+        "label": "2",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=3",
+        "label": "3",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=4",
+        "label": "4",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=5",
+        "label": "5",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=6",
+        "label": "6",
+        "active": true
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=7",
+        "label": "7",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=8",
+        "label": "8",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=9",
+        "label": "9",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=10",
+        "label": "10",
+        "active": false
+      },
+      {
+        "url": null,
+        "label": "...",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=386",
+        "label": "386",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=387",
+        "label": "387",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=7",
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=7",
+    "path": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80",
+    "per_page": "50",
+    "prev_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?page=5",
+    "to": 300,
+    "total": 19308
+  },
+  "result": {
+    "id": 80,
+    "menu_name": "Ayurvedic Products",
+    "menu_name_thai": "आयुर्वेदिक उत्पाद",
+    "image": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_image/original/Menu_1721120437929.webp",
+    "meta_tag": "Ayurveda Store: Natural Products Delivered in 30 Minutes",
+    "keywords": "AyurvedaStoreOnline",
+    "meta_description": "Looking for Ayurveda store products online? Find the best deals on natural remedies and wellness essentials. Buy now for exclusive offers!"
+  }
+}
