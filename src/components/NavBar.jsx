@@ -1,34 +1,87 @@
-import React from "react";
-// import "../components/nav.css";
-import { NavLink } from "react-router-dom";
-import Medicines from "../pages/Medicines"; 
-import About from "../pages/About";
-import Home from "../pages/Home";
-// import Contact from "../pages/Contact";
-
-
+import React, { useContext } from "react";
+import { NavLink, useNavigate } from "react-router-dom";
+import { FaCartShopping } from "react-icons/fa6";
+import { auth } from "../utils/firebaseConfig";
+import { AuthContextType } from "../context/AuthContext";
+import CartItems from "../utils/CartItems";
 
 const NavBar = () => {
+  const { user } = useContext(AuthContextType);
+  const navigate = useNavigate();
   return (
-    <nav className="h-18 flex justify-center gap-5 py-4 bg-gray-100 shadow-md">
-      <div className="navBar">
-        {/* <button class="px-4 py-4 hover:bg-green-500 hover:text-white  rounded transition duration-300">Home</button>
-        <button class="px-4 py-4 hover:bg-green-500 hover:text-white  rounded transition duration-300">Medicine</button>
-        <button class="px-4 py-4 hover:bg-green-500 hover:text-white  rounded transition duration-300">Contact</button>
-        <button class="px-4 py-4 hover:bg-green-500 hover:text-white  rounded transition duration-300">About Us</button> */}
-        {/* <NavLink
-          to="/messages"
-          className={({ isActive, isPending }) =>
-            isPending ? "pending" : isActive ? "active" : ""
+    <nav className="flex fixed top-0 w-full z-1000 justify-between gap-5 py-4 bg-white shadow-md pl-5 pr-5">
+      <div>
+        <h1>LOGO</h1>
+      </div>
+      <div>
+        <NavLink
+          className={({ isActive }) =>
+            `p-1 m-3 transition duration-300 border-b-2 ${
+              isActive ? "border-b-green-500" : "border-transparent"
+            }`
           }
-          class="px-4 py-4 hover:bg-green-500 hover:text-white  rounded transition duration-300"
+          to="/"
         >
-          Messages
-        </NavLink> */}
-        <NavLink className="px-4 py-4 hover:bg-green-500 hover:text-white  rounded transition duration-300" to="/">Home</NavLink>
-        <NavLink className="px-4 py-4 hover:bg-green-500 hover:text-white  rounded transition duration-300" to="/about">About Us</NavLink>
-        <NavLink className="px-4 py-4 hover:bg-green-500 hover:text-white  rounded transition duration-300" to="/contact">Contact Us</NavLink>
-        <NavLink className="px-4 py-4 hover:bg-green-500 hover:text-white  rounded transition duration-300" to="/medicines">Medicines</NavLink>
+          Home
+        </NavLink>
+        <NavLink
+          className={({ isActive }) =>
+            `p-1 m-3 transition duration-300 border-b-2 ${
+              isActive ? "border-b-green-500" : "border-transparent"
+            }`
+          }
+          to="/about"
+        >
+          About Us
+        </NavLink>
+        <NavLink
+          className={({ isActive }) =>
+            `p-1 m-3 transition duration-300 border-b-2 ${
+              isActive ? "border-b-green-500" : "border-transparent"
+            }`
+          }
+          to="/contact"
+        >
+          Contact Us
+        </NavLink>
+        <NavLink
+          className={({ isActive }) =>
+            `p-1 m-3 transition duration-300 border-b-2 ${
+              isActive ? "border-b-green-500" : "border-transparent"
+            }`
+          }
+          to="/medicines"
+        >
+          Medicines
+        </NavLink>
+      </div>
+      <div className="flex flex-row justify-between w-[7%]">
+        <div className="flex flex-col justify-center justify-content-center align-center self-center content-center items-center">
+          {user && (
+            <button className="relative">
+              <FaCartShopping size={20} onClick={() => navigate("/cart")} />
+              <CartItems />
+            </button>
+          )}
+        </div>
+        <div>
+          {user ? (
+            <div className="flex flex-row">
+              <button
+                onClick={() => auth.signOut()}
+                className="bg-red-500 text-white p-1.5 rounded shadow-md"
+              >
+                Logout
+              </button>
+            </div>
+          ) : (
+            <div>
+              <button className="bg-green-500 text-white p-1.5 rounded shadow-md">
+                <NavLink to="/login">Login</NavLink>
+              </button>
+            </div>
+          )}
+        </div>
       </div>
     </nav>
   );

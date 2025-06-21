@@ -4,8 +4,12 @@ import Home from "../pages/Home";
 import About from "../pages/About";
 import Contact from "../pages/Contact";
 import Medicines from "../pages/Medicines";
+import Cart from "../pages/Cart";
 
 import NavBar from "../components/NavBar";
+
+import Login from "../auth/Login";
+import Signup from "../auth/Signup";
 
 import Vitamines from "../subPages/Vitamines";
 import NotFound from "../subPages/NotFound";
@@ -21,17 +25,27 @@ const AllRoutes = () => {
     <div>
       <NavBar />
       <Routes>
+        {/* main pages routes */}
         <Route path="/" element={<Home />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/about" element={<About />} />
+        <Route path="/medicines" element={<Medicines />} />
+        <Route path="/cart" element={<Cart />} />
+
+        {/* auth routes */}
+        <Route path="/login" element={<Login />} />
+        <Route path="/signUp" element={<Signup />} />
+
+        {/* subpages routes */}
         <Route path="/vitamines" element={<Vitamines />} />
         <Route path="/PersonalCare" element={<PersonalCare />} />
         <Route path="/heathCare" element={<HealthCare />} />
         <Route path="/diabetes" element={<Diabetes />} />
-        <Route path="/medicines" element={<Medicines />} />
         <Route path="/Medicinal" element={<Medicinal />} />
         <Route path="/aurved" element={<Aurved />} />
         <Route path="/babyCare" element={<BabyCare />} />
+
+        {/* not found routes */}
         <Route path="*" element={<NotFound />} />
       </Routes>
     </div>

@@ -25,3 +25,10 @@ textarea {
   font-weight: 400;
   font-style: normal;
 }
+
+@media screen and (max-width: 640px) {
+  .scroll-wrapper > div {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}

@@ -6,14 +6,17 @@ import {
   TbCircleNumber2,
   TbCircleNumber3,
 } from "react-icons/tb";
-import PrescriptionForm from "./PrescriptionForm";
+import PrescriptionForm from "../utils/PrescriptionForm";
 import { useNavigate } from "react-router-dom";
+import { useAuthCheck } from "../utils/authUtils";
+import ProtectedAction from "../components/ProtectedAction";
 import Advertise from "../subPages/Advertise";
 
 const Home = () => {
   const scrollRef = useRef(null);
   const [openForm, setOpenForm] = useState(false);
   const navigate = useNavigate();
+  const { requireAuth } = useAuthCheck();
 
   const scrollMed = (direction) => {
     if (scrollRef.current) {
@@ -30,10 +33,7 @@ const Home = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center">
-      {/* {!openForm && (
-        <> */}{" "}
-      {/* Div1: health care features div */}
+    <div className="flex flex-col items-center justify-center mt-[5%]">
       <div className="w-[85%] m-0-auto flex flex-col relative">
         <div
           className="overflow-x-auto scrollbar-hide"
@@ -44,14 +44,6 @@ const Home = () => {
         >
           <div className="flex flex-col gap-10 w-max p-2">
             <div className="flex flex-row justify-center font-bold text-xl w-full">
-              {/* <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
-                <img
-                  src="https://img.freepik.com/free-vector/isometric-gastroenterology-composition-with-view-medication-with-tubes-pills-illustration_1284-63536.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
-                  className="w-90 h-40 rounded-lg object-contain"
-                  alt="Medicines"
-                />
-                <h2 className="text-center">Medicines</h2>
-              </div> */}
               <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
                 <img
                   src="https://img.freepik.com/free-vector/scientists-working-concept_52683-35725.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
@@ -113,9 +105,9 @@ const Home = () => {
         </div>
       </div>
       {/* Div2: Servicer provider div */}
-      <div className="w-[85%] relative">
-        <h1 className="text-left font-bold text-2xl mb-4">
-          Lab Tests by Health Concern
+      <div className="w-[100%] md:w-[85%] xl:w-[85%] m-0-auto relative">
+        <h1 className="text-center font-bold text-2xl mb-4">
+          Medicines by categories
         </h1>
 
         {/* Left scroll button */}
@@ -129,7 +121,7 @@ const Home = () => {
 
         {/* Scrollable container */}
         <div
-          className="overflow-x-hidden sm:overflow-x-auto md:overflow-x-auto lg:overflow-x-auto  scrollbar-hide w-full"
+          className="scroll-wrapper overflow-x-hidden sm:overflow-x-auto md:overflow-x-auto lg:overflow-x-auto scrollbar-hide w-full"
           ref={scrollRef}
           style={{
             scrollbarWidth: "none",
@@ -142,7 +134,6 @@ const Home = () => {
               onClick={() => navigate("/Medicinal")}
             >
               <img
-                // src="https://img.freepik.com/free-vector/illustration-thermometer_53876-43945.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 src="https://img.freepik.com/free-vector/isometric-gastroenterology-composition-with-view-medication-with-tubes-pills-illustration_1284-63536.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
                 alt="Medicines"
@@ -154,7 +145,6 @@ const Home = () => {
               onClick={() => navigate("/aurved")}
             >
               <img
-                // src="https://img.freepik.com/free-vector/patient-being-examined-by-doctor-clinic-illustrated_23-2148865134.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 src="https://img.freepik.com/free-vector/homeopathy-abstract-concept-illustration_335657-5036.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
                 alt="Aurvedic"
@@ -194,14 +184,6 @@ const Home = () => {
               />
               <h2>Personal care</h2>
             </div>
-            {/* <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
-              <img
-                src="https://img.freepik.com/free-vector/gradien-thyroid-illustration_23-2149298248.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
-                className="w-90 h-50 rounded-lg object-fill"
-                alt="Thyroid"
-              />
-              <h2>Thyroid</h2>
-            </div> */}
             <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
               <img
                 src="https://img.freepik.com/free-vector/hand-drawn-patient-taking-medical-examination_23-2148843031.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
@@ -264,12 +246,20 @@ const Home = () => {
           <div className="m-5 text-md">
             <h1 className="font-semibold text-lg">Prescription us!</h1>
             <p>Upload prescription and we will deliver your medicines</p>
+            {/* <ProtectedAction>
+              <button
+                onClick={handleUploadForm}
+                className="flex flex-cols justify-center items-center m-2 ml-0 p-2 font-bold color-green rounded-md bg-green-200 shadow-sm"
+              >
+                <MdOutlineStart />
+                &nbsp; Start Process
+              </button>
+            </ProtectedAction> */}
             <button
-              onClick={handleUploadForm}
+              onClick={() => requireAuth(handleUploadForm)}
               className="flex flex-cols justify-center items-center m-2 ml-0 p-2 font-bold color-green rounded-md bg-green-200 shadow-sm"
             >
-              <MdOutlineStart />
-              &nbsp; Start Process
+              <MdOutlineStart /> &nbsp;Start Process
             </button>
           </div>
         </div>
