@@ -29,7 +29,7 @@ const healthBlogs = [
 
 const HealthBlogList = () => {
   return (
-    <div className="flex flex-col items-center justify-center mt-[5%]">
+    <div className="flex flex-col items-center justify-center mt-[20%] sm:mt-[5%] lg:mt-[8%] md:mt-[10%] xl:mt-[4%] 2xl:mt-[4%]">
       <div className="max-w-6xl mx-auto px-4 py-8 grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
         {healthBlogs.map((blog, index) => (
           <div
