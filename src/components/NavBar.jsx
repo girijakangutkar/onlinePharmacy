@@ -25,7 +25,7 @@ const NavBar = () => {
       <div
         className={`${menuOpen ? "block" : "hidden"} w-full lg:flex lg:w-auto`}
       >
-        <div className="flex flex-col md:flex-row xl:flex-row 2xl:flex-row justify-between text-start">
+        <div className="flex flex-col sm:flex:col md:flex-col md:text-start md:justify-left lg:flex-row xl:flex-row 2xl:flex-row justify-left text-start">
           <NavLink
             className={({ isActive }) =>
               `p-1 m-3 transition duration-300 border-b-2 ${

@@ -6,12 +6,11 @@ const SearchBar = () => {
   const { search, setSearch } = useContext(FetchIt);
 
   return (
-    <div className="w-[90%] sm:w-[80%] md:w-[80%] xl:w-[80%] 2xl:w-[80%] m-5 ml-0">
+    <div className="m-5 ml-0 w-[90%] sm:w-[70%] md:w-[70%] xl:w-[85%] 2xl:w-[85%]">
       <Search
         value={search}
         onChange={(e) => setSearch(e.target.value)}
         placeholder="Search Medicines"
-        className="w-[90%] sm:w-[80%] md:w-[80%] xl:w-[80%] 2xl:w-[80%] "
       />
     </div>
   );

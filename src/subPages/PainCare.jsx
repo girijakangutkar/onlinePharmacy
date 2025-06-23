@@ -5,10 +5,13 @@ import SearchBar from "../utils/SearchBar";
 import PriceSort from "../utils/PriceSort";
 import ProtectedAction from "../components/ProtectedAction";
 import { CartContext } from "../context/CartContext";
+import { IoArrowBackCircleSharp } from "react-icons/io5";
+import { useNavigate } from "react-router-dom";
 
 const PainCare = () => {
   const { PriceFilter, totalPages, fetchMedicines, isLoading } =
     useContext(FetchIt);
+  const navigation = useNavigate();
   const { addToCart } = useContext(CartContext);
   const currentPageRef = useRef(1);
 
@@ -47,10 +50,17 @@ const PainCare = () => {
   }
 
   return (
-    <div className="flex flex-col justify-center items-center sm:flex-col md:flex-col xl:flex-row 2xl:flex-row justify-center p-4 w-full mt-[3%]">
-      <div className="flex flex-row sm:flex-row md:flex-row xl:flex-col 2xl:flex-col justify-start items-center self-start sm:self-center md:self-center xl:self-start 2xl:self-start w-1/5 mt-2 xl:mt-10">
+    <div className="flex flex-col justify-center items-center sm:flex-col md:flex-col xl:flex-row 2xl:flex-row justify-center p-4 w-full mt-[20%] sm:mt-[5%] lg:mt-[8%] md:mt-[10%] xl:mt-[4%] 2xl:mt-[4%]">
+      <div className="flex flex-row sm:flex-row md:flex-row xl:flex-col 2xl:flex-col justify-start items-center self-start sm:self-center md:self-center xl:self-start 2xl:self-start w-full sm:w-[70%] md:w-[70%] xl:w-1/5 2xl:w-1/5 mt-2 xl:mt-10">
         <SearchBar />
         <PriceSort />
+        <button
+          onClick={() => navigation("/")}
+          className="flex flex-row items-center justify-start text-left items-left self-left w-full ml-5"
+        >
+          <IoArrowBackCircleSharp size={30} color="green" />
+          Back
+        </button>
       </div>
       <div className="w-full sm:w-full md:w-[90%] xl:w-w-4/5 2xl:w-w-4/5 overflow-auto max-h-[80vh] hide-scrollbar 2xl:mt-10">
         <h1 className="font-bold text-2xl m-5 mt-0">PAIN CARE</h1>

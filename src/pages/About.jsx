@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="max-w-4xl mx-auto p-6 mt-[10%] xl:mt-[5%] 2xl:mt-[5%]">
+    <div className="max-w-4xl mx-auto p-6 mt-[20%] sm:mt-[10%] md:mt-[10%] lg:mt-[8%] xl:mt-[8%] 2xl:mt-[8%]">
       <h2 className="text-3xl font-bold mb-4">About HealthWealth</h2>
       <p className="mb-4">
         At <strong>HealthWealth</strong>, we’re committed to making trusted
