@@ -44,7 +44,10 @@ const Home = () => {
         >
           <div className="flex flex-col gap-10 w-max p-2">
             <div className="flex flex-row justify-center font-bold text-xl w-full">
-              <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
+              <div
+                onClick={() => navigate("/labTests")}
+                className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg"
+              >
                 <img
                   src="https://img.freepik.com/free-vector/scientists-working-concept_52683-35725.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                   className="w-90 h-40 rounded-lg object-contain"
@@ -52,7 +55,10 @@ const Home = () => {
                 />
                 <h2>Lab tests</h2>
               </div>
-              <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
+              <div
+                onClick={() => navigate("/consultDoctor")}
+                className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg"
+              >
                 <img
                   src="https://img.freepik.com/free-vector/medical-checkup-concept-illustration_114360-25989.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                   className="w-90 h-40 rounded-lg object-contain"
@@ -60,15 +66,18 @@ const Home = () => {
                 />
                 <h2>Doc Consult</h2>
               </div>
-              <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
+              {/* <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
                 <img
                   src="https://img.freepik.com/free-vector/flat-world-health-day-background_23-2149300397.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                   className="w-90 h-40 rounded-lg object-contain"
                   alt="Health Care"
                 />
                 <h2>Health Care</h2>
-              </div>
-              <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
+              </div> */}
+              <div
+                onClick={() => navigate("/HealthBlogs")}
+                className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg"
+              >
                 <img
                   src="https://img.freepik.com/free-vector/doctor-using-online-app-help-patients_23-2148526220.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                   className="w-90 h-40 rounded-lg object-contain"
@@ -84,7 +93,10 @@ const Home = () => {
                 />
                 <h2>Plus</h2>
               </div>
-              <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
+              <div
+                onClick={() => navigate("/offers")}
+                className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg"
+              >
                 <img
                   src="https://img.freepik.com/free-vector/tiny-pupil-standing-near-huge-gift-box-present-surprise-boy-flat-vector-illustration-birthday-holiday_74855-8634.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                   className="w-90 h-40 rounded-lg object-contain"
@@ -92,14 +104,14 @@ const Home = () => {
                 />
                 <h2>Offers</h2>
               </div>
-              <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
+              {/* <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
                 <img
                   src="https://img.freepik.com/free-vector/homeopathy-abstract-concept-illustration_335657-5036.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                   className="w-90 h-40 rounded-lg object-contain"
                   alt="Value store"
                 />
                 <h2>Value store</h2>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

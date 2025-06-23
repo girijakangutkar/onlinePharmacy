@@ -41,7 +41,7 @@ const HealthCare = () => {
   if (isLoading) {
     return (
       <div className="flex flex-row justify-center p-10 w-full mt-[3%]">
-        <div className="absolute top-[50%] left-[60%]">
+        <div className="absolute top-[35%] left-[40%] md:left-[48%]">
           <RingLoader color="#b82929" loading size={80} />
         </div>
       </div>
@@ -51,15 +51,21 @@ const HealthCare = () => {
   return (
     <div className="flex flex-col justify-center items-center sm:flex-col md:flex-col xl:flex-row 2xl:flex-row justify-center p-4 w-full mt-[20%] sm:mt-[5%] lg:mt-[8%] md:mt-[10%] xl:mt-[4%] 2xl:mt-[4%]">
       <div className="flex flex-row sm:flex-row md:flex-row xl:flex-col 2xl:flex-col justify-start items-center self-start sm:self-center md:self-center xl:self-start 2xl:self-start w-full sm:w-[70%] md:w-[70%] xl:w-1/5 2xl:w-1/5 mt-2 xl:mt-10">
-        <SearchBar />
-        <PriceSort />
-        <button
-          onClick={() => navigation("/")}
-          className="flex flex-row items-center justify-start text-left items-left self-left w-full ml-5"
-        >
-          <IoArrowBackCircleSharp size={30} color="green" />
-          Back
-        </button>
+        <div className="flex flex-col">
+          <div>
+            <button
+              onClick={() => navigation("/")}
+              className="flex flex-row items-center justify-start text-left items-left self-left w-full ml-5"
+            >
+              <IoArrowBackCircleSharp size={30} color="green" />
+              Back
+            </button>
+          </div>
+          <div className="flex flex-row sm:flex-row md:flex-row xl:flex-col 2xl:flex-col justify-center items-center self-center sm:self-center md:self-center xl:self-start 2xl:self-start w-full">
+            <SearchBar />
+            <PriceSort />
+          </div>
+        </div>
       </div>
       <div className="w-full sm:w-full md:w-[90%] xl:w-w-4/5 2xl:w-w-4/5 overflow-auto max-h-[80vh] hide-scrollbar 2xl:mt-10">
         <h1 className="font-bold text-2xl m-5 mt-0">HEALTH CARE</h1>

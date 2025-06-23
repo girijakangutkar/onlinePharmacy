@@ -13,23 +13,28 @@ const NavBar = () => {
 
   return (
     <nav className="flex flex-wrap items-center fixed top-0 w-full z-1000 justify-between gap-5 py-4 bg-white shadow-md pl-5 pr-5">
-      {/* <div> */}
-
-      <div className="flex flex-row block lg:hidden">
-        <button onClick={() => setMenuOpen(!menuOpen)}>
-          {menuOpen ? <FaTimes size={20} /> : <FaBars size={20} />}
-        </button>
-        <h1 className="m-2">LOGO</h1>
+      <div className="flex flex-row justify-start items-center">
+        <img
+          src="https://cdn-icons-png.freepik.com/256/17424/17424664.png?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid"
+          width="30px"
+          height="5px"
+        />
+        <div className="block lg:hidden mt-1 ml-2">
+          <button onClick={() => setMenuOpen(!menuOpen)}>
+            {menuOpen ? <FaTimes size={20} /> : <FaBars size={20} />}
+          </button>
+        </div>
       </div>
-      {/* </div> */}
       <div
-        className={`${menuOpen ? "block" : "hidden"} w-full lg:flex lg:w-auto`}
+        className={`${
+          menuOpen ? "block" : "hidden"
+        } w-full lg:flex lg:w-auto h-20 sm:h-10 lg:h-10 md:h-8 xl:h-8 2xl:h-8`}
       >
         <div className="flex flex-col sm:flex:col md:flex-col md:text-start md:justify-left lg:flex-row xl:flex-row 2xl:flex-row justify-left text-start">
           <NavLink
             className={({ isActive }) =>
-              `p-1 m-3 transition duration-300 border-b-2 ${
-                isActive ? "border-b-green-500, " : "border-transparent"
+              `p-1 mr-3 transition duration-300 border-b-2 ${
+                isActive ? "border-b-green-400, " : "border-transparent"
               }`
             }
             to="/"
@@ -38,8 +43,8 @@ const NavBar = () => {
           </NavLink>
           <NavLink
             className={({ isActive }) =>
-              `p-1 m-3 transition duration-300 border-b-2 ${
-                isActive ? "border-b-green-500" : "border-transparent"
+              `p-1 mr-3 transition duration-300 border-b-2 ${
+                isActive ? "border-b-green-400" : "border-transparent"
               }`
             }
             to="/about"
@@ -48,8 +53,8 @@ const NavBar = () => {
           </NavLink>
           <NavLink
             className={({ isActive }) =>
-              `p-1 m-3 transition duration-300 border-b-2 ${
-                isActive ? "border-b-green-500" : "border-transparent"
+              `p-1 mr-3 transition duration-300 border-b-2 ${
+                isActive ? "border-b-green-400" : "border-transparent"
               }`
             }
             to="/contact"
@@ -58,7 +63,7 @@ const NavBar = () => {
           </NavLink>
           {/* <NavLink
             className={({ isActive }) =>
-              `p-1 m-3 transition duration-300 border-b-2 ${
+              `p-1 mr-3 transition duration-300 border-b-2 ${
                 isActive ? "border-b-green-500" : "border-transparent"
               }`
             }
@@ -79,7 +84,7 @@ const NavBar = () => {
         </div>
         <div>
           {user ? (
-            <div className="flex flex-row">
+            <div className="flex flex-row ml-0">
               <button
                 onClick={() => auth.signOut()}
                 className="bg-red-500 text-white p-1 rounded shadow-md"

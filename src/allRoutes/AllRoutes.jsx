@@ -20,6 +20,10 @@ import Aurved from "../subPages/Aurvedic";
 import Medicinal from "../subPages/MedicineList";
 import BabyCare from "../subPages/BabyCare";
 import PainCare from "../subPages/PainCare";
+import HealthBlogList from "../content/HealthBlogList";
+import LabTest from "../content/LabTest";
+import Offers from "../content/Offers";
+import ConsultDoctor from "../content/ConsultDoctor";
 
 const AllRoutes = () => {
   return (
@@ -47,6 +51,10 @@ const AllRoutes = () => {
         <Route path="/babyCare" element={<BabyCare />} />
         <Route path="/PainCare" element={<PainCare />} />
 
+        <Route path="/labTests" element={<LabTest />} />
+        <Route path="/consultDoctor" element={<ConsultDoctor />} />
+        <Route path="/offers" element={<Offers />} />
+        <Route path="/HealthBlogs" element={<HealthBlogList />} />
         {/* not found routes */}
         <Route path="*" element={<NotFound />} />
       </Routes>
