@@ -11,7 +11,7 @@ const BabyCare = () => {
     useContext(FetchIt);
   const { addToCart } = useContext(CartContext);
   const currentPageRef = useRef(1);
-  const APT = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/78?perPage=50&page=${currentPageRef.current}&language=en`;
+  const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/78?perPage=50&page=${currentPageRef.current}&language=en`;
 
   const handleAddToCart = (item) => {
     addToCart(item);

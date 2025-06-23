@@ -96,7 +96,7 @@ const PrescriptionForm = ({ handleUploadForm }) => {
             type="file"
             accept="image/*"
             // style={{ display: "none" }}
-            className="border-dashed border p-5 m-3 ml-0"
+            className="p-5 m-3 ml-0"
             onChange={handleUpload}
             placeholder="Drag and drop here"
             ref={inputRef}
