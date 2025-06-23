@@ -14,7 +14,7 @@ const Diabetes = () => {
   const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?perPage=50&page=${currentPageRef.current}&language=en`;
   const handleAddToCart = (item) => {
     addToCart(item);
-    alert("Success");
+    // alert("Success");
   };
   useEffect(() => {
     fetchMedicines(API);

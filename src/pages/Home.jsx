@@ -178,20 +178,20 @@ const Home = () => {
               onClick={() => navigate("/PersonalCare")}
             >
               <img
-                src="https://img.freepik.com/free-vector/beauty-salon-services-professional-makeup-stylish-haircut-luxury-cosmetics-hairdresser-making-female-hairdo-client-enjoying-hairsalon-procedures-vector-isolated-concept-metaphor-illustration_335657-1332.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                src="https://img.freepik.com/free-vector/parents-kid-visiting-pediatrician_74855-10976.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
                 alt="Personal care"
               />
               <h2>Personal care</h2>
             </div>
-            <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            {/* <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
               <img
                 src="https://img.freepik.com/free-vector/hand-drawn-patient-taking-medical-examination_23-2148843031.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
                 alt="Woman care"
               />
               <h2>Woman care</h2>
-            </div>
+            </div> */}
             <div
               className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
               onClick={() => navigate("/heathCare")}
@@ -203,13 +203,16 @@ const Home = () => {
               />
               <h2>Health care</h2>
             </div>
-            <div className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5">
+            <div
+              onClick={() => navigate("/PainCare")}
+              className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
+            >
               <img
-                src="https://img.freepik.com/free-vector/rheumatology-concept-illustration_114360-9278.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                src="https://img.freepik.com/free-vector/back-pain-concept-illustration_114360-24919.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                 className="w-90 h-50 rounded-lg object-fill"
-                alt="Bone care"
+                alt="pain care"
               />
-              <h2>Bone care</h2>
+              <h2>Pain Care</h2>
             </div>
             <div
               className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"

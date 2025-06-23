@@ -19,6 +19,7 @@ import Diabetes from "../subPages/Diabetes";
 import Aurved from "../subPages/Aurvedic";
 import Medicinal from "../subPages/MedicineList";
 import BabyCare from "../subPages/BabyCare";
+import PainCare from "../subPages/PainCare";
 
 const AllRoutes = () => {
   return (
@@ -44,6 +45,7 @@ const AllRoutes = () => {
         <Route path="/Medicinal" element={<Medicinal />} />
         <Route path="/aurved" element={<Aurved />} />
         <Route path="/babyCare" element={<BabyCare />} />
+        <Route path="/PainCare" element={<PainCare />} />
 
         {/* not found routes */}
         <Route path="*" element={<NotFound />} />

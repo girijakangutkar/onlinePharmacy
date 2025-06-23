@@ -56,7 +56,7 @@ const NavBar = () => {
           >
             Contact Us
           </NavLink>
-          <NavLink
+          {/* <NavLink
             className={({ isActive }) =>
               `p-1 m-3 transition duration-300 border-b-2 ${
                 isActive ? "border-b-green-500" : "border-transparent"
@@ -65,7 +65,7 @@ const NavBar = () => {
             to="/medicines"
           >
             Medicines
-          </NavLink>
+          </NavLink> */}
         </div>
       </div>
       <div className="flex flex-row justify-between">
@@ -82,14 +82,14 @@ const NavBar = () => {
             <div className="flex flex-row">
               <button
                 onClick={() => auth.signOut()}
-                className="bg-red-500 text-white p-1.5 rounded shadow-md"
+                className="bg-red-500 text-white p-1 rounded shadow-md"
               >
                 Logout
               </button>
             </div>
           ) : (
             <div>
-              <button className="bg-green-500 text-white p-1.5 rounded shadow-md">
+              <button className="bg-green-500 text-white p-1 rounded shadow-md">
                 <NavLink to="/login">Login</NavLink>
               </button>
             </div>

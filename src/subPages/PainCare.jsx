@@ -1,4 +1,4 @@
-import React, { useEffect, useContext, useRef } from "react";
+import React, { useEffect, useContext, useRef, useState } from "react";
 import { RingLoader } from "react-spinners";
 import { FetchIt } from "../context/FetchContext";
 import SearchBar from "../utils/SearchBar";
@@ -6,17 +6,18 @@ import PriceSort from "../utils/PriceSort";
 import ProtectedAction from "../components/ProtectedAction";
 import { CartContext } from "../context/CartContext";
 
-const BabyCare = () => {
-  const { fetchMedicines, totalPages, isLoading, PriceFilter } =
+const PainCare = () => {
+  const { PriceFilter, totalPages, fetchMedicines, isLoading } =
     useContext(FetchIt);
   const { addToCart } = useContext(CartContext);
   const currentPageRef = useRef(1);
-  const APT = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/78?perPage=50&page=${currentPageRef.current}&language=en`;
 
   const handleAddToCart = (item) => {
     addToCart(item);
     // alert("Success");
   };
+
+  const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/149?perPage=50&page=${currentPageRef.current}&language=en`;
 
   useEffect(() => {
     fetchMedicines(API);
@@ -52,8 +53,7 @@ const BabyCare = () => {
         <PriceSort />
       </div>
       <div className="w-full sm:w-full md:w-[90%] xl:w-w-4/5 2xl:w-w-4/5 overflow-auto max-h-[80vh] hide-scrollbar 2xl:mt-10">
-        <h1 className="font-bold text-2xl m-5 mt-0">BABY CARE</h1>
-
+        <h1 className="font-bold text-2xl m-5 mt-0">PAIN CARE</h1>
         <div className="grid justify-center m-0-auto gap-2 grid-cols-2 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-4 self-center ">
           {PriceFilter().length == 0 && (
             <p className="ml-5 text-xl color-red w-full text-red-700">
@@ -66,7 +66,10 @@ const BabyCare = () => {
               className="flex flex-col border border-[#ccc] p-2 rounded-lg shadow-lg overflow-auto items-center content-center align-center self-center justify-center"
             >
               <img
-                src={med?.image?.image_name}
+                src={
+                  med?.image?.image_name ||
+                  "https://img.freepik.com/free-vector/hand-drawn-pill-cartoon-illustration_23-2150622781.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
+                }
                 alt="aurved"
                 className="object-contain h-[100px] w-[100px]"
               />
@@ -124,4 +127,4 @@ const BabyCare = () => {
   );
 };
 
-export default BabyCare;
+export default PainCare;

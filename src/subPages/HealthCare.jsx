@@ -15,7 +15,7 @@ const HealthCare = () => {
 
   const handleAddToCart = (item) => {
     addToCart(item);
-    alert("Success");
+    // alert("Success");
   };
 
   useEffect(() => {

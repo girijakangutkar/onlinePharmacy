@@ -28,7 +28,7 @@ const Medicines = () => {
   }
 
   return (
-    <div className="p-4 max-w-md mx-auto">
+    <div className="p-4 max-w-md mx-auto mt-[5%]">
       <input
         type="text"
         placeholder="Search Medicines"
