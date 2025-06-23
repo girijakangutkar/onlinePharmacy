@@ -11,6 +11,7 @@ const SearchBar = () => {
         value={search}
         onChange={(e) => setSearch(e.target.value)}
         placeholder="Search Medicines"
+        className="w-[90%] sm:w-[80%] md:w-[80%] xl:w-[80%] 2xl:w-[80%] "
       />
     </div>
   );
