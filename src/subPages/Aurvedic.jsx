@@ -1,4 +1,4 @@
-import React, { useContext, useEffect } from "react";
+import React, { useContext, useEffect, useRef } from "react";
 import { RingLoader } from "react-spinners";
 import { FetchIt } from "../context/FetchContext";
 import SearchBar from "../utils/SearchBar";
@@ -7,8 +7,11 @@ import ProtectedAction from "../components/ProtectedAction";
 import { CartContext } from "../context/CartContext";
 
 const Aurvedic = () => {
-  const { fetchMedicines, isLoading, PriceFilter } = useContext(FetchIt);
+  const { fetchMedicines, totalPages, isLoading, PriceFilter } =
+    useContext(FetchIt);
   const { addToCart } = useContext(CartContext);
+  const currentPageRef = useRef(1);
+  const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?perPage=50&page=${currentPageRef.current}&language=en`;
 
   const handleAddToCart = (item) => {
     addToCart(item);
@@ -16,10 +19,21 @@ const Aurvedic = () => {
   };
 
   useEffect(() => {
-    fetchMedicines(
-      "https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?perPage=50&page=6&language=en"
-    );
+    fetchMedicines(API);
   }, []);
+
+  const prev = () => {
+    if (currentPageRef.current > 1) {
+      currentPageRef.current -= 1;
+    }
+    fetchMedicines(API);
+  };
+
+  const next = () => {
+    currentPageRef.current += 1;
+    fetchMedicines(API);
+    console.log(API);
+  };
 
   if (isLoading) {
     return (
@@ -41,6 +55,11 @@ const Aurvedic = () => {
         <h1 className="font-bold text-2xl m-5 mt-0">AURVEDIC</h1>
 
         <div className="grid justify-center m-0-auto gap-2 grid-cols-2 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-4 self-center">
+          {PriceFilter().length == 0 && (
+            <p className="ml-5 text-xl color-red w-full text-red-700">
+              Not found!
+            </p>
+          )}
           {PriceFilter().map((med) => (
             <div
               key={med.master_menu_item_id}
@@ -81,6 +100,24 @@ const Aurvedic = () => {
               </ProtectedAction>
             </div>
           ))}
+        </div>
+        <div className="m-2 flex flex-row items-center justify-center mt-5 w-full">
+          <button
+            onClick={prev}
+            disabled={currentPageRef.current == 1}
+            className="mr-5 p-2 bg-green-800 text-white rounded-md shadow-lg"
+          >
+            Previous
+          </button>
+          <h2>
+            {currentPageRef.current}/{totalPages}
+          </h2>
+          <button
+            onClick={next}
+            className="ml-5 p-2 bg-green-800 text-white rounded-md shadow-lg"
+          >
+            Next
+          </button>
         </div>
       </div>
     </div>

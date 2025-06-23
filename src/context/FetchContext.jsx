@@ -7,13 +7,17 @@ const FetchContext = ({ children }) => {
   const [isLoading, setIsLoading] = useState(false);
   const [search, setSearch] = useState("");
   const [priceSort, setPriceSort] = useState("");
+  const [totalPages, setTotalPages] = useState(0);
 
   const fetchMedicines = async (url) => {
     setIsLoading(true);
     try {
       const res = await fetch(url);
       const info = await res.json();
+      const pages = Math.ceil(info.data.total / 50);
+      setTotalPages(pages);
       //   console.log(info?.data?.data);
+      // console.log(info.data.total);
       setMedicines(info?.data?.data);
     } catch (error) {
       console.log("Something went wrong:", error);
@@ -51,6 +55,7 @@ const FetchContext = ({ children }) => {
         PriceFilter,
         priceSort,
         setPriceSort,
+        totalPages,
       }}
     >
       {children}
