@@ -32,7 +32,7 @@ const ContactUs = () => {
   };
 
   return (
-    <div className="max-w-xl mx-auto p-6 mt-[8%]">
+    <div className="max-w-xl mx-auto p-6 mt-[10%] xl:mt-[5%] 2xl:mt-[5%]">
       <h2 className="text-3xl font-bold mb-4">Contact Us</h2>
       <form onSubmit={handleSubmit} className="space-y-4">
         <input
