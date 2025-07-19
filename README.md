@@ -84,9 +84,4 @@ Follow these steps to set up the project locally:
 
     *   **Solution**: Check if the API endpoint is correct and accessible. Ensure that there are no network issues preventing the data from loading.
 
----
-
-## 🤝 Contribution Guidelines
-
-We welcome contributions to the Online Pharmacy project! Here’s how you can contribute:
 
