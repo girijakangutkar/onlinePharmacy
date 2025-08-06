@@ -14,15 +14,16 @@ const MedicineList = () => {
   const navigation = useNavigate();
   const { addToCart } = useContext(CartContext);
   const currentPageRef = useRef(1);
-  const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?perPage=50&page=${currentPageRef.current}&language=en`;
+  // const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/102?perPage=50&page=${currentPageRef.current}&language=en`;
 
   const handleAddToCart = (item) => {
     addToCart(item);
     // alert("Success");
   };
 
+  const API = `/assets/dummyData/Medicines.json`;
   useEffect(() => {
-    fetchMedicines(API);
+    fetchMedicines(API, currentPageRef.current);
   }, []);
 
   const prev = () => {

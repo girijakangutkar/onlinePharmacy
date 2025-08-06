@@ -219,7 +219,7 @@ const Home = () => {
                 />
                 <h2>Health care</h2>
               </div>
-              <div
+              {/* <div
                 onClick={() => navigate("/PainCare")}
                 className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
               >
@@ -229,8 +229,8 @@ const Home = () => {
                   alt="pain care"
                 />
                 <h2>Pain Care</h2>
-              </div>
-              <div
+              </div> */}
+              {/* <div
                 className="flex flex-col justify-center font-bold text-xl min-w-[250px] w-[50%] mb-5"
                 onClick={() => navigate("/babyCare")}
               >
@@ -240,7 +240,7 @@ const Home = () => {
                   alt="Baby care"
                 />
                 <h2>Baby care</h2>
-              </div>
+              </div> */}
             </div>
           </div>
 

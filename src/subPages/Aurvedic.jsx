@@ -14,7 +14,8 @@ const Aurvedic = () => {
   const navigation = useNavigate();
   const { addToCart } = useContext(CartContext);
   const currentPageRef = useRef(1);
-  const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/80?perPage=50&page=${currentPageRef.current}&language=en`;
+
+  const API = `/assets/dummyData/Aurvedic.json`;
 
   const handleAddToCart = (item) => {
     addToCart(item);
@@ -22,20 +23,19 @@ const Aurvedic = () => {
   };
 
   useEffect(() => {
-    fetchMedicines(API);
+    fetchMedicines(API, currentPageRef.current);
   }, []);
 
   const prev = () => {
     if (currentPageRef.current > 1) {
       currentPageRef.current -= 1;
+      fetchMedicines(API, currentPageRef.current);
     }
-    fetchMedicines(API);
   };
 
   const next = () => {
     currentPageRef.current += 1;
-    fetchMedicines(API);
-    console.log(API);
+    fetchMedicines(API, currentPageRef.current);
   };
 
   if (isLoading) {

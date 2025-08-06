@@ -20,10 +20,11 @@ const PersonalCare = () => {
     // alert("Success");
   };
 
-  const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?perPage=50&page=${currentPageRef.current}&language=en`;
+  // const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?perPage=50&page=${currentPageRef.current}&language=en`;
 
+  const API = `/assets/dummyData/Personal.json`;
   useEffect(() => {
-    fetchMedicines(API);
+    fetchMedicines(API, currentPageRef.current);
   }, []);
 
   const prev = () => {

@@ -1,0 +1,1255 @@
+{
+  "code": 200,
+  "msg": "Menu items fetched successfully",
+  "data": {
+    "current_page": 6,
+    "data": [
+      {
+        "master_menu_item_id": 615864,
+        "master_menu_id": 79,
+        "item_name": "Eyederm Dark Circle Remover Lotion",
+        "item_name_thai": "आईडर्म डार्क सर्कल रिमूवर लोशन",
+        "status": "1",
+        "price": 250,
+        "mrp": 250,
+        "quantity": 999,
+        "item_description": "30ml Lotion in a bottle",
+        "item_description_thai": "एक बोतल में 30 मिलीलीटर लोशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615864,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_1722924094842.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615873,
+        "master_menu_id": 79,
+        "item_name": "Nevlon Caloe Lotion- 50ml ( discontinued)",
+        "item_name_thai": "नेवलॉन कैलो लोशन- 50 मि.ली. (बंद)",
+        "status": "1",
+        "price": 140,
+        "mrp": 140,
+        "quantity": 999,
+        "item_description": "50ml Lotion in a bottle",
+        "item_description_thai": "एक बोतल में 50 मिलीलीटर लोशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615873,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17173970729927.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615605,
+        "master_menu_id": 79,
+        "item_name": "Richglow Gel- 50gm",
+        "item_name_thai": "रिचग्लो जेल- 50 ग्राम",
+        "status": "1",
+        "price": 399,
+        "mrp": 399,
+        "quantity": 999,
+        "item_description": "50gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 50 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615605,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240932606.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615618,
+        "master_menu_id": 79,
+        "item_name": "Itch Guard Plus Cream- 20gm",
+        "item_name_thai": "इच गार्ड प्लस क्रीम- 20 ग्राम",
+        "status": "1",
+        "price": 117.6,
+        "mrp": 117.6,
+        "quantity": 999,
+        "item_description": "20gm Cream in a tube",
+        "item_description_thai": "एक ट्यूब में 20 ग्राम क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615618,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240936830.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615636,
+        "master_menu_id": 79,
+        "item_name": "Durex Play Vibrating Ring- 1",
+        "item_name_thai": "ड्यूरेक्स प्ले वाइब्रेटिंग रिंग- 1",
+        "status": "1",
+        "price": 499,
+        "mrp": 499,
+        "quantity": 999,
+        "item_description": "1 Unit in a packet",
+        "item_description_thai": "एक पैकेट में 1 यूनिट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615636,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240933834.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615660,
+        "master_menu_id": 79,
+        "item_name": "Crousho Gel- 30gm",
+        "item_name_thai": "क्राउशो जेल- 30 ग्राम",
+        "status": "1",
+        "price": 250,
+        "mrp": 250,
+        "quantity": 999,
+        "item_description": "30gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615660,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240931844.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615690,
+        "master_menu_id": 79,
+        "item_name": "Mms 1 Infant Formula Powder",
+        "item_name_thai": "एमएमएस 1 शिशु फार्मूला पाउडर",
+        "status": "1",
+        "price": 555,
+        "mrp": 555,
+        "quantity": 999,
+        "item_description": "400gm Powder in a box",
+        "item_description_thai": "एक डिब्बे में 400 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615690,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240934804.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615691,
+        "master_menu_id": 79,
+        "item_name": "Fixon Powder- 15gm",
+        "item_name_thai": "फिक्सन पाउडर- 15 ग्राम",
+        "status": "1",
+        "price": 38,
+        "mrp": 38,
+        "quantity": 999,
+        "item_description": "15gm Powder in a box",
+        "item_description_thai": "एक डिब्बे में 15 ग्राम पाउडर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615691,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17228487923353.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615731,
+        "master_menu_id": 79,
+        "item_name": "Sunmate Gel-Cream SPF 30+",
+        "item_name_thai": "सनमेट जेल-क्रीम एसपीएफ़ 30+",
+        "status": "1",
+        "price": 435,
+        "mrp": 435,
+        "quantity": 999,
+        "item_description": "30gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615731,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229238084882.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615740,
+        "master_menu_id": 79,
+        "item_name": "Histo Calamine Lotion- 50ml",
+        "item_name_thai": "हिस्टो कैलामाइन लोशन- 50 मि.ली",
+        "status": "1",
+        "price": 56.18,
+        "mrp": 56.18,
+        "quantity": 999,
+        "item_description": "50ml Lotion in a bottle",
+        "item_description_thai": "एक बोतल में 50 मिलीलीटर लोशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615740,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240942421.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615541,
+        "master_menu_id": 79,
+        "item_name": "Rexidin Plus Mouth Rinse- 150Ml",
+        "item_name_thai": "रेक्सिडिन प्लस माउथ रिंस- 150 मिली",
+        "status": "1",
+        "price": 140,
+        "mrp": 140,
+        "quantity": 999,
+        "item_description": "150ml Mouth Wash in a bottle",
+        "item_description_thai": "एक बोतल में 150 मिलीलीटर माउथ वॉश",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615541,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240921572.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615544,
+        "master_menu_id": 79,
+        "item_name": "Cetaphil Restoraderm Body Wash- 295Ml",
+        "item_name_thai": "सेटाफिल रेस्टोरैडर्म बॉडी वॉश- 295 मि.ली",
+        "status": "1",
+        "price": 1670,
+        "mrp": 1670,
+        "quantity": 999,
+        "item_description": "295ml Body Wash in a bottle",
+        "item_description_thai": "एक बोतल में 295 मिलीलीटर बॉडी वॉश",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615544,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240925421.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615555,
+        "master_menu_id": 79,
+        "item_name": "Seldruf Anti Dandruff Shampoo",
+        "item_name_thai": "सेल्ड्रफ एंटी डैंड्रफ शैम्पू",
+        "status": "1",
+        "price": 140,
+        "mrp": 140,
+        "quantity": 999,
+        "item_description": "100ml Shampoo in a bottle",
+        "item_description_thai": "एक बोतल में 100 मिलीलीटर शैम्पू",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615555,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_1722924093685.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615560,
+        "master_menu_id": 79,
+        "item_name": "Saliface 2% Face Wash",
+        "item_name_thai": "सैलीफेस 2% फेस वॉश",
+        "status": "1",
+        "price": 283.8,
+        "mrp": 283.8,
+        "quantity": 999,
+        "item_description": "60ml Face Wash in a tube",
+        "item_description_thai": "एक ट्यूब में 60 मिलीलीटर फेस वॉश",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615560,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240935827.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615572,
+        "master_menu_id": 79,
+        "item_name": "Drez Gargle- 100ml",
+        "item_name_thai": "ड्रेज़ गार्गल- 100 मि.ली",
+        "status": "1",
+        "price": 177.15,
+        "mrp": 177.15,
+        "quantity": 999,
+        "item_description": "100ml Gargle in a bottle",
+        "item_description_thai": "एक बोतल में 100 मि.ली. गरारे करें",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615572,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17226821566037.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615579,
+        "master_menu_id": 79,
+        "item_name": "Coolora Mouth Wash",
+        "item_name_thai": "कूलोरा माउथ वॉश",
+        "status": "1",
+        "price": 123.5,
+        "mrp": 123.5,
+        "quantity": 999,
+        "item_description": "100ml Mouth Wash in a bottle",
+        "item_description_thai": "एक बोतल में 100 मिलीलीटर माउथ वॉश",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615579,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229238086337.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615473,
+        "master_menu_id": 79,
+        "item_name": "Atret 0025% Cream- 30gm",
+        "item_name_thai": "एट्रेट 0025% क्रीम- 30 ग्राम",
+        "status": "1",
+        "price": 173.84,
+        "mrp": 173.84,
+        "quantity": 999,
+        "item_description": "30gm Cream in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615473,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240921330.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615529,
+        "master_menu_id": 79,
+        "item_name": "Thermoseal Proxa NS Interdental Brushes- 5",
+        "item_name_thai": "थर्मोसील प्रोक्सा एनएस इंटरडेंटल ब्रश- 5",
+        "status": "1",
+        "price": 149.7,
+        "mrp": 149.7,
+        "quantity": 999,
+        "item_description": "5 Dental Brush in a packet",
+        "item_description_thai": "एक पैकेट में 5 डेंटल ब्रश",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615529,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17228487036625.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615357,
+        "master_menu_id": 79,
+        "item_name": "Argihope Gel- 10gm",
+        "item_name_thai": "आर्गीहोप जेल- 10 ग्राम",
+        "status": "1",
+        "price": 150,
+        "mrp": 150,
+        "quantity": 999,
+        "item_description": "10gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 10 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615357,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240929031.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615377,
+        "master_menu_id": 79,
+        "item_name": "Oilatum Lotion- 100Ml",
+        "item_name_thai": "ऑयलैटम लोशन- 100 मि.ली",
+        "status": "1",
+        "price": 305.3,
+        "mrp": 305.3,
+        "quantity": 999,
+        "item_description": "100ml Lotion in a bottle",
+        "item_description_thai": "एक बोतल में 100 मिलीलीटर लोशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615377,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17228588065137.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615406,
+        "master_menu_id": 79,
+        "item_name": "Sensodyne Toothpaste- 130gm-Fresh Mint-",
+        "item_name_thai": "सेंसोडाइन टूथपेस्ट- 130 ग्राम-ताजा पुदीना-",
+        "status": "1",
+        "price": 199,
+        "mrp": 199,
+        "quantity": 999,
+        "item_description": "130gm Toothpaste in a tube",
+        "item_description_thai": "एक ट्यूब में 130 ग्राम टूथपेस्ट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615406,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240926223.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615443,
+        "master_menu_id": 79,
+        "item_name": "Aquasoft FC Advanced Facial Cream- 60gm",
+        "item_name_thai": "एक्वासॉफ्ट एफसी एडवांस्ड फेशियल क्रीम- 60 ग्राम",
+        "status": "1",
+        "price": 224,
+        "mrp": 224,
+        "quantity": 999,
+        "item_description": "60gm Cream in a bottle",
+        "item_description_thai": "एक बोतल में 60 ग्राम क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615443,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240921111.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615313,
+        "master_menu_id": 79,
+        "item_name": "Hair 4U Cpx Serum",
+        "item_name_thai": "हेयर 4यू सीपीएक्स सीरम",
+        "status": "1",
+        "price": 1450,
+        "mrp": 1450,
+        "quantity": 999,
+        "item_description": "60ml Serum in a bottle",
+        "item_description_thai": "एक बोतल में 60 मिलीलीटर सीरम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615313,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17228486275263.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615327,
+        "master_menu_id": 79,
+        "item_name": "Rashcare Cream",
+        "item_name_thai": "रैशकेयर क्रीम",
+        "status": "1",
+        "price": 75,
+        "mrp": 75,
+        "quantity": 999,
+        "item_description": "20gm Cream in a tube",
+        "item_description_thai": "एक ट्यूब में 20 ग्राम क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615327,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240929429.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615167,
+        "master_menu_id": 79,
+        "item_name": "Lucidum Moisturising Lotion- 125ml",
+        "item_name_thai": "ल्यूसिडम मॉइस्चराइजिंग लोशन- 125 मि.ली",
+        "status": "1",
+        "price": 145,
+        "mrp": 145,
+        "quantity": 999,
+        "item_description": "125ml Lotion in a tube",
+        "item_description_thai": "एक ट्यूब में 125 मिलीलीटर लोशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615167,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240913606.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615185,
+        "master_menu_id": 79,
+        "item_name": "Danfree Shampoo",
+        "item_name_thai": "डैनफ्री शैम्पू",
+        "status": "1",
+        "price": 305.8,
+        "mrp": 305.8,
+        "quantity": 999,
+        "item_description": "100ml Shampoo in a bottle",
+        "item_description_thai": "एक बोतल में 100 मिलीलीटर शैम्पू",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615185,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240919173.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615206,
+        "master_menu_id": 79,
+        "item_name": "Sunstop Silk Sunscreen Cream",
+        "item_name_thai": "सनस्टॉप सिल्क सनस्क्रीन क्रीम",
+        "status": "1",
+        "price": 650,
+        "mrp": 650,
+        "quantity": 999,
+        "item_description": "50gm Cream in a tube",
+        "item_description_thai": "एक ट्यूब में 50 ग्राम क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615206,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240919192.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615214,
+        "master_menu_id": 79,
+        "item_name": "Orasore Mouth Ulcer Relief Gel- 12Gm",
+        "item_name_thai": "ओरासोर माउथ अल्सर रिलीफ जेल- 12 ग्राम",
+        "status": "1",
+        "price": 85,
+        "mrp": 85,
+        "quantity": 999,
+        "item_description": "12gm Dental Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 12 ग्राम डेंटल जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615214,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240916932.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615223,
+        "master_menu_id": 79,
+        "item_name": "Zyndet Bathing Bar- 150Gm",
+        "item_name_thai": "ज़िनडेट बाथिंग बार- 150 ग्राम",
+        "status": "1",
+        "price": 220,
+        "mrp": 220,
+        "quantity": 999,
+        "item_description": "150gm Soap in a packet",
+        "item_description_thai": "एक पैकेट में 150 ग्राम साबुन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615223,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240915312.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615224,
+        "master_menu_id": 79,
+        "item_name": "Sunheal Pure Cream- 30gm",
+        "item_name_thai": "सनहील प्योर क्रीम- 30 ग्राम",
+        "status": "1",
+        "price": 606,
+        "mrp": 606,
+        "quantity": 999,
+        "item_description": "30gm Cream in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615224,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240915405.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615230,
+        "master_menu_id": 79,
+        "item_name": "Recapil Plus Conditioner",
+        "item_name_thai": "रिकैपिल प्लस कंडीशनर",
+        "status": "1",
+        "price": 449,
+        "mrp": 449,
+        "quantity": 999,
+        "item_description": "100ml Conditioner in a bottle",
+        "item_description_thai": "एक बोतल में 100 मिलीलीटर कंडीशनर",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615230,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17228485625834.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615239,
+        "master_menu_id": 79,
+        "item_name": "Elsenz Toothpaste- 70Gm",
+        "item_name_thai": "एल्सेंज़ टूथपेस्ट- 70 ग्राम",
+        "status": "1",
+        "price": 284,
+        "mrp": 284,
+        "quantity": 999,
+        "item_description": "70gm Toothpaste in a tube",
+        "item_description_thai": "एक ट्यूब में 70 ग्राम टूथपेस्ट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615239,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240916692.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615256,
+        "master_menu_id": 79,
+        "item_name": "Dettol Skincare 125Gm Soap Pack Of 3",
+        "item_name_thai": "डेटॉल स्किनकेयर 125 ग्राम साबुन 3 का पैक",
+        "status": "1",
+        "price": 153,
+        "mrp": 153,
+        "quantity": 999,
+        "item_description": "125gm Soap in a packet",
+        "item_description_thai": "एक पैकेट में 125 ग्राम साबुन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615256,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240914344.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615258,
+        "master_menu_id": 79,
+        "item_name": "Clinsol Face Wash",
+        "item_name_thai": "क्लिनसोल फेस वॉश",
+        "status": "1",
+        "price": 135,
+        "mrp": 135,
+        "quantity": 999,
+        "item_description": "70gm Face Wash in a tube",
+        "item_description_thai": "एक ट्यूब में 70 ग्राम फेस वॉश",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615258,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240926881.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615292,
+        "master_menu_id": 79,
+        "item_name": "Dersil-Af Body Wash- 100Ml",
+        "item_name_thai": "डर्सिल-एफ़ बॉडी वॉश- 100 मि.ली",
+        "status": "1",
+        "price": 359,
+        "mrp": 359,
+        "quantity": 999,
+        "item_description": "100ml Body Wash in a bottle",
+        "item_description_thai": "एक बोतल में 100 मिलीलीटर बॉडी वॉश",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615292,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_1722924092337.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615303,
+        "master_menu_id": 79,
+        "item_name": "Danfree 2% Shampoo- 100Ml",
+        "item_name_thai": "डैनफ्री 2% शैम्पू- 100 मि.ली",
+        "status": "1",
+        "price": 305.8,
+        "mrp": 305.8,
+        "quantity": 999,
+        "item_description": "100ml Shampoo in a bottle",
+        "item_description_thai": "एक बोतल में 100 मिलीलीटर शैम्पू",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615303,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17090400715163.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615148,
+        "master_menu_id": 79,
+        "item_name": "D Acne Soft Face Wash- 100Gm",
+        "item_name_thai": "डी एक्ने सॉफ्ट फेस वॉश- 100 ग्राम",
+        "status": "1",
+        "price": 249,
+        "mrp": 249,
+        "quantity": 999,
+        "item_description": "100gm Face Wash in a tube",
+        "item_description_thai": "एक ट्यूब में 100 ग्राम फेस वॉश",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615148,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229238077425.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615151,
+        "master_menu_id": 79,
+        "item_name": "Tedisoft 75gm Soap",
+        "item_name_thai": "टेडीसॉफ्ट 75 ग्राम साबुन",
+        "status": "1",
+        "price": 130,
+        "mrp": 130,
+        "quantity": 999,
+        "item_description": "75gm Soap in a packet",
+        "item_description_thai": "एक पैकेट में 75 ग्राम साबुन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615151,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240916628.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615153,
+        "master_menu_id": 79,
+        "item_name": "Good Knight Cool Gel Pack of 2",
+        "item_name_thai": "गुड नाइट कूल जेल 2 का पैक",
+        "status": "1",
+        "price": 150,
+        "mrp": 150,
+        "quantity": 999,
+        "item_description": "50gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 50 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615153,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_menu_17226820084604.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615001,
+        "master_menu_id": 79,
+        "item_name": "Yugard Under Eye Cream",
+        "item_name_thai": "यूगार्ड अंडर आई क्रीम",
+        "status": "1",
+        "price": 1299,
+        "mrp": 1299,
+        "quantity": 999,
+        "item_description": "15gm Eye Cream in a packet",
+        "item_description_thai": "एक पैकेट में 15 ग्राम आई क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615001,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240907497.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615011,
+        "master_menu_id": 79,
+        "item_name": "Amonext Cream- 30gm",
+        "item_name_thai": "अमोनेक्स्ट क्रीम- 30 ग्राम",
+        "status": "1",
+        "price": 290,
+        "mrp": 290,
+        "quantity": 999,
+        "item_description": "30gm Cream in a tube",
+        "item_description_thai": "एक ट्यूब में 30 ग्राम क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615011,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240909653.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615044,
+        "master_menu_id": 79,
+        "item_name": "Ketovate Soap",
+        "item_name_thai": "केटोवेट साबुन",
+        "status": "1",
+        "price": 168,
+        "mrp": 168,
+        "quantity": 999,
+        "item_description": "75gm Soap in a packet",
+        "item_description_thai": "एक पैकेट में 75 ग्राम साबुन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615044,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_1708949180843.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615055,
+        "master_menu_id": 79,
+        "item_name": "Suncros Soft Spf 50+ Lotion- 60Ml",
+        "item_name_thai": "सनक्रोस सॉफ्ट एसपीएफ 50+ लोशन- 60 मिली",
+        "status": "1",
+        "price": 850,
+        "mrp": 850,
+        "quantity": 999,
+        "item_description": "60ml Lotion in a bottle",
+        "item_description_thai": "एक बोतल में 60 मिलीलीटर लोशन",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615055,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240901036.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615070,
+        "master_menu_id": 79,
+        "item_name": "Suncros Matte Finish Soft Gel- 50gm",
+        "item_name_thai": "सनक्रोस मैट फिनिश सॉफ्ट जेल- 50 ग्राम",
+        "status": "1",
+        "price": 750,
+        "mrp": 750,
+        "quantity": 999,
+        "item_description": "50gm Gel in a tube",
+        "item_description_thai": "एक ट्यूब में 50 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615070,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240901111.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615093,
+        "master_menu_id": 79,
+        "item_name": "Allen Fair Touch Cream Pack of 2",
+        "item_name_thai": "एलन फेयर टच क्रीम 2 का पैक",
+        "status": "1",
+        "price": 160,
+        "mrp": 160,
+        "quantity": 999,
+        "item_description": "25gm Cream in a tube",
+        "item_description_thai": "एक ट्यूब में 25 ग्राम क्रीम",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615093,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240906194.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615105,
+        "master_menu_id": 79,
+        "item_name": "Uv Doux Sunscreen Spf 50+ Gel",
+        "item_name_thai": "यूवी डौक्स सनस्क्रीन एसपीएफ़ 50+ जेल",
+        "status": "1",
+        "price": 699,
+        "mrp": 699,
+        "quantity": 999,
+        "item_description": "50gm Gel in a bottle",
+        "item_description_thai": "एक बोतल में 50 ग्राम जेल",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615105,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240903535.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 615143,
+        "master_menu_id": 79,
+        "item_name": "Friends Premium Underpads- 10",
+        "item_name_thai": "फ्रेंड्स प्रीमियम अंडरपैड्स- 10",
+        "status": "1",
+        "price": 605,
+        "mrp": 605,
+        "quantity": 999,
+        "item_description": "10 Pads in a packet",
+        "item_description_thai": "एक पैकेट में 10 पैड",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 615143,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_menu_17186020466362.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 614975,
+        "master_menu_id": 79,
+        "item_name": "Sensodent - K Plus Toothpaste- 100Gm",
+        "item_name_thai": "सेंसोडेंट - के प्लस टूथपेस्ट- 100 ग्राम",
+        "status": "1",
+        "price": 175,
+        "mrp": 175,
+        "quantity": 999,
+        "item_description": "100gm Toothpaste in a tube",
+        "item_description_thai": "एक ट्यूब में 100 ग्राम टूथपेस्ट",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 614975,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/instamed_item_17090400697627.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 614819,
+        "master_menu_id": 79,
+        "item_name": "Elovera Body Wash",
+        "item_name_thai": "एलोवेरा बॉडी वॉश",
+        "status": "1",
+        "price": 685,
+        "mrp": 685,
+        "quantity": 999,
+        "item_description": "300ml Body Wash in a bottle",
+        "item_description_thai": "एक बोतल में 300 मिलीलीटर बॉडी वॉश",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 614819,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_17229240891344.webp"
+        }
+      },
+      {
+        "master_menu_item_id": 614875,
+        "master_menu_id": 79,
+        "item_name": "Vwash Plus 200Ml With 10 Wipes Combo",
+        "item_name_thai": "वीवॉश प्लस 200एमएल 10 वाइप्स कॉम्बो के साथ",
+        "status": "1",
+        "price": 400,
+        "mrp": 400,
+        "quantity": 999,
+        "item_description": "2 Pack in a combo pack",
+        "item_description_thai": "2 कॉम्बो पैक में पैक करें",
+        "discountPercentage": 0,
+        "menu": {
+          "id": 79,
+          "menu_name": "Personal Care",
+          "menu_name_thai": "पर्सनल केयर ",
+          "custom_quote": 0
+        },
+        "image": {
+          "master_menu_item_id": 614875,
+          "image_name": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_Item_image/41167/anahad_item_1722924089149.webp"
+        }
+      }
+    ],
+    "first_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=1",
+    "from": 251,
+    "last_page": 372,
+    "last_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=372",
+    "links": [
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=5",
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=1",
+        "label": "1",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=2",
+        "label": "2",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=3",
+        "label": "3",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=4",
+        "label": "4",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=5",
+        "label": "5",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=6",
+        "label": "6",
+        "active": true
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=7",
+        "label": "7",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=8",
+        "label": "8",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=9",
+        "label": "9",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=10",
+        "label": "10",
+        "active": false
+      },
+      {
+        "url": null,
+        "label": "...",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=371",
+        "label": "371",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=372",
+        "label": "372",
+        "active": false
+      },
+      {
+        "url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=7",
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=7",
+    "path": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79",
+    "per_page": "50",
+    "prev_page_url": "http://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/79?page=5",
+    "to": 300,
+    "total": 18599
+  },
+  "result": {
+    "id": 79,
+    "menu_name": "Personal Care",
+    "menu_name_thai": "पर्सनल केयर ",
+    "image": "https://storage.googleapis.com/instamed-gcp-prod-anahad-web-storage-cxcztiqnkj-gcs/media/Restaurant_Menu_image/original/Menu_17211316148855.webp",
+    "meta_tag": "Shop Personal Care Products Online in India",
+    "keywords": "PersonalCareProductsOnlinePurchase",
+    "meta_description": "Shop premium personal care products online in India. Discover top brands and enjoy fast delivery! Shop now for great deals and 30 minutes delivery!"
+  }
+}

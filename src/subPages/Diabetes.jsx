@@ -14,13 +14,16 @@ const Diabetes = () => {
   const navigation = useNavigate();
   const { addToCart } = useContext(CartContext);
   const currentPageRef = useRef(1);
-  const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?perPage=50&page=${currentPageRef.current}&language=en`;
+
+  const API = `/assets/dummyData/Diabetes.json`;
+  // const API = `https://api.prod.instamed.in/api/v1/get-master-menu-items-by-menu-id-web/83?perPage=50&page=${currentPageRef.current}&language=en`;
   const handleAddToCart = (item) => {
     addToCart(item);
     // alert("Success");
   };
+
   useEffect(() => {
-    fetchMedicines(API);
+    fetchMedicines(API, currentPageRef.current);
   }, []);
 
   const prev = () => {
