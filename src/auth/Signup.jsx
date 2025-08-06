@@ -2,15 +2,18 @@ import { createUserWithEmailAndPassword } from "firebase/auth";
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { auth } from "../utils/firebaseConfig";
+import { RingLoader } from "react-spinners";
 
 const Signup = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const navigate = useNavigate();
+  const [isLoading, setIsLoading] = useState(false);
 
   const handleSignUp = async (e) => {
     e.preventDefault();
+    setIsLoading(true);
     setError("");
     try {
       await createUserWithEmailAndPassword(auth, email, password);
@@ -18,8 +21,24 @@ const Signup = () => {
     } catch (error) {
       console.log("signup error", error.message);
       setError("Invalid Email or Password");
+    } finally {
+      setIsLoading(false);
     }
   };
+
+  if (isLoading) {
+    return (
+      <div className="flex min-h-svh w-full items-center justify-center p-6 md:p-10">
+        <div className="w-full max-w-sm">
+          <div className="absolute top-[40%] left-[44%]">
+            <div className="border border-[#ccc] p-10 rounded-md shadow-md">
+              <RingLoader color="green" loading size={80} />
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   const handleLoginClick = () => {
     navigate("/login");
