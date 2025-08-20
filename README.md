@@ -66,7 +66,12 @@ Follow these steps to set up the project locally:
 
 ## 🖼️ Screenshots
 
-> Add screenshots of the application here to visually guide users.  Examples: Home page, Cart page, Login page, etc.
+  ![Home page](https://github.com/girijakangutkar/onlinePharmacy/blob/main/src/assets/Screenshot%20(1426).png)
+    ![Details page](https://github.com/girijakangutkar/onlinePharmacy/blob/main/src/assets/Screenshot%20(1427).png)
+      ![Order History](https://github.com/girijakangutkar/onlinePharmacy/blob/main/src/assets/Screenshot%20(1428).png)
+        ![Login page](https://github.com/girijakangutkar/onlinePharmacy/blob/main/src/assets/Screenshot%20(1429).png)
+          ![Signup page](https://github.com/girijakangutkar/onlinePharmacy/blob/main/src/assets/Screenshot%20(1430).png)
+                    ![About page](https://github.com/girijakangutkar/onlinePharmacy/blob/main/src/assets/Screenshot%20(1430).png)
 
 ---
 
