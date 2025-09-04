@@ -75,18 +75,4 @@ Follow these steps to set up the project locally:
 
 ---
 
-## 🔧 Troubleshooting
-
--   **Problem**: Application fails to start.
-
-    *   **Solution**: Ensure all dependencies are installed correctly by running `npm install`. Check for any error messages during installation and resolve them.
-
--   **Problem**: Firebase authentication not working.
-
-    *   **Solution**: Verify that your Firebase configuration values in the `.env` file are correct. Ensure that Firebase is properly set up in your project.
-
--   **Problem**: API data not loading.
-
-    *   **Solution**: Check if the API endpoint is correct and accessible. Ensure that there are no network issues preventing the data from loading.
-
 
