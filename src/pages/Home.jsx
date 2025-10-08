@@ -89,14 +89,14 @@ const Home = () => {
                   />
                   <h2>Health blogs</h2>
                 </div>
-                <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
+                {/* <div className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg">
                   <img
                     src="https://img.freepik.com/free-vector/product-quality-concept-illustration_114360-7301.jpg?uid=R204193115&ga=GA1.1.858881387.1749797072&semt=ais_hybrid&w=740"
                     className="w-90 h-40 rounded-lg object-contain"
                     alt="Plus"
                   />
                   <h2>Plus</h2>
-                </div>
+                </div> */}
                 <div
                   onClick={() => navigate("/offers")}
                   className="shadow-sm w-60 rounded-sm text-center p-3 m-3 font-bold text-lg"
