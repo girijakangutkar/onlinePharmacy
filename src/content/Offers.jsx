@@ -18,7 +18,7 @@ const Offers = () => {
       </h1>
       <p className="text-base md:text-lg text-gray-600">
         This page is currently under construction. We're working hard to bring
-        offer to you soon.
+        <b> Offer</b> to you soon.
       </p>
     </div>
     // </div>

@@ -24,6 +24,7 @@ import HealthBlogList from "../content/HealthBlogList";
 import LabTest from "../content/LabTest";
 import Offers from "../content/Offers";
 import ConsultDoctor from "../content/ConsultDoctor";
+import Plus from "../content/Plus";
 
 const AllRoutes = () => {
   return (
@@ -55,6 +56,7 @@ const AllRoutes = () => {
         <Route path="/consultDoctor" element={<ConsultDoctor />} />
         <Route path="/offers" element={<Offers />} />
         <Route path="/HealthBlogs" element={<HealthBlogList />} />
+        <Route path="/plus" element={<Plus />} />
         {/* not found routes */}
         <Route path="*" element={<NotFound />} />
       </Routes>

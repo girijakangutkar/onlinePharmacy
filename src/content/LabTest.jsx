@@ -18,7 +18,7 @@ const LabTest = () => {
       </h1>
       <p className="text-base md:text-lg text-gray-600">
         This page is currently under construction. We're working hard to bring
-        lab tests to you soon.
+        <b> Lab Tests</b> to you soon.
       </p>
     </div>
     // {/* </div> */}
