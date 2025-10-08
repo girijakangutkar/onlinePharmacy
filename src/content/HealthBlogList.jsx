@@ -2,28 +2,28 @@ import React from "react";
 
 const healthBlogs = [
   {
-    title: "Swimming Lessons Save Lives: What Parents Should Know",
+    title: "Shin Splints: Causes, Symptoms, and Treatment",
     image:
-      "https://www.health.harvard.edu/media/content/images/2024/06/swimming-lessons.jpg",
+      "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/shin_splints_bigbead/1800x1200_shin_splint_pain_bigbead.jpg?resize=780px:*&output-quality=75",
     description:
-      "Over 4,500 people die from drowning in the U.S. each year. This blog explains how swimming lessons can significantly reduce that risk, especially for children. It also offers guidance on choosing the right program and encouraging kids to develop water safety skills.",
-    url: "https://www.health.harvard.edu/blog/swimming-lessons-save-lives-what-parents-should-know",
+      "Shin splints are when you have pain anywhere along your shin bone or tibia. Your tibia is the big bone that starts under your knee and runs down the front of your lower leg. The pain happens where your muscles attach to your shins. Shin splints are a common problem when you exercise a lot in ways that put stress on your lower legs.",
+    url: "https://www.webmd.com/pain-management/cm/shin-splints-overview",
   },
   {
-    title: "How to Cope When Wildfire Smoke Affects Air Quality",
+    title: "How Much Do You Know About Your Feet Arches?",
     image:
-      "https://www.health.harvard.edu/media/content/images/2025/06/wildfire-smoke.jpg",
+      "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/brooks-sneakers-content-collection-renewal-SF430130-2-other/understanding-foot-arches-asset-1.jpg?resize=780px:*&output-quality=75",
     description:
-      "Wildfire smoke is becoming a major health concern due to climate change. This article outlines practical steps to protect yourself, such as using air purifiers, staying indoors, and wearing masks. It also discusses the long-term health effects of poor air quality.",
-    url: "https://www.health.harvard.edu/blog/wildfires-how-to-cope-when-smoke-affects-air-quality-and-health",
+      "Your foot's arch type is more than what your feet look like. An unsupported arch can lead to foot pain that makes it difficult to walk. In worst cases, an unsupported foot arch can cause long-term damage.",
+    url: "https://www.webmd.com/pain-management/features/cm/learn-about-feet-arches",
   },
   {
-    title: "What Can Magnesium Do for You?",
+    title: "Depression and Sadness: When to See the Doctor",
     image:
-      "https://www.health.harvard.edu/media/content/images/2025/06/magnesium-benefits.jpg",
+      "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/hpt_toc_redesign/depression_hpt_toc_redesign/1500x1500_depression_guide_chapter_1.jpg?resize=540px:*&output-quality=75",
     description:
-      "Magnesium supports heart, muscle, and bone health. While most people get enough from food, some may benefit from supplements. This blog explores how magnesium works in the body, signs of deficiency, and when to consider adding it to your routine.",
-    url: "https://www.health.harvard.edu/blog/what-can-magnesium-do-for-you-and-how-much-do-you-need",
+      "Is your sadness just a low mood that will pass in time, or is it depression? Some symptoms can help you know when it’s time to talk to your doctor.",
+    url: "https://www.webmd.com/depression/depression-sadness",
   },
 ];
 
